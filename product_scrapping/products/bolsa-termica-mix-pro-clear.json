@@ -1,0 +1,70 @@
+{
+  "id": 73030,
+  "sku": "bolsa-termica-mix-pro-clear",
+  "slug": "bolsa-termica-mix-pro-clear",
+  "name": "Bolsa Térmica Mix Pro - Clear",
+  "product_type_code": "lunchbagcd",
+  "description": "Chegou o acessório que faltava para a hora mais feliz do dia!\r\nA Bolsa Mix Pro auxilia a manter a temperatura da sua comida do jeito que você quer. Ela tem muitos compartimentos e divisórias: no compartimento maior, você pode guardar talheres, frutas, barrinhas, o kit completo; e no inferior, você pode levar aquela marmita caprichada para seu almoço. Humm, deu até fome! Ela tem um bolso frontal especial para a sua carteira, celular, chaves, tudo para ficar à mão na correria do dia. As alças são reforçadas e ela ainda conta com um bolso lateral para sua garrafinha, pra você não esquecer de sempre se hidratar. Ela é tudo!\r\nTestada em laboratório, sua Bolsa Térmica Mix Pro mantém a temperatura inicial da sua refeição por mais tempo, conservando-a quentinha ou fria até chegar ao destino! Atenção: A temperatura interna da nossa bolsa mix pode variar de acordo com as condições do ambiente, tempo de armazenamento e temperatura do que será conservado. É recomendado transferir seu alimento para um refrigerador ao chegar no destino final.\r\nO novo design traz várias atualizações de função e conforto para deixar sua Bolsa Térmica Mix Pro ainda mais incrível. Vem conferir alguns dos diferenciais e updates:\r\n- Novo tecido garantindo um modelo mais estruturado e resistente;\r\n- Alça de mão e de ombro mais resistentes e confortáveis.\r\nAh, e não esqueça de escolher a estampa que mais combina com você e de personalizar com o teu nome, é claro!\r\n\r\nInformações \r\n- Modelo de fácil abertura com mais espaço interno;\r\n- Divisória interna de redinha para alimentos/itens;\r\n- Contém 1 alça de mão e 1 alça regulável de ombro;\r\n- Bolso lateral para garrafa;\r\n\r\nComposição:\r\nTecido: 100% poliéster.\r\nForro: 100% policloreto de vinila\r\nEstrutura: espuma densa\r\nDetalhes: 100% poliuretano\r\n\r\nMedidas:  A: 24,5 x L: 17,5 x P: 25,5 cm     Litragem 10L\r\nMedidas (Bolso Principal)\r\nA: 20cm\r\nL: 12cm\r\nC: 24cm\r\nMedidas (Bolso Inferior)\r\nA: 4,5cm\r\nL: 17,5cm\r\nC: 25,5cm\r\nAltura da alça: 56cm\r\n\r\nCapacidade máxima: 3 kg \r\nLitragem: 10L\r\nPeso: 335g (produto vazio)\r\n\r\nInstruções de lavagem / cuidado:\r\nComo limpar sua Bolsa Mix Pro: Limpe com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar na sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua Bolsa Mix Pro incrível, siga corretamente as instruções de limpeza.\r\n\r\n✨ Cuidados com produtos em cores claras ✨\r\n\r\nNossas bolsas e bolsas térmicas em tons claros 👜🤍 merecem um cuidado especial no dia a dia! Evite o contato ou atrito com tecidos que soltam tinta, como calças jeans 👖 ou roupas escuras 🖤. Isso pode causar manchas permanentes devido à migração de cor. ⚠️ Manchas desse tipo são consideradas mau uso e não estão cobertas pela garantia.\r\n\r\n<b>Garantia:</b>\r\nO produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.\r\n\r\nA imagem do produto é ilustrativa e pode variar de tonalidade e cor de acordo com a configuração de cada tela.\r\n",
+  "price": "179.9",
+  "old_price": "239.9",
+  "default_case_device_id": 8842,
+  "devices": [
+    {
+      "id": 2890,
+      "name": "Bolsa Térmica Mix Pro",
+      "code": "lancheiramix",
+      "brand": "Bolsa Térmica Mix Pro"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Off White",
+      "color_code": "mixoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4017/original/gocase-1612-855-1.jpg",
+      "sizes": [
+        {
+          "device_id": 2890,
+          "case_device_id": 8843,
+          "size_name": "Bolsa Térmica Mix Pro",
+          "size_code": "lancheiramix",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-termica-mix-pro-clear/mixoffwhite-lancheiramix/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Marrom",
+      "color_code": "mixmarrom",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4018/original/gocase-1612-875-1_ajustado.jpg",
+      "sizes": [
+        {
+          "device_id": 2890,
+          "case_device_id": 8844,
+          "size_name": "Bolsa Térmica Mix Pro",
+          "size_code": "lancheiramix",
+          "in_stock": false,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-termica-mix-pro-clear/mixmarrom-lancheiramix/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preta",
+      "color_code": "mixpreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4016/original/gocase-1612-866-1.jpg",
+      "sizes": [
+        {
+          "device_id": 2890,
+          "case_device_id": 8842,
+          "size_name": "Bolsa Térmica Mix Pro",
+          "size_code": "lancheiramix",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-termica-mix-pro-clear/mixpreta-lancheiramix/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/bolsa-termica-mix-pro-clear/p/8842"
+}

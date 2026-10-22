@@ -1,0 +1,102 @@
+{
+  "id": 42786,
+  "sku": "mochila-de-carrinho-4-rodas-fun-clear",
+  "slug": "mochila-de-carrinho-4-rodas-fun-clear",
+  "name": "Mochila de Carrinho 4 Rodas Fun - Clear",
+  "product_type_code": "mochilarodinhabts",
+  "description": "Se você busca uma companheira para o dia a dia do seu filho(a) na escola, a mochila 4 rodas Fun é perfeita para você! \r\nProjetada com funcionalidade em mente, o modelo possui quatro rodinhas deslizantes com giro 360º e haste retrátil, permitindo manuseio e transporte do material escolar sem esforço e claro sem a necessidade de carregar cargas pesadas nas costas.\r\nA mochila 4 rodas Fun é feita de materiais duráveis e de alta qualidade. Possui um compartimento principal amplo com bolsinho interno pensado para acomodar muito bem um notebook até 15,6” polegadas. Ela também tem um bolsinho frontal perfeito para organizar todos os seus pertences. \r\nO modelo apresenta alças acolchoadas ajustáveis e velcro no painel traseiro, ideal para fixar as correias e evitar arrastar e sujar no chão. \r\nFala se ela não é a companhia perfeita que você estava buscando? E não esquece de escolher a estampa para deixar a cara do seu filho(a)! 😊\r\n\r\nDetalhes do produto:\r\nCarrinho com 4 rodas com giro 360º\r\nCarrinho com 2 níveis de altura\r\nAcompanha chaveiro pompom\r\nBolso principal com compartimento para notebooks até 15,6” polegadas\r\nBolso frontal com compartimentos para acessórios \r\nBolsos laterais para garrafas e itens\r\nAlça de mão superior para transporte rápido\r\nPuxadores duplos em todos os bolsos\r\nVelcro traseiro para fixação da correia das alças evitando arrastar e sujar\r\n\r\nComposição:\r\nTecido: 100% poliéster.\r\nForro: 100% poliéster.\r\nDimensão:\r\nA: 55 x L: 33 x P: 18,5 cm \r\nLitragem: 27L\r\nAltura alça: 48cm\r\n\r\n<b>Como cuidar da sua Mochila Fun</b>\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. \r\nNão deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? \r\n\r\nPara o melhor aproveitamento da sua mochila, recomendamos que o peso dos itens que serão inseridos dentro dela seja bem distribuído. Dessa forma, coloque os itens mais pesados mais próximo da haste do carrinho, no fundo da mochila, para que tenham maior apoio; e os itens mais leves podem ser inseridos mais à frente.\r\nPara deixar sua mochila incrível, siga corretamente as instruções para lavagem.\r\n\r\n✨ Cuidados com produtos em cores claras ✨\r\n\r\nNossas bolsas e bolsas térmicas em tons claros 👜🤍 merecem um cuidado especial no dia a dia! Evite o contato ou atrito com tecidos que soltam tinta, como calças jeans 👖 ou roupas escuras 🖤. Isso pode causar manchas permanentes devido à migração de cor. ⚠️ Manchas desse tipo são consideradas mau uso e não estão cobertas pela garantia.\r\n\r\n<b>Garantia:</b>\r\nO produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.\r\n\r\nA imagem do produto é ilustrativa e pode variar de tonalidade e cor de acordo com a configuração de cada tela.",
+  "price": "549.9",
+  "old_price": "649.9",
+  "default_case_device_id": 5589,
+  "devices": [
+    {
+      "id": 2791,
+      "name": "Mochila Rodinhas Fun",
+      "code": "rodinhasbts",
+      "brand": "Mochila Rodinhas Fun"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Azul Lavanda",
+      "color_code": "rodinhasazul",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1459/original/rodinhas-azul.jpg",
+      "sizes": [
+        {
+          "device_id": 2791,
+          "case_device_id": 5588,
+          "size_name": "Mochila Rodinhas Fun",
+          "size_code": "rodinhasbts",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-de-carrinho-4-rodas-fun-clear/rodinhasazul-rodinhasbts/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preta",
+      "color_code": "rodinhaspreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1458/original/rodinhas-preto.jpg",
+      "sizes": [
+        {
+          "device_id": 2791,
+          "case_device_id": 5589,
+          "size_name": "Mochila Rodinhas Fun",
+          "size_code": "rodinhasbts",
+          "in_stock": false,
+          "additional_price": "50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-de-carrinho-4-rodas-fun-clear/rodinhaspreta-rodinhasbts/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosé",
+      "color_code": "rodinhasrose",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4468/original/Seletor_Rose.jpg",
+      "sizes": [
+        {
+          "device_id": 2791,
+          "case_device_id": 9365,
+          "size_name": "Mochila Rodinhas Fun",
+          "size_code": "rodinhasbts",
+          "in_stock": true,
+          "additional_price": "50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-de-carrinho-4-rodas-fun-clear/rodinhasrose-rodinhasbts/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Marinho",
+      "color_code": "rodinhasmarinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3732/original/marinho-rodinhas-seletor.jpg",
+      "sizes": [
+        {
+          "device_id": 2791,
+          "case_device_id": 8552,
+          "size_name": "Mochila Rodinhas Fun",
+          "size_code": "rodinhasbts",
+          "in_stock": false,
+          "additional_price": "50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-de-carrinho-4-rodas-fun-clear/rodinhasmarinho-rodinhasbts/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Melancia",
+      "color_code": "rodinhasmelancia",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2775/original/rodinhas-melancia.jpg",
+      "sizes": [
+        {
+          "device_id": 2791,
+          "case_device_id": 7463,
+          "size_name": "Mochila Rodinhas Fun",
+          "size_code": "rodinhasbts",
+          "in_stock": false,
+          "additional_price": "50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-de-carrinho-4-rodas-fun-clear/rodinhasmelancia-rodinhasbts/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/mochila-de-carrinho-4-rodas-fun-clear/p/5589"
+}

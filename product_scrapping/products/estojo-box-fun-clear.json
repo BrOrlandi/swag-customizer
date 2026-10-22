@@ -1,0 +1,102 @@
+{
+  "id": 42789,
+  "sku": "estojo-box-fun-clear",
+  "slug": "estojo-box-fun-clear",
+  "name": "Estojo Box Fun - Clear",
+  "product_type_code": "estojobts",
+  "description": "Eu ouvi estojo box??? Sim, é oficial! ✨\r\nO Estojo box Fun acaba de chegar para ajudar a organizar todas as suas canetinhas e acessórios para a escola, faculdade ou trabalho. Você escolhe! \r\nPratico, espaçoso e estruturado o modelo possui uma divisória interna com elásticos para organizar tudo do jeitinho que você preferir! \r\nFalando em preferência, me conta que estampa você prefere para o seu estojo box? 😊\r\n\r\nDetalhes do produto:\r\nAmplo espaço interno\r\nAbertura total\r\nDivisória interna com elásticos para acomodar canetas e lápis\r\n\r\nComposição:\r\nTecido: 100% poliéster.\r\nForro: 100% poliéster.\r\nDimensão:\r\n A: 11 x L: 21 x P: 4,5 cm \r\n\r\n<b>Como cuidar do seu Estojo Fun</b>\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. \r\nNão deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? \r\nPara deixar seu estojo incrível, siga corretamente as instruções para lavagem.\r\n\r\n<b>Garantia:</b>\r\nO produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.\r\n\r\nA imagem do produto é ilustrativa e pode variar de tonalidade e cor de acordo com a configuração de cada tela.",
+  "price": "109.9",
+  "old_price": "159.9",
+  "default_case_device_id": 5582,
+  "devices": [
+    {
+      "id": 2793,
+      "name": "Estojo Fun",
+      "code": "estojobts",
+      "brand": "Estojo Fun"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Melancia",
+      "color_code": "estojomelancia",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1465/original/estojo-melancia.jpg",
+      "sizes": [
+        {
+          "device_id": 2793,
+          "case_device_id": 5584,
+          "size_name": "Estojo Fun",
+          "size_code": "estojobts",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/estojo-box-fun-clear/estojomelancia-estojobts/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosé",
+      "color_code": "estojorose",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4471/original/Estojo_Rose.jpg",
+      "sizes": [
+        {
+          "device_id": 2793,
+          "case_device_id": 9368,
+          "size_name": "Estojo Fun",
+          "size_code": "estojobts",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/estojo-box-fun-clear/estojorose-estojobts/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Marinho",
+      "color_code": "estojomarinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3957/original/01.jpg",
+      "sizes": [
+        {
+          "device_id": 2793,
+          "case_device_id": 8776,
+          "size_name": "Estojo Fun",
+          "size_code": "estojobts",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/estojo-box-fun-clear/estojomarinho-estojobts/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Lavanda",
+      "color_code": "estojoazul",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1464/original/estojo-azul.jpg",
+      "sizes": [
+        {
+          "device_id": 2793,
+          "case_device_id": 5583,
+          "size_name": "Estojo Fun",
+          "size_code": "estojobts",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/estojo-box-fun-clear/estojoazul-estojobts/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preto",
+      "color_code": "estojopreto",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1463/original/01.jpg",
+      "sizes": [
+        {
+          "device_id": 2793,
+          "case_device_id": 5582,
+          "size_name": "Estojo Fun",
+          "size_code": "estojobts",
+          "in_stock": false,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/estojo-box-fun-clear/estojopreto-estojobts/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/estojo-box-fun-clear/p/5583"
+}

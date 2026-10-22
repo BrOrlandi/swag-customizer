@@ -1,0 +1,86 @@
+{
+  "id": 46946,
+  "sku": "mala-de-bordo-trip-clear",
+  "slug": "mala-de-bordo-trip-clear",
+  "name": "Mala de Bordo Trip - Clear",
+  "product_type_code": "travelcasecd",
+  "description": "É OFICIAL: você não precisa mais se preocupar em checar a etiqueta de identificação da sua mala! A partir de agora as suas viagens não serão mais as mesmas com o nosso lançamento a Mala de bordo Trip. \r\nPensada com todos os detalhes que amamos e que garantem uma experiência única, afinal ela é personalizável. \r\nDesenvolvida com estrutura de ABS, que garantem resistência, 4 rodinhas duplas com performance suave e o grande diferencial, espaço frontal destinado a personalização deixando a sua companheira de viagem a sua cara. \r\nPerfeita tanto para ponte aérea quanto para a viagem dos sonhos, o modelo possui também amplo espaço interno, garantindo que todos os seus pertences fiquem organizados nos bolsinhos telados ou acomodados no espaço com faixa elástica ajustável. \r\nA segurança fica garantida com o seu cadeado fixo.\r\nLet's take a new TRIP? 😊\r\n\r\n<b>Detalhes do produto:</b>\r\n- Mala de bordo (20” polegadas);\r\n- Amplo espaço interno;\r\n- Alça de mão (topo) reforçada;\r\n- 1 compartimento principal (abre completamente com 2 puxadores de zíper flat);\r\n- 1 cadeado fixo;\r\n- 4 rodas duplas com giro 360º;\r\n- Haste metálica com dois pontos de trava;\r\n- Área de personalização no centro da mala;\r\n- 2 bolsos internos telados;\r\n- 1 faixa elástica ajustável em “X” para acomodar pertences;\r\n\r\n<b>Composição:</b>\r\nTecido: 100% Acrilonitrila Butadieno Estireno\r\nForro: 100% poliéster.\r\nMedidas:  A: 55 x L: 35 x P: 22 cm\r\nPeso: 2,8kg (mala vazia)\r\n<b>Capacidade máxima:</b> 10 kg (peso aprovado pela ANAC – Agência Nacional de Aviação Civil).\r\n\r\n<b>Instruções de lavagem/cuidado:</b>\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Em seguida, seque com um pano seco e limpo. Por último, deixe a mala secar em um ambiente arejado, longe de luz solar para que a secagem termine por completo. Não deixar de molho, ok? \r\nPara deixar sua mala sempre incrível, siga corretamente as instruções para limpeza.\r\n\r\n<b>Garantia: o produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.</b>\r\n\r\nA imagem do produto é ilustrativa e pode variar de tonalidade e cor de acordo com a configuração de cada tela.\r\n\r\n\r\n",
+  "price": "349.9",
+  "old_price": "499.9",
+  "default_case_device_id": 5945,
+  "devices": [
+    {
+      "id": 3087,
+      "name": "Mala Bordo Trip 20\"",
+      "code": "mala20",
+      "brand": "Mala de Bordo Trip"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Preta",
+      "color_code": "trippreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1752/original/preta_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 3087,
+          "case_device_id": 5945,
+          "size_name": "Mala Bordo Trip 20\"",
+          "size_code": "mala20",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mala-de-bordo-trip-clear/trippreta-mala20/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Turquesa",
+      "color_code": "tripturquesa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1754/original/turquesa_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 3087,
+          "case_device_id": 5947,
+          "size_name": "Mala Bordo Trip 20\"",
+          "size_code": "mala20",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mala-de-bordo-trip-clear/tripturquesa-mala20/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "tripoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3560/original/offwhite_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 3087,
+          "case_device_id": 8393,
+          "size_name": "Mala Bordo Trip 20\"",
+          "size_code": "mala20",
+          "in_stock": false,
+          "additional_price": "50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mala-de-bordo-trip-clear/tripoffwhite-mala20/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa",
+      "color_code": "triprosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1753/original/rosa_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 3087,
+          "case_device_id": 5946,
+          "size_name": "Mala Bordo Trip 20\"",
+          "size_code": "mala20",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mala-de-bordo-trip-clear/triprosa-mala20/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/mala-de-bordo-trip-clear/p/5945"
+}

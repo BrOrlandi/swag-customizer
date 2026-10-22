@@ -1,0 +1,9 @@
+node_modules
+.nuxt
+.output
+.git
+.env
+.env.*
+.data
+test-results
+product_scrapping

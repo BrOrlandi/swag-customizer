@@ -1,0 +1,7 @@
+{
+  "framework": null,
+  "buildCommand": "npm run generate",
+  "outputDirectory": ".output/public",
+  "rewrites": [{ "source": "/((?!_nuxt/|images/|data/|favicon).*)", "destination": "/index.html" }],
+  "headers": [{ "source": "/(.*)", "headers": [{ "key": "X-Content-Type-Options", "value": "nosniff" }, { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }] }]
+}

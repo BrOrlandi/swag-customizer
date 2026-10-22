@@ -1,0 +1,284 @@
+{
+  "id": 41005,
+  "sku": "garrafa-termica-mini-ebook-clear",
+  "slug": "garrafa-termica-mini-ebook-clear",
+  "name": "Garrafa Térmica Mini + Ebook - Clear",
+  "product_type_code": "garrafaebook",
+  "description": "Praticidade em tamanho compacto? Agora você tem! A Garrafa Térmica Fresh 350ml é a melhor escolha para quem quer manter a bebida na temperatura certa e não abre mão de levá-la para todo lugar! O tamanho compacto deixa mais espaço livre na tua bolsa 🙂. São apenas 16cm de altura mantendo sua bebida até 24h fria ou 12h quente, e tem mais um detalhe: ela tem uma alça para transportá-la. Incrível, né?\r\nPara manter sua bebida ainda mais gelada, recomendamos colocar gelo dentro da garrafa.  É só escolher a sua cor favorita e a estampa daquele personagem que você não vive sem. Beber água nunca foi tão divertido!\r\n\r\n\r\n<b>Dimensões e Composição</b>\r\n\r\n- Capacidade: 350ml\r\n- Composição: Aço inoxidável 304 (aço inoxidável 18/8)\r\n- Dimensões (com tampa com canudo): 16x7,3 cm\r\n- Dimensões (com tampa sem canudo): 16x7,3 cm\r\n- Altura do frasco (sem tampa): 13cm\r\n- Parede dupla isolada a vácuo\r\n- Frasco livre de BPA\r\n-  Opção de tampa com canudo interno e alça de silicone maleável\r\n- Para uma utilização correta, o canudo deve estar bem encaixado e a garrafa posicionada e aberta em 90º permitindo a saída correta do conteúdo\r\n- Frasco - aço inoxidável 304 (aço inoxidável 18/8), tampa e o canudo externo - Polipropileno e o canudo interno - Polietileno.\r\n\r\n<b>Como cuidar da sua Garrafa Fresh </b>\r\n\r\n1. Lavar o produto antes do primeiro uso;\r\n2. Não colocar o produto na geladeira ou no congelador, isso pode danificá-lo. Recomenda-se pré-aquecer ou pré-resfriar a garrafa com água antes de colocar o conteúdo, para mais tempo de conservação.\r\n3. Lave à mão. Não colocar na lava-louças. Não usar esponjas muito abrasivas ao lavar, risco de arranhar a estampa.\r\n4. Evitar contato com objetos pontiagudos e ásperos com risco de arranhar a estampa.\r\n5. Evitar contato com acetona, álcool e líquidos à base de cloro.\r\n6. Certifique-se de que a tampa está fechada e a borracha bem posicionada antes de carregar o produto, para evitar que o líquido vaze.\r\n7. Evitar o armazenamento de líquidos gaseificados na garrafa.\r\n8. Para garrafas que acompanham e-book, o e-book é enviado para o e-mail cadastrado no site após a emissão da nota fiscal.\r\n9. Essa oferta é válida na compra do Kit, em caso de cancelamento de um dos produtos haverá perda do benefício promocional.\r\n- OBS: Recomendamos esta garrafa para crianças acima de 4 anos, crianças menores podem ter dificuldade para manejar o produto.\r\n\r\n<b>Garantia:</b>\r\nO produto tem uma garantia de 90 dias contra defeitos de fabricação e 1 ano contra defeitos de personalização.\r\n\r\nA imagem do produto é ilustrativa e pode variar de tonalidade e cor de acordo com a configuração de cada tela.",
+  "price": "149.9",
+  "old_price": "189.9",
+  "default_case_device_id": 5596,
+  "devices": [
+    {
+      "id": 2824,
+      "name": "350ml - Tampa com canudo",
+      "code": "garrafamini350ebook",
+      "brand": "Garrafa Mini 350ml"
+    },
+    {
+      "id": 2692,
+      "name": "350ml - Tampa sem canudo",
+      "code": "garrafafresh350ebook",
+      "brand": "Garrafa Fresh 350ml"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Preta",
+      "color_code": "360minipreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1468/original/preto_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 5598,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minipreta-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Melancia",
+      "color_code": "360minimelancia",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1469/original/seletor_melancia.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 5597,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minimelancia-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Branca",
+      "color_code": "360minibranca",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1466/original/seletor_jpg_branco.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 5596,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minibranca-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Lilás",
+      "color_code": "360minililas",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3519/original/lilasmininew.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 8345,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": false,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minililas-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Vermelha",
+      "color_code": "360minivermelha",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3521/original/vermelhamininew.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 8346,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": false,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minivermelha-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "360minioffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3523/original/jpg_seletor_off.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 8348,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minioffwhite-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa",
+      "color_code": "360minirosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3522/original/seletor_jpg_rosa.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 8349,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minirosa-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Pink",
+      "color_code": "360minipink",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3832/original/seltor_pink_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 9670,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": false,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minipink-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Degradê Azul / Rosa",
+      "color_code": "360minidegradeazulerosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3887/original/jpg_degrade_seletor.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 9671,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": false,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minidegradeazulerosa-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul",
+      "color_code": "360miniazul",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1467/original/seletor_jpg_azul_claro.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 5599,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": true,
+          "additional_price": "40.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360miniazul-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Marinho",
+      "color_code": "360miniazulmarinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3520/original/seletor_marinnho.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 8347,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360miniazulmarinho-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Laranja",
+      "color_code": "360minilaranja",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3518/original/jpg_laranja_seletor.jpg",
+      "sizes": [
+        {
+          "device_id": 2824,
+          "case_device_id": 8344,
+          "size_name": "350ml - Tampa com canudo",
+          "size_code": "garrafamini350ebook",
+          "in_stock": false,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360minilaranja-garrafamini350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preta",
+      "color_code": "360freshminipreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2445/original/seletor-preto.jpg",
+      "sizes": [
+        {
+          "device_id": 2692,
+          "case_device_id": 7036,
+          "size_name": "350ml - Tampa sem canudo",
+          "size_code": "garrafafresh350ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360freshminipreta-garrafafresh350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul",
+      "color_code": "360freshminiazul",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2448/original/seletor-azul.jpg",
+      "sizes": [
+        {
+          "device_id": 2692,
+          "case_device_id": 7035,
+          "size_name": "350ml - Tampa sem canudo",
+          "size_code": "garrafafresh350ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360freshminiazul-garrafafresh350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Melancia",
+      "color_code": "360freshminimelancia",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2446/original/seletor-melancia.jpg",
+      "sizes": [
+        {
+          "device_id": 2692,
+          "case_device_id": 7034,
+          "size_name": "350ml - Tampa sem canudo",
+          "size_code": "garrafafresh350ebook",
+          "in_stock": false,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360freshminimelancia-garrafafresh350ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Branca",
+      "color_code": "360freshminibranca",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2447/original/seletor-branco.jpg",
+      "sizes": [
+        {
+          "device_id": 2692,
+          "case_device_id": 7037,
+          "size_name": "350ml - Tampa sem canudo",
+          "size_code": "garrafafresh350ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-mini-ebook-clear/360freshminibranca-garrafafresh350ebook/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/garrafa-termica-mini-ebook-clear/p/5596"
+}

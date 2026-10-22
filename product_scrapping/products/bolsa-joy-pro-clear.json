@@ -1,0 +1,118 @@
+{
+  "id": 47042,
+  "sku": "bolsa-joy-pro-clear",
+  "slug": "bolsa-joy-pro-clear",
+  "name": "Bolsa Joy Pro - Clear",
+  "product_type_code": "travelbagcd",
+  "description": "Para voar mais alto! A bolsa de viagem Joy é feita para colecionar experiências junto com você, sendo uma mala de mão perfeita. Além de espaço para roupas e sapatos, a Joy tem bolsos organizadores internos perfeitos para seus acessórios, eletrônicos e o que mais você precisar levar.\r\nAlém de alça de ombro removível e ajustável, o produto possui uma faixa carona traseira de fixação ao carrinho da mala de forma segura, facilitando o uso em aeroportos. E ah, o tamanho dela é aceito como mala de bordo. Perfeita, né?\r\n\r\nO novo design traz várias atualizações de função e conforto para deixar sua Bolsa Joy ainda mais incrível e pronta para qualquer aventura. Vem conferir alguns dos diferenciais e updates:\r\n- Bolsos internos para levar e organizar seus acessórios, incluindo compartimento acolchoado para notebooks;\r\n- Novo tecido garantindo um modelo mais estruturado e resistente;\r\n- Alça carona;\r\n- Alça de mão e de ombro mais resistentes e confortáveis.\r\n\r\n<b>Como limpar sua Bolsa Joy:</b> \r\nLimpe sua Bolsa Joy com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar na sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua Bolsa Joy incrível, siga corretamente as instruções para lavagem. \r\nOBS: A Bolsa Joy não é impermeável.\r\n\r\nDimensões:\r\nAltura: 29cm\r\nLargura: 39cm\r\nProfundidade: 20cm\r\n\r\nCompartimento interno estruturado: 34x22cm - compatível com notebooks de até 14’’.\r\n*Compare sempre o tamanho do seu notebook com o tamanho do compartimento.\r\n\r\nCapacidade: 8kg\r\nLitragem: 24L\r\n\r\nMateriais:\r\nExterno: 100% Poliéster.\r\nInterno: 100% Poliéster.\r\nAlças de mão e etiquetas: 100% Policloreto de Vinila.\r\n\r\n* Imagens meramente ilustrativas, o produto final pode sofrer uma leve variação de cor/tonalidade.\r\n\r\n✨ Cuidados com produtos em cores claras ✨\r\n\r\nNossas bolsas e bolsas térmicas em tons claros 👜🤍 merecem um cuidado especial no dia a dia! Evite o contato ou atrito com tecidos que soltam tinta, como calças jeans 👖 ou roupas escuras 🖤. Isso pode causar manchas permanentes devido à migração de cor. ⚠️ Manchas desse tipo são consideradas mau uso e não estão cobertas pela garantia.\r\n\r\nGarantia: O produto tem uma garantia de 90 dias contra defeitos de fabricação e personalização.",
+  "price": "229.9",
+  "old_price": "329.9",
+  "default_case_device_id": 5565,
+  "devices": [
+    {
+      "id": 2763,
+      "name": "Bolsa Joy Pro",
+      "code": "malajoy",
+      "brand": "Bolsa Joy Pro"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Azul Lavanda",
+      "color_code": "joyazul",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2322/original/azul-seletor-joy.jpg",
+      "sizes": [
+        {
+          "device_id": 2763,
+          "case_device_id": 6880,
+          "size_name": "Bolsa Joy Pro",
+          "size_code": "malajoy",
+          "in_stock": true,
+          "additional_price": "-40.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-joy-pro-clear/joyazul-malajoy/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa",
+      "color_code": "sarjarosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1425/original/pro_rosa_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 2763,
+          "case_device_id": 5564,
+          "size_name": "Bolsa Joy Pro",
+          "size_code": "malajoy",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-joy-pro-clear/sarjarosa-malajoy/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preta",
+      "color_code": "sarjapreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1424/original/preta_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 2763,
+          "case_device_id": 5565,
+          "size_name": "Bolsa Joy Pro",
+          "size_code": "malajoy",
+          "in_stock": true,
+          "additional_price": "-40.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-joy-pro-clear/sarjapreta-malajoy/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Vinho",
+      "color_code": "joyvinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4072/original/joyvinhoaa.jpg",
+      "sizes": [
+        {
+          "device_id": 2763,
+          "case_device_id": 8898,
+          "size_name": "Bolsa Joy Pro",
+          "size_code": "malajoy",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-joy-pro-clear/joyvinho-malajoy/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "joyoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2317/original/joyoffwhitenovo.jpg",
+      "sizes": [
+        {
+          "device_id": 2763,
+          "case_device_id": 6870,
+          "size_name": "Bolsa Joy Pro",
+          "size_code": "malajoy",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-joy-pro-clear/joyoffwhite-malajoy/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Marrom",
+      "color_code": "joymarrom",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2324/original/marrom3652489561.jpg",
+      "sizes": [
+        {
+          "device_id": 2763,
+          "case_device_id": 6871,
+          "size_name": "Bolsa Joy Pro",
+          "size_code": "malajoy",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-joy-pro-clear/joymarrom-malajoy/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/bolsa-joy-pro-clear/p/6880"
+}

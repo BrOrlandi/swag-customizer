@@ -1,0 +1,54 @@
+{
+  "id": 75204,
+  "sku": "mochila-executiva-clear",
+  "slug": "mochila-executiva-slim-clear",
+  "name": "Mochila Executiva Slim - Clear",
+  "product_type_code": "backpackcd",
+  "description": "A Mochila Executiva Slim é a escolha perfeita para quem busca praticidade e elegância no dia a dia de trabalho. Com um design funcional e moderno, ela foi criada para tornar sua rotina mais organizada e confortável.😀\r\nEla conta com alça carona, ideal para ser fixada na mala durante viagens, garantindo facilidade no transporte. Possui um compartimento acolchoado para notebooks de até 15,6\", dois bolsos frontais para acesso rápido, porta-garrafa e um bolsinho interno para pequenos pertences. Além disso, suas alças acolchoadas proporcionam mais conforto durante o uso.\r\nCombinação perfeita de funcionalidade e estilo, a Mochila Executiva Slim é sua parceira ideal para o trabalho e além!🚀\r\n\r\n<b>Informações relevantes:</b>\r\nAlça de mão superior para transporte rápido.\r\nBolso frontal para pequenos pertences.\r\nBolso principal com compartimento para notebooks até 15.6\".\r\nBolso para acomodar garrafas.\r\nBolso interno para pequenos pertences.\r\nAlça carona para prender na mala de rodinha.\r\n\r\n<b>Composição:</b>\r\n<b>Material:</b>  Tecido e Forro: 100% poliéster\r\n<b>Medidas:</b> 45 x 34 x 15 cm\r\n<b>Litragem:</b> 22,9 L (aproximadamente)\r\n<b>Capacidade máxima:</b> 5Kg\r\n<b>Instruções de lavagem / cuidado:</b>\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua Mochila Executiva Slim sempre incrível, siga corretamente as instruções para limpeza.\r\n\r\n✨ Cuidados com produtos em cores claras ✨\r\n\r\nNossas bolsas e bolsas térmicas em tons claros 👜🤍 merecem um cuidado especial no dia a dia! Evite o contato ou atrito com tecidos que soltam tinta, como calças jeans 👖 ou roupas escuras 🖤. Isso pode causar manchas permanentes devido à migração de cor. ⚠️ Manchas desse tipo são consideradas mau uso e não estão cobertas pela garantia.\r\n\r\n<b>Garantia:</b> o produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.\r\n",
+  "price": "249.9",
+  "old_price": "289.9",
+  "default_case_device_id": 8921,
+  "devices": [
+    {
+      "id": 4549,
+      "name": "Mochila Executiva",
+      "code": "mochilaexecutiva",
+      "brand": "Mochila Executiva"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Chumbo",
+      "color_code": "executivachumbo",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4095/original/executivachumbojpg.jpg",
+      "sizes": [
+        {
+          "device_id": 4549,
+          "case_device_id": 8921,
+          "size_name": "Mochila Executiva",
+          "size_code": "mochilaexecutiva",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-executiva-clear/executivachumbo-mochilaexecutiva/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preta",
+      "color_code": "executivapreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4094/original/executivapretajpg.jpg",
+      "sizes": [
+        {
+          "device_id": 4549,
+          "case_device_id": 8922,
+          "size_name": "Mochila Executiva",
+          "size_code": "mochilaexecutiva",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-executiva-clear/executivapreta-mochilaexecutiva/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/mochila-executiva-slim-clear/p/8922"
+}

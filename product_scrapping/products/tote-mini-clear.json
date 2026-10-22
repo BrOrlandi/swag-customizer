@@ -1,0 +1,134 @@
+{
+  "id": 74278,
+  "sku": "tote-mini-clear",
+  "slug": "tote-mini-clear",
+  "name": "Tote Mini - Clear",
+  "product_type_code": "totebagcd",
+  "description": "A Bolsa Tote Mini é a escolha perfeita para quem busca praticidade sem abrir mão do estilo. Com design funcional, ela foi pensada para tornar seu dia a dia mais fácil e organizado.😍\r\nEla conta com alça carona para ser fixada na mala durante as viagens, facilitando o transporte. Por dentro, você encontra um porta-garrafa suporta garrafas até 650ml, um porta-notebook acolchoado e um bolsinho interno para itens pequenos. Além disso, um bolso frontal oferece mais espaço e acessibilidade para seus objetos essenciais.😄\r\nCombinando praticidade e elegância, a Bolsa Tote Mini é ideal para acompanhar você em qualquer ocasião! 🌟\r\n\r\n<b>OBS:</b> O tamanho do notebook varia entre os fabricantes. A bolsa Mini acomoda modelos de <b>até 24 cm alt  × 36 cm larg × 2 cm profundidade.</b>\r\n\r\n<b>Informações relevantes:</b>\r\nAlça de mão superior para transporte rápido.\r\nBolso frontal para pequenos pertences.\r\nBolso principal com compartimento para notebooks.\r\nBolso para acomodar garrafas.\r\nBolso interno para pequenos pertences.\r\nAlça carona para prender na mala de rodinha.\r\n\r\n<b>Composição:</b>\r\n<b>Material:</b> Tecido e Forro 100% poliéster.\r\n<b>Medidas:</b> 28 cm altura × 38,5 cm largura × 13,5 cm profundidade\r\n<b>Litragem:</b> 14,5L (aproximadamente)\r\n<b>Capacidade máxima:</b> 3kg\r\n<b>Instruções de lavagem / cuidado:</b>\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar no sol, ok? Para deixar sua Tote Bag Mini sempre incrível, siga corretamente as instruções para limpeza.\r\n\r\n✨ Cuidados com produtos em cores claras ✨\r\n\r\nNossas bolsas e bolsas térmicas em tons claros 👜🤍 merecem um cuidado especial no dia a dia! Evite o contato ou atrito com tecidos que soltam tinta, como calças jeans 👖 ou roupas escuras 🖤. Isso pode causar manchas permanentes devido à migração de cor. ⚠️ Manchas desse tipo são consideradas mau uso e não estão cobertas pela garantia.\r\n\r\n<b>Garantia:</b> O produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.\r\n",
+  "price": "199.9",
+  "old_price": "269.9",
+  "default_case_device_id": 7900,
+  "devices": [
+    {
+      "id": 4044,
+      "name": "Mini Tote",
+      "code": "minitotebag",
+      "brand": "Tote Mini"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Off White",
+      "color_code": "minitoteoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3177/original/gocase-1612-939-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4044,
+          "case_device_id": 7898,
+          "size_name": "Mini Tote",
+          "size_code": "minitotebag",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/tote-mini-clear/minitoteoffwhite-minitotebag/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preto / Alça Caramelo",
+      "color_code": "minitotepretocaramelo",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3179/original/pretaaaafac.jpg",
+      "sizes": [
+        {
+          "device_id": 4044,
+          "case_device_id": 7900,
+          "size_name": "Mini Tote",
+          "size_code": "minitotebag",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/tote-mini-clear/minitotepretocaramelo-minitotebag/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Lilás",
+      "color_code": "minitotelilas",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3175/original/imgmaterial-minitote-oficial.jpg",
+      "sizes": [
+        {
+          "device_id": 4044,
+          "case_device_id": 7897,
+          "size_name": "Mini Tote",
+          "size_code": "minitotebag",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/tote-mini-clear/minitotelilas-minitotebag/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Cinza",
+      "color_code": "minitotecinza",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3172/original/_LF_1573__1_cinza_jpg_seletor_mini.jpg",
+      "sizes": [
+        {
+          "device_id": 4044,
+          "case_device_id": 7894,
+          "size_name": "Mini Tote",
+          "size_code": "minitotebag",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/tote-mini-clear/minitotecinza-minitotebag/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Marrom",
+      "color_code": "minitotemarrom",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3176/original/marrofactt.jpg",
+      "sizes": [
+        {
+          "device_id": 4044,
+          "case_device_id": 7899,
+          "size_name": "Mini Tote",
+          "size_code": "minitotebag",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/tote-mini-clear/minitotemarrom-minitotebag/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preto",
+      "color_code": "minitotepreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3178/original/gocase-1612-946-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4044,
+          "case_device_id": 7892,
+          "size_name": "Mini Tote",
+          "size_code": "minitotebag",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/tote-mini-clear/minitotepreta-minitotebag/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Vinho",
+      "color_code": "minitotevinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3173/original/vinhofacaa.jpg",
+      "sizes": [
+        {
+          "device_id": 4044,
+          "case_device_id": 7895,
+          "size_name": "Mini Tote",
+          "size_code": "minitotebag",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/tote-mini-clear/minitotevinho-minitotebag/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/tote-mini-clear/p/7894"
+}

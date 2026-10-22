@@ -1,0 +1,85 @@
+{
+  "id": 9939079332131,
+  "handle": "formula-4-mag-magnesio",
+  "title": "Fórmula 4Mag (Magnésio) - 30 dias",
+  "vendor": "Rituária",
+  "product_type": "unitários",
+  "description": "<p>O 4Mag da Rituária é um suplemento nutricional avançado formulado para proporcionar suporte abrangente à <strong>saúde do cérebro, músculos, ossos e sistema nervoso</strong>. Este suplemento combina quatro formas altamente biodisponíveis de magnésio: <i style=\"mso-bidi-font-style: normal;\"><span style=\"font-size: 10.0pt; line-height: 200%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Calibri; mso-ansi-language: PT-BR; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Malato, Bisglicinato, Citrato e Taurato de magnésio</span></i>,  oferecendo os benefícios sinérgicos desses compostos para promover o bem-estar geral. A fórmula ainda conta com Vitamina B6 e Treonina para potencializar a absorção e o efeito relaxante. </p>\n<p><meta charset=\"utf-8\"><strong>✔️ Melhora da memória, foco e clareza mental</strong><br data-end=\"431\" data-start=\"428\"><strong>✔️ <meta charset=\"utf-8\">Redução do estresse e relaxamento profundo</strong><br data-end=\"446\" data-start=\"443\"><strong>✔️ Melhora da cognição</strong><br data-end=\"471\" data-start=\"468\"><strong>✔️ Redução da fadiga mental</strong><br data-end=\"496\" data-start=\"493\"><strong>✔️ Mais saúde muscular e óssea</strong><br data-end=\"529\" data-start=\"526\"><strong>✔️ 100% quelados</strong></p>\n<ul></ul>\n<p>É livre de glúten, amido, açúcar e 100% vegana com cápsulas vegetais.</p>",
+  "tags": "",
+  "options": [
+    {
+      "id": 12460766626083,
+      "product_id": 9939079332131,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 54012235481379,
+      "title": "Default Title",
+      "sku": "FORMULA-4-MAGNESIO-SHOP",
+      "price": "79.90",
+      "compare_at_price": "129.00",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "image_id": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/16_ae31ce95-7bdb-403c-a808-fe67f31c8203.png?v=1770863550"
+    }
+  ],
+  "images": [
+    {
+      "id": 51268546953507,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/16_ae31ce95-7bdb-403c-a808-fe67f31c8203.png?v=1770863550",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 49970141462819,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/61.jpg?v=1770863550",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50617473532195,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_2_copiar_5_58ba96c9-8540-4729-860b-3742b093b055.jpg?v=1770863550",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50617473597731,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_3_copiar_4_85141eca-1f1e-463c-846d-61cdefdce722.jpg?v=1770863550",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50617473630499,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_4_copiar_7_e5f64127-640c-433e-99f7-a96799627e84.jpg?v=1770863550",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50617473564963,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_4_copiar_8_34346fe0-89f9-41bb-9901-2c2c663ced3f.jpg?v=1770863550",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50617473663267,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_6_copiar_4_83d2e545-80e0-4417-9b37-966d35bc303d.jpg?v=1770863550",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50617473696035,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_9_de3f7dec-3589-4a83-b14c-b9e1b67a79ff.jpg?v=1770863550",
+      "alt": null,
+      "variant_ids": []
+    }
+  ],
+  "source_url": "https://www.rituaria.com.br/products/formula-4-mag-magnesio"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 9786560512291,
+  "handle": "formula-prebiotica",
+  "title": "Fórmula Prebiótica | 200 g",
+  "vendor": "Rituária",
+  "product_type": "unitários",
+  "description": "<p class=\"\" data-end=\"177\" data-start=\"126\"><meta charset=\"utf-8\"><strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Promove o <strong data-end=\"175\" data-start=\"136\">equilíbrio da microbiota intestinal</strong></p>\n<p class=\"\" data-end=\"245\" data-start=\"180\"><strong data-end=\"192\" data-start=\"180\"><meta charset=\"utf-8\"> <strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Desincha</strong>, melhora o conforto abdominal e regula o intestino</p>\n<p class=\"\" data-end=\"310\" data-start=\"248\"><meta charset=\"utf-8\"><strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Favorece a <strong data-end=\"308\" data-start=\"259\">digestão e absorção de vitaminas e nutrientes</strong></p>\n<p class=\"\" data-end=\"357\" data-start=\"313\"><meta charset=\"utf-8\"><strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Contribui para o <strong data-end=\"355\" data-start=\"330\">controle da saciedade</strong></p>\n<p class=\"\" data-end=\"416\" data-start=\"360\"><strong data-end=\"383\" data-start=\"360\"><meta charset=\"utf-8\"> <strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Reforça a imunidade</strong> e ajuda a prevenir inflamações</p>\n<p class=\"\" data-end=\"484\" data-start=\"419\"><meta charset=\"utf-8\"><strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Atua positivamente no <strong data-end=\"482\" data-start=\"441\">sistema nervoso e bem-estar emocional</strong></p>\n<p class=\"\" data-end=\"565\" data-start=\"487\"><meta charset=\"utf-8\"><strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Com prebióticos naturais como <strong data-end=\"563\" data-start=\"517\">Agar, Psyllium, Inulina, Goma Acácia e FOS</strong></p>\n<p class=\"\" data-end=\"653\" data-start=\"568\"><meta charset=\"utf-8\"><strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Fórmula <strong data-end=\"591\" data-start=\"576\">100% vegana</strong>, livre de glúten, açúcar, conservantes e aromas artificiais</p>\n<p class=\"\" data-end=\"746\" data-start=\"656\"><meta charset=\"utf-8\"><strong data-end=\"695\" data-start=\"669\"><strong><span>✔  </span></strong></strong>Reflexos visíveis na <strong data-end=\"685\" data-start=\"677\">pele</strong>, auxiliando em casos de melasma, acne e inflamações cutâneas</p>\n<p class=\"\" data-end=\"695\" data-start=\"658\"><meta charset=\"utf-8\"><strong data-end=\"695\" data-start=\"669\"><strong><span>✔ </span></strong></strong>1 pote possui 200g (rende 30 porções) <meta charset=\"utf-8\"></p>",
+  "tags": "unitários",
+  "options": [
+    {
+      "id": 12406544662819,
+      "product_id": 9786560512291,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 53628347810083,
+      "title": "Default Title",
+      "sku": "PREBRIT_SHOP",
+      "price": "99.90",
+      "compare_at_price": "149.00",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "image_id": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/13_17358887-3ad9-4dd3-af7c-1d3fb2988a0c.png?v=1770863668"
+    }
+  ],
+  "images": [
+    {
+      "id": 51268546920739,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/13_17358887-3ad9-4dd3-af7c-1d3fb2988a0c.png?v=1770863668",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 48562162237731,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/18-1-1024x1024.png?v=1770863668",
+      "alt": "prebióticos em capsulas",
+      "variant_ids": []
+    },
+    {
+      "id": 50065389846819,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/RI_-_ELEMENTOS_DO_SITE_30_1.png?v=1770863668",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50625357644067,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_2_copiar_4_e5a8e181-5f9f-47a0-85e7-cba0abd734bf.jpg?v=1770863668",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50625357414691,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_3_copiar_3_6f98237c-853c-47f1-84d0-4845640cc9d1.jpg?v=1770863668",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50625357447459,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_7_eadeeb8a-6629-43f2-b746-e3f2cd1c4fbd.jpg?v=1770863668",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 48562039357731,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/ELEMENTOS-DO-SITE-17.png?v=1770863668",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50625357480227,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_8_07c8cf0e-3d8f-4a50-ae8e-1d9980198bef.jpg?v=1770863668",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 48562166989091,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/ELEMENTOS-DO-SITE-19-1024x1024_14a23120-99e0-4d8d-ae90-d7b6ce88128a.png?v=1770863668",
+      "alt": null,
+      "variant_ids": []
+    }
+  ],
+  "source_url": "https://www.rituaria.com.br/products/formula-prebiotica"
+}

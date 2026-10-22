@@ -1,0 +1,118 @@
+{
+  "id": 41259,
+  "sku": "copo-termico-vibe-clear",
+  "slug": "copo-termico-vibe-clear",
+  "name": "Copo Térmico + Ebook - Clear",
+  "product_type_code": "copoebook",
+  "description": "Café frio e cerveja quente nunca mais! O Copo Térmico Vibe comporta até 470ml e mantém sua bebida quente por até 45 minutos e fria por até 4 horas. Seu novo companheiro para aquele churrasco no fim de semana, ou cafézinho no fim de tarde, seja qual for a ocasião, seu Copo Térmico vai deixar tudo mais gostoso. \r\n\r\nAgora vem a melhor parte: está disponível em várias estampas que agradam desde os minimalistas até os pais de pets e amantes de futebol. E claro, isso tudo sem mencionar todos os personagens mais amados que fazem parte do nosso portfólio.\r\n\r\nQuer uma dica? Para manter sua bebida ainda mais gelada, recomendamos colocar gelo dentro do copo.\r\n\r\nDimensões e Composição\r\n\r\n- Capacidade: 470ml\r\n- Composição: Aço inoxidável 304 (aço inoxidável 18/8)\r\n- Dimensões: 16x9,3 cm\r\n- Parede dupla isolada a vácuo\r\n- Frasco livre de BPA\r\n- Mantém o conteúdo **frio por até 4 horas**, **quente por até 45 minutos**\r\n- OBS: Não acompanha tampa, disponível para venda separadamente\r\n\r\n<b>Como cuidar do seu Copo Térmico</b>\r\n\r\n1. Lavar o produto antes do primeiro uso;\r\n2. Não colocar o produto na geladeira ou no congelador, isso pode danificá-lo. Recomenda-se pré-aquecer ou pré-resfriar o copo com água antes de colocar o conteúdo, para mais tempo de conservação.\r\n3. Lave à mão. Não colocar na lava-louças. Não usar esponjas muito abrasivas ao lavar, risco de arranhar a estampa.\r\n4. Evitar contato com objetos pontiagudos e ásperos com risco de arranhar a estampa.\r\n5. Evitar contato com acetona, álcool e líquidos à base de cloro.\r\n6. Evitar o armazenamento de líquidos gaseificados no copo.\r\n7. Para copos que acompanham e-book, o e-book é enviado para o e-mail cadastrado no site após a emissão da nota fiscal.\r\n8. Essa oferta é válida na compra do Kit, em caso de cancelamento de um dos produtos haverá perda do benefício promocional.\r\n\r\n<b>Garantia:</b>\r\nO produto tem uma garantia de 90 dias contra defeitos de fabricação e 1 ano contra defeitos de personalização.\r\n\r\nA imagem do produto é ilustrativa e pode variar de tonalidade e cor de acordo com a configuração de cada tela.",
+  "price": "79.9",
+  "old_price": "149.9",
+  "default_case_device_id": 5569,
+  "devices": [
+    {
+      "id": 2765,
+      "name": "470ml",
+      "code": "copovibe470ebook",
+      "brand": "Copo Térmico Life"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Branco",
+      "color_code": "360vibebranco",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1430/original/seletor-branco.jpg",
+      "sizes": [
+        {
+          "device_id": 2765,
+          "case_device_id": 5569,
+          "size_name": "470ml",
+          "size_code": "copovibe470ebook",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-vibe-clear/360vibebranco-copovibe470ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Verde Militar",
+      "color_code": "360vibeverdemilitar",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2941/original/verdemilitar.jpg",
+      "sizes": [
+        {
+          "device_id": 2765,
+          "case_device_id": 7633,
+          "size_name": "470ml",
+          "size_code": "copovibe470ebook",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-vibe-clear/360vibeverdemilitar-copovibe470ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Marinho",
+      "color_code": "360vibeazulmarinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2940/original/seletor_azul_marinho_st.jpg",
+      "sizes": [
+        {
+          "device_id": 2765,
+          "case_device_id": 7631,
+          "size_name": "470ml",
+          "size_code": "copovibe470ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-vibe-clear/360vibeazulmarinho-copovibe470ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Vinho",
+      "color_code": "360vibevinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2942/original/vinho.jpg",
+      "sizes": [
+        {
+          "device_id": 2765,
+          "case_device_id": 7632,
+          "size_name": "470ml",
+          "size_code": "copovibe470ebook",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-vibe-clear/360vibevinho-copovibe470ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Verde",
+      "color_code": "360vibeverde",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4672/original/verde.jpg",
+      "sizes": [
+        {
+          "device_id": 2765,
+          "case_device_id": 9758,
+          "size_name": "470ml",
+          "size_code": "copovibe470ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-vibe-clear/360vibeverde-copovibe470ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preto",
+      "color_code": "360vibepreto",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1431/original/seletor-preto.jpg",
+      "sizes": [
+        {
+          "device_id": 2765,
+          "case_device_id": 5568,
+          "size_name": "470ml",
+          "size_code": "copovibe470ebook",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-vibe-clear/360vibepreto-copovibe470ebook/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/copo-termico-vibe-clear/p/5568"
+}

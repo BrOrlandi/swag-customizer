@@ -1,0 +1,103 @@
+{
+  "id": 46806,
+  "sku": "capa-para-notebook-slim-clear",
+  "slug": "capa-para-notebook-slim-clear",
+  "name": "Capa para Notebook Slim - Clear",
+  "product_type_code": "clutchcd",
+  "description": "Chegaram as novas capas para notebook Slim 14\" polegadas e Slim 15.6\" polegadas, \r\npensadas para quem ama organização e precisa de espaço para levar todos os seus acessórios tech. Confeccionadas em material resistente, elas possuem vários bolsinhos funcionais, acomodando muito bem seu notebook e deixando cabos e carregadores à mão para uso na faixa elástica funcional. Também possuem compartimentos profundos, perfeitos para acomodar pastas e documentos. Tudo, né? Vem conhecer os detalhes das suas novas companheiras!\r\n\r\nDetalhes:\r\n1 compartimento principal (abre completamente com 2 puxadores de zíper);\r\n1 bolso frontal de fácil acesso;\r\n1 bolso interno acolchoado para acomodação de notebook até 14” polegadas;\r\n1 bolso interno profundo para acomodação de pastas e documentos;\r\n2 bolsos internos telados;\r\n1 faixa elástica para acomodar pequenos pertences.\r\n\r\nSlim 14\":\r\nComposição:\r\nTecido: 100% poliéster.\r\nForro: 100% poliéster.\r\n\r\nMedidas:  A: 35 x L: 25 x P: 2 cm\r\n\r\nCapacidade máxima: 1,4 kg (peso característico de um notebook de 14” polegadas)\r\n\r\nSlim 15.6\":\r\nComposição:\r\nTecido: 100% poliéster.\r\nForro: 100% poliéster.\r\n\r\nMedidas: A: 39 x L: 27 x P: 2 cm \r\n\r\nCapacidade máxima: 1,81 kg (peso característico de um notebook de 15,6” polegadas)\r\n\r\nInstruções de lavagem / cuidado:\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua capa de notebook incrível, siga corretamente as instruções para lavagem.\r\n\r\n<b>Garantia: o produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.</b>\r\n\r\nA imagem do produto é ilustrativa e pode variar de tonalidade e cor de acordo com a configuração de cada tela.\r\n\r\nObservação: Para verificar se o seu notebook é compatível com nossa capa, consulte as dimensões no carrossel de imagens do produto.",
+  "price": "99.9",
+  "old_price": "199.9",
+  "default_case_device_id": 5884,
+  "devices": [
+    {
+      "id": 2922,
+      "name": "Slim 14\"",
+      "code": "capanotebook14",
+      "brand": "Capa para Notebook Slim"
+    },
+    {
+      "id": 2923,
+      "name": "Slim 15.6\"",
+      "code": "capanotebook15",
+      "brand": "Capa para Notebook Slim"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Capa para Notebook Preta",
+      "color_code": "sleevepreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1554/original/seletor-sleeve-preta_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 2922,
+          "case_device_id": 5884,
+          "size_name": "Slim 14\"",
+          "size_code": "capanotebook14",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/capa-para-notebook-slim-clear/sleevepreta-capanotebook14/mockup"
+        },
+        {
+          "device_id": 2923,
+          "case_device_id": 5747,
+          "size_name": "Slim 15.6\"",
+          "size_code": "capanotebook15",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/capa-para-notebook-slim-clear/sleevepreta-capanotebook15/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Capa para Notebook Azul",
+      "color_code": "sleeveazul",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1556/original/seletor-sleeve-azul_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 2922,
+          "case_device_id": 5751,
+          "size_name": "Slim 14\"",
+          "size_code": "capanotebook14",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/capa-para-notebook-slim-clear/sleeveazul-capanotebook14/mockup"
+        },
+        {
+          "device_id": 2923,
+          "case_device_id": 5749,
+          "size_name": "Slim 15.6\"",
+          "size_code": "capanotebook15",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/capa-para-notebook-slim-clear/sleeveazul-capanotebook15/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Capa para Notebook Rosa",
+      "color_code": "sleeverosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1555/original/seletor-sleeve-rosa_jpg.jpg",
+      "sizes": [
+        {
+          "device_id": 2922,
+          "case_device_id": 5750,
+          "size_name": "Slim 14\"",
+          "size_code": "capanotebook14",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/capa-para-notebook-slim-clear/sleeverosa-capanotebook14/mockup"
+        },
+        {
+          "device_id": 2923,
+          "case_device_id": 5748,
+          "size_name": "Slim 15.6\"",
+          "size_code": "capanotebook15",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/capa-para-notebook-slim-clear/sleeverosa-capanotebook15/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/capa-para-notebook-slim-clear/p/5884"
+}

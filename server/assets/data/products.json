@@ -1,0 +1,3210 @@
+[
+  {
+    "id": "bolsa-termica-mix-pro-clear",
+    "name": "Bolsa Térmica Mix Pro",
+    "category": "acessorios",
+    "basePrice": 179.9,
+    "oldPrice": 239.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/bc19b4a171c3e3364a5afd97.webp",
+    "variants": [
+      {
+        "id": "mixoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8843",
+            "name": "Bolsa Térmica Mix Pro",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/bc19b4a171c3e3364a5afd97.webp"
+          }
+        ]
+      },
+      {
+        "id": "mixmarrom",
+        "colorName": "Marrom",
+        "colorHex": "#6b4226",
+        "sizes": [
+          {
+            "id": "8844",
+            "name": "Bolsa Térmica Mix Pro",
+            "inStock": false,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/001da313ce80c331ec496b34.webp"
+          }
+        ]
+      },
+      {
+        "id": "mixpreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "8842",
+            "name": "Bolsa Térmica Mix Pro",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/8619e8881d2a262c8112cbe4.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/bolsa-termica-mix-pro-clear/p/8842",
+    "dimensions": {
+      "height_cm": 24.5,
+      "width_cm": 25.5,
+      "depth_cm": 17.5,
+      "description": "Bolsa térmica estruturada. Tecido 100% poliéster, forro 100% PVC, espuma densa, detalhes em poliuretano. 24,5cm(A)×25,5cm(C)×17,5cm(L), 10L, max 3kg, 335g vazia. Bolso principal: 20×12×24cm. Bolso inferior: 4,5×17,5×25,5cm. Alça: 56cm."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Off White",
+        "colorCode": "mixoffwhite",
+        "imageUrl": "/images/products/2c4a4184b596c7623ec8e247.webp"
+      },
+      {
+        "colorName": "Marrom",
+        "colorCode": "mixmarrom",
+        "imageUrl": "/images/products/fa9648b9682707ceeb788464.webp"
+      },
+      {
+        "colorName": "Preta",
+        "colorCode": "mixpreta",
+        "imageUrl": "/images/products/991162bf1c3de713b6ab7baa.webp"
+      }
+    ],
+    "description": "Bolsa Térmica Mix Pro mantém a temperatura da comida. Compartimento maior para talheres, frutas, barrinhas; inferior para marmita. Bolso frontal para carteira e celular. Alças reforçadas, bolso lateral para garrafa.\n\nComposição:\nTecido: 100% poliéster\nForro: 100% PVC\nEstrutura: espuma densa\nDetalhes: 100% poliuretano\n\nMedidas: A: 24,5 x L: 17,5 x P: 25,5 cm, 10L\nBolso Principal: A:20 x L:12 x C:24 cm\nBolso Inferior: A:4,5 x L:17,5 x C:25,5 cm\nAlça: 56cm\nCapacidade máxima: 3kg\nPeso: 335g (vazio)"
+  },
+  {
+    "id": "lancheira-play-clear",
+    "name": "Bolsa Térmica Play",
+    "category": "acessorios",
+    "basePrice": 99.9,
+    "oldPrice": 179.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/76c11a3235c4be067753ce30.webp",
+    "variants": [
+      {
+        "id": "midiplayazulclaro",
+        "colorName": "Azul Lavanda",
+        "colorHex": "#a0a9ca",
+        "sizes": [
+          {
+            "id": "8588",
+            "name": "Bolsa Térmica Play",
+            "inStock": true,
+            "additionalPrice": 40,
+            "mockupUrl": "/images/products/76c11a3235c4be067753ce30.webp"
+          }
+        ]
+      },
+      {
+        "id": "midiplayoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8590",
+            "name": "Bolsa Térmica Play",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/98db8dab3f037942d5a6761b.webp"
+          }
+        ]
+      },
+      {
+        "id": "midiplaypreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "8589",
+            "name": "Bolsa Térmica Play",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/beb43deb7c1778da94e862ab.webp"
+          }
+        ]
+      },
+      {
+        "id": "midiplaymelancia",
+        "colorName": "Melancia",
+        "colorHex": "#fc6c85",
+        "sizes": [
+          {
+            "id": "8587",
+            "name": "Bolsa Térmica Play",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/d86ae6f1ad0b503880174861.webp"
+          }
+        ]
+      },
+      {
+        "id": "midiplayrosa",
+        "colorName": "Rosa / Lilás",
+        "colorHex": "#c88fbf",
+        "sizes": [
+          {
+            "id": "8391",
+            "name": "Bolsa Térmica Play",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/ab323b10aa6ce7ff3b4466ee.webp"
+          }
+        ]
+      },
+      {
+        "id": "midiplayazulmarinho",
+        "colorName": "Azul Marinho",
+        "colorHex": "#003e73",
+        "sizes": [
+          {
+            "id": "8392",
+            "name": "Bolsa Térmica Play",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/a21b345f37c4067e9c885527.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/bolsa-termica-play-clear-1/p/8589",
+    "dimensions": {
+      "height_cm": 19,
+      "width_cm": 22,
+      "depth_cm": 10,
+      "description": "Bolsa térmica compacta em poliéster. 22cm(L)×19cm(A)×10cm(P), 4L, max 2kg."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Azul Lavanda",
+        "colorCode": "midiplayazulclaro",
+        "imageUrl": "/images/products/ab4c068ad898a00974b898a0.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "midiplayoffwhite",
+        "imageUrl": "/images/products/7a54ffa6903c2c2efb74d7aa.webp"
+      },
+      {
+        "colorName": "Preta",
+        "colorCode": "midiplaypreta",
+        "imageUrl": "/images/products/6128b884b97a933c02005369.webp"
+      },
+      {
+        "colorName": "Melancia",
+        "colorCode": "midiplaymelancia",
+        "imageUrl": "/images/products/619820032642a1cd3136d2d0.webp"
+      },
+      {
+        "colorName": "Rosa / Lilás",
+        "colorCode": "midiplayrosa",
+        "imageUrl": "/images/products/d3959e0f45c87cbeddec6f07.webp"
+      },
+      {
+        "colorName": "Azul Marinho",
+        "colorCode": "midiplayazulmarinho",
+        "imageUrl": "/images/products/ec7eedba65b0bb771a793f4f.webp"
+      }
+    ],
+    "description": "Bolsa Térmica Play Leve suas refeições com estilo e eficiência! A nova Bolsa Térmica Play foi projetada para acompanhar sua rotina com ainda mais qualidade. Seu tamanho compacto é super prático e sua alça transversal oferece uma dose extra de conforto para você levá-la aonde quiser! E não é só isso, não! O novo design traz, também, um bolso externo lateral para colocar pequenos itens. Outros detalhes que você vai amar são: Bolso principal espaçoso com proteção térmica; 3 divisórias em elástico para frutas, talheres, ou potes finos; Compartimento com redinha para levar e organizar seus lanches; Bolso externo frontal para pertences adicionais; Materiais resistentes que contribuem para um modelo bem estruturado; Alça transversal removível; Bolso externo lateral para pequenos itens. Simplesmente perfeita! Corre já para garantir uma experiência diária ainda mais organizada e eficiente com a Bolsa Térmica Play! Informações relevantes Modelo de fácil abertura com mais espaço interno; Divisória interna de redinha para alimentos/itens; Contém 1 alça de mão e 1 alça regulável de ombro; Bolso lateral para garrafa; Embalagem Dust Bag M - 1 para cada produto Composição Tecido: 100% Poliéster; Forro: 100% Polietileno vinil acetato; Detalhes: 100% Policloreto de Vinila; Medidas Largura: 22cm; Altura: 19cm; Profundidade: 10cm; Capacidade máxima: 2 kg; Litragem: 4L; Instruções de lavagem / cuidado"
+  },
+  {
+    "id": "capa-para-notebook-slim-clear",
+    "name": "Capa para Notebook Slim",
+    "category": "acessorios",
+    "basePrice": 99.9,
+    "oldPrice": 199.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/a506648d4ea79bc281b3c18f.webp",
+    "variants": [
+      {
+        "id": "sleevepreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "5884",
+            "name": "Slim 14\"",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/a506648d4ea79bc281b3c18f.webp"
+          },
+          {
+            "id": "5747",
+            "name": "Slim 15.6\"",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/464015b4f2a4bf0560e181d7.webp"
+          }
+        ]
+      },
+      {
+        "id": "sleeveazul",
+        "colorName": "Azul",
+        "colorHex": "#4a90d9",
+        "sizes": [
+          {
+            "id": "5751",
+            "name": "Slim 14\"",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/76752da4e420a8c069fd2020.webp"
+          },
+          {
+            "id": "5749",
+            "name": "Slim 15.6\"",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/6f6534593329fc03af5f851a.webp"
+          }
+        ]
+      },
+      {
+        "id": "sleeverosa",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "5750",
+            "name": "Slim 14\"",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/29608a16efafce4461f4f9ff.webp"
+          },
+          {
+            "id": "5748",
+            "name": "Slim 15.6\"",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/fa6fed906f3d839dfd53af22.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/capa-para-notebook-slim-clear/p/5884",
+    "dimensions": {
+      "height_cm": 35,
+      "width_cm": 25,
+      "depth_cm": 2,
+      "description": "Capa slim para notebook em 100% poliéster. 14\": 35×25×2cm, max 1,4kg / 15,6\": 39×27×2cm, max 1,81kg."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Preta",
+        "colorCode": "sleevepreta",
+        "imageUrl": "/images/products/b4d096827cd7bcbcc5f5c74a.webp"
+      },
+      {
+        "colorName": "Azul",
+        "colorCode": "sleeveazul",
+        "imageUrl": "/images/products/2a04dfa43080424ba8269679.webp"
+      },
+      {
+        "colorName": "Rosa",
+        "colorCode": "sleeverosa",
+        "imageUrl": "/images/products/9e7970eb5a27dd3fc968d34c.webp"
+      }
+    ],
+    "description": "Capa para notebook Slim 14\" e 15.6\", material resistente com bolsinhos funcionais. Compartimento principal com 2 puxadores, bolso frontal, bolso interno acolchoado para notebook, bolso profundo para pastas, 2 bolsos telados, faixa elástica.\n\nSlim 14\":\nTecido e Forro: 100% poliéster\nMedidas: A: 35 x L: 25 x P: 2 cm\nCapacidade: 1,4 kg\n\nSlim 15.6\":\nTecido e Forro: 100% poliéster\nMedidas: A: 39 x L: 27 x P: 2 cm\nCapacidade: 1,81 kg"
+  },
+  {
+    "id": "estojo-box-fun-clear",
+    "name": "Estojo Box Fun",
+    "category": "acessorios",
+    "basePrice": 109.9,
+    "oldPrice": 159.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/b06754d4ae6e252e1734f673.webp",
+    "variants": [
+      {
+        "id": "estojomelancia",
+        "colorName": "Melancia",
+        "colorHex": "#fc6c85",
+        "sizes": [
+          {
+            "id": "5584",
+            "name": "Estojo Fun",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/b06754d4ae6e252e1734f673.webp"
+          }
+        ]
+      },
+      {
+        "id": "estojorose",
+        "colorName": "Rosé",
+        "colorHex": "#d4917b",
+        "sizes": [
+          {
+            "id": "9368",
+            "name": "Estojo Fun",
+            "inStock": true,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/b2aa4db3bd5fa7fca297c0d0.webp"
+          }
+        ]
+      },
+      {
+        "id": "estojomarinho",
+        "colorName": "Azul Marinho",
+        "colorHex": "#003e73",
+        "sizes": [
+          {
+            "id": "8776",
+            "name": "Estojo Fun",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/a6c7e57120d4ef72e0c41d8d.webp"
+          }
+        ]
+      },
+      {
+        "id": "estojoazul",
+        "colorName": "Azul Lavanda",
+        "colorHex": "#a0a9ca",
+        "sizes": [
+          {
+            "id": "5583",
+            "name": "Estojo Fun",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/363ccb762538fcf83214d06b.webp"
+          }
+        ]
+      },
+      {
+        "id": "estojopreto",
+        "colorName": "Preto",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "5582",
+            "name": "Estojo Fun",
+            "inStock": false,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/3fa9b00b95dbbc834ae516de.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/estojo-box-fun-clear/p/5582",
+    "dimensions": {
+      "height_cm": 11,
+      "width_cm": 21,
+      "depth_cm": 4.5,
+      "description": "Estojo box em 100% poliéster (tecido e forro). 21cm(L)×11cm(A)×4,5cm(P). Formato retangular com zíper."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Melancia",
+        "colorCode": "estojomelancia",
+        "imageUrl": "/images/products/323fef2fff5628b95583118a.webp"
+      },
+      {
+        "colorName": "Rosé",
+        "colorCode": "estojorose",
+        "imageUrl": "/images/products/ecf8d0188f7939d2966d5545.webp"
+      },
+      {
+        "colorName": "Azul Marinho",
+        "colorCode": "estojomarinho",
+        "imageUrl": "/images/products/9eede7d62954728353c5a4c8.webp"
+      },
+      {
+        "colorName": "Azul Lavanda",
+        "colorCode": "estojoazul",
+        "imageUrl": "/images/products/1969ccd539469a2d4454810d.webp"
+      },
+      {
+        "colorName": "Preto",
+        "colorCode": "estojopreto",
+        "imageUrl": "/images/products/b2491a7def2e505aa16dcec7.webp"
+      }
+    ],
+    "description": "Estojo Box Fun para organizar canetas e acessórios para escola, faculdade ou trabalho. Espaçoso e estruturado, com divisória interna com elásticos. Abertura total.\n\nTecido e Forro: 100% poliéster\nDimensão: A: 11 x L: 21 x P: 4,5 cm"
+  },
+  {
+    "id": "necessaire-makeup-double-clear",
+    "name": "Necessaire Makeup Double",
+    "category": "acessorios",
+    "basePrice": 99.9,
+    "oldPrice": 169.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/f1989c85c42f75ba674f6779.webp",
+    "variants": [
+      {
+        "id": "necessairepreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "5077",
+            "name": "Necessaire Makeup Double",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/f1989c85c42f75ba674f6779.webp"
+          }
+        ]
+      },
+      {
+        "id": "necessairerosa",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "5078",
+            "name": "Necessaire Makeup Double",
+            "inStock": false,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/f7053ec1397218d1e2cab218.webp"
+          }
+        ]
+      },
+      {
+        "id": "necessaireoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8492",
+            "name": "Necessaire Makeup Double",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/d8142757dba7df53a62e610d.webp"
+          }
+        ]
+      },
+      {
+        "id": "necessaireturquesa",
+        "colorName": "Turquesa",
+        "colorHex": "#40bfa3",
+        "sizes": [
+          {
+            "id": "8738",
+            "name": "Necessaire Makeup Double",
+            "inStock": false,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/8dc68060a28837ec6211be2f.webp"
+          }
+        ]
+      },
+      {
+        "id": "necessairemelancia",
+        "colorName": "Melancia",
+        "colorHex": "#fc6c85",
+        "sizes": [
+          {
+            "id": "8737",
+            "name": "Necessaire Makeup Double",
+            "inStock": false,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/59248a0015390c93fe0a30a0.webp"
+          }
+        ]
+      },
+      {
+        "id": "necessaireazulclaro",
+        "colorName": "Azul Lavanda",
+        "colorHex": "#a0a9ca",
+        "sizes": [
+          {
+            "id": "8736",
+            "name": "Necessaire Makeup Double",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/1b0def342639a355470bf29c.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/necessaire-makeup-double-clear/p/5077",
+    "dimensions": {
+      "height_cm": 18,
+      "width_cm": 23,
+      "depth_cm": 12,
+      "description": "Necessaire dupla para maquiagem. 23cm(L)×18cm(A)×12cm(P). Externo e interno 100% poliéster, detalhes em poliuretano. Dois compartimentos com zíper."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Preta",
+        "colorCode": "necessairepreta",
+        "imageUrl": "/images/products/ab3ed397ee69492297d68131.webp"
+      },
+      {
+        "colorName": "Rosa",
+        "colorCode": "necessairerosa",
+        "imageUrl": "/images/products/956944acc9fd284537a1d0b2.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "necessaireoffwhite",
+        "imageUrl": "/images/products/b3a70f712443d2db83d53cdf.webp"
+      },
+      {
+        "colorName": "Turquesa",
+        "colorCode": "necessaireturquesa",
+        "imageUrl": "/images/products/0e0f0eb7f2c01caa839b9422.webp"
+      },
+      {
+        "colorName": "Melancia",
+        "colorCode": "necessairemelancia",
+        "imageUrl": "/images/products/7fa7fa0e5bbee24ee1822ef5.webp"
+      },
+      {
+        "colorName": "Azul Lavanda",
+        "colorCode": "necessaireazulclaro",
+        "imageUrl": "/images/products/3f95d15a73c282aea0963bee.webp"
+      }
+    ],
+    "description": "Necessaire Makeup Double com dois compartimentos. Primeira divisória com janela transparente e bolso interno com elástico. Segunda divisória com bolso para pincéis. Alcinha de mão.\n\nDimensões:\nLargura: 23cm\nAltura: 18cm\nProfundidade: 12cm\n\nMateriais:\nExterno: 100% poliéster\nInterno: 100% poliéster\nDetalhes: 100% poliuretano"
+  },
+  {
+    "id": "bolsa-joy-pro-clear",
+    "name": "Bolsa Joy Pro",
+    "category": "bolsas",
+    "basePrice": 229.9,
+    "oldPrice": 329.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/1f8da82d0407f02746817277.webp",
+    "variants": [
+      {
+        "id": "joyazul",
+        "colorName": "Azul Lavanda",
+        "colorHex": "#a0a9ca",
+        "sizes": [
+          {
+            "id": "6880",
+            "name": "Bolsa Joy Pro",
+            "inStock": true,
+            "additionalPrice": -40,
+            "mockupUrl": "/images/products/1f8da82d0407f02746817277.webp"
+          }
+        ]
+      },
+      {
+        "id": "sarjarosa",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "5564",
+            "name": "Bolsa Joy Pro",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/5e70e606c305b7bbdef002bc.webp"
+          }
+        ]
+      },
+      {
+        "id": "sarjapreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "5565",
+            "name": "Bolsa Joy Pro",
+            "inStock": true,
+            "additionalPrice": -40,
+            "mockupUrl": "/images/products/45de4254a976f18ceba8760f.webp"
+          }
+        ]
+      },
+      {
+        "id": "joyvinho",
+        "colorName": "Vinho",
+        "colorHex": "#722f37",
+        "sizes": [
+          {
+            "id": "8898",
+            "name": "Bolsa Joy Pro",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/79b03a8e85785a2787e2f7ff.webp"
+          }
+        ]
+      },
+      {
+        "id": "joyoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "6870",
+            "name": "Bolsa Joy Pro",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/3a61afa873e60793ea6eff43.webp"
+          }
+        ]
+      },
+      {
+        "id": "joymarrom",
+        "colorName": "Marrom",
+        "colorHex": "#6b4226",
+        "sizes": [
+          {
+            "id": "6871",
+            "name": "Bolsa Joy Pro",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/50cdae9e5180f6c6ee868249.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/bolsa-joy-pro-clear/p/6880",
+    "dimensions": {
+      "height_cm": 29,
+      "width_cm": 39,
+      "depth_cm": 20,
+      "description": "Bolsa de viagem em 100% poliéster (externo e interno), alças em PVC. 39cm(L)×29cm(A)×20cm(P), 24L, max 8kg. Compartimento estruturado para notebook até 14\" (34×22cm)."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Azul Lavanda",
+        "colorCode": "joyazul",
+        "imageUrl": "/images/products/01eb2c5dff4828793dcf7581.webp"
+      },
+      {
+        "colorName": "Rosa",
+        "colorCode": "sarjarosa",
+        "imageUrl": "/images/products/ef5bfb85955fa139433c8cb1.webp"
+      },
+      {
+        "colorName": "Preta",
+        "colorCode": "sarjapreta",
+        "imageUrl": "/images/products/d81536fcabadf552e376e2fd.webp"
+      },
+      {
+        "colorName": "Vinho",
+        "colorCode": "joyvinho",
+        "imageUrl": "/images/products/35dece4917b6ac519e8d62c1.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "joyoffwhite",
+        "imageUrl": "/images/products/40ea9241bc42fb7916a4438b.webp"
+      },
+      {
+        "colorName": "Marrom",
+        "colorCode": "joymarrom",
+        "imageUrl": "/images/products/e5a5f7dfc12ae5086125c832.webp"
+      }
+    ],
+    "description": "Bolsa de viagem Joy, mala de mão perfeita. Espaço para roupas e sapatos, bolsos organizadores internos. Alça de ombro removível e ajustável. Faixa carona traseira de fixação ao carrinho da mala. Tamanho aceito como mala de bordo. Compartimento acolchoado para notebooks.\n\nDimensões:\nAltura: 29cm\nLargura: 39cm\nProfundidade: 20cm\nCompartimento interno: 34x22cm (notebooks até 14\")\nCapacidade: 8kg / 24L\n\nMateriais:\nExterno: 100% Poliéster\nInterno: 100% Poliéster\nAlças de mão e etiquetas: 100% PVC"
+  },
+  {
+    "id": "bolsa-de-viagem-voyage-clear",
+    "name": "Bolsa Voyage",
+    "category": "bolsas",
+    "basePrice": 399.9,
+    "oldPrice": null,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/4fa042bfeff493599d00fa83.webp",
+    "variants": [
+      {
+        "id": "bolsavoyagepreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "8774",
+            "name": "Bolsa Voyage",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/4fa042bfeff493599d00fa83.webp"
+          }
+        ]
+      },
+      {
+        "id": "bolsavoyageoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8775",
+            "name": "Bolsa Voyage",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/2121230359b5ea9cabea22cb.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/bolsa-voyage-clear/p/8774",
+    "dimensions": {
+      "height_cm": 36,
+      "width_cm": 50,
+      "depth_cm": 26,
+      "description": "Bolsa de viagem grande em poliéster. 50cm(L)×36cm(A)×26cm(P), ~46,8L. Notebook até 17\"."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Preta",
+        "colorCode": "bolsavoyagepreta",
+        "imageUrl": "/images/products/7048990d1852ea59aca8126b.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "bolsavoyageoffwhite",
+        "imageUrl": "/images/products/20220a587190521abaddf588.webp"
+      }
+    ],
+    "description": "✨ A Bolsa de Viagem Voyage é perfeita para quem vive na correria! Com um espaço interno incrível, ela carrega tudo o que você precisa e te acompanha nos melhores momentos! 😎✈️ Sempre acaba precisando de uma mala extra na volta da viagem? A Bolsa de Viagem Voyage será sua nova companheira FIEL! 💼❤️ Ela ainda vem com uma alça para encaixar na mala de rodinhas, bolsos internos super organizados, porta notebook (até 17”), além de 1 bolso secreto e um bolso frontal de acesso rápido! 🔐💻 Tudo isso em um tecido 100% poliéster, durável e prático. O puxador do zíper do compartimento principal possui espaço para anexar cadeado, protegendo ainda mais os teus pertences. Corre pra escolher sua cor e estampa favorita e arrasar com praticidade e exclusividade em qualquer lugar! 🎨👜✨ *O cadeado não acompanha o produto. Informações relevantes - Alça para encaixe na mala de rodinhas - Compartimento interno com zíper. - 2 bolsos para periféricos. - Bolso frontal para acesso rápido e fácil. - Bolso interno para acomodar notebook até 17” - 2 bolsos secretos. Medidas: 50 cm comprimento x 26 cm largura x 36 cm altura Litragem: 46,8L. Instruções de lavagem / cuidado: Limpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua Bolsa de Viagem Voyage sempre incrível, siga corretamente as instruções para lavagem."
+  },
+  {
+    "id": "tote-mini-clear",
+    "name": "Tote Mini",
+    "category": "bolsas",
+    "basePrice": 199.9,
+    "oldPrice": 269.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/47d9daa7e7636f33381a2f8a.webp",
+    "variants": [
+      {
+        "id": "minitoteoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "7898",
+            "name": "Mini Tote",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/47d9daa7e7636f33381a2f8a.webp"
+          }
+        ]
+      },
+      {
+        "id": "minitotepretocaramelo",
+        "colorName": "Preto / Alça Caramelo",
+        "colorHex": "#c68e5b",
+        "sizes": [
+          {
+            "id": "7900",
+            "name": "Mini Tote",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/a227551abd9cdbbf357befa9.webp"
+          }
+        ]
+      },
+      {
+        "id": "minitotelilas",
+        "colorName": "Lilás",
+        "colorHex": "#cebbdf",
+        "sizes": [
+          {
+            "id": "7897",
+            "name": "Mini Tote",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/1748be7359848f3fa2a5db63.webp"
+          }
+        ]
+      },
+      {
+        "id": "minitotecinza",
+        "colorName": "Cinza",
+        "colorHex": "#808080",
+        "sizes": [
+          {
+            "id": "7894",
+            "name": "Mini Tote",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/4f3b5433f99e2bd0acd4f9ea.webp"
+          }
+        ]
+      },
+      {
+        "id": "minitotemarrom",
+        "colorName": "Marrom",
+        "colorHex": "#6b4226",
+        "sizes": [
+          {
+            "id": "7899",
+            "name": "Mini Tote",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/c83a277932d4fe1696a3d78b.webp"
+          }
+        ]
+      },
+      {
+        "id": "minitotepreta",
+        "colorName": "Preto",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "7892",
+            "name": "Mini Tote",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/332c7df82545d999fbf398b4.webp"
+          }
+        ]
+      },
+      {
+        "id": "minitotevinho",
+        "colorName": "Vinho",
+        "colorHex": "#722f37",
+        "sizes": [
+          {
+            "id": "7895",
+            "name": "Mini Tote",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/7bf96d7fb3e5812e933b0faf.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/tote-mini-clear/p/7894",
+    "dimensions": {
+      "height_cm": 28,
+      "width_cm": 38.5,
+      "depth_cm": 13.5,
+      "description": "Bolsa tote compacta em 100% poliéster (tecido e forro). 38,5cm(L)×28cm(A)×13,5cm(P), ~14,5L, max 3kg. Compartimento para notebook até 15,6\"."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Off White",
+        "colorCode": "minitoteoffwhite",
+        "imageUrl": "/images/products/16ec43a9eda3f728e4352424.webp"
+      },
+      {
+        "colorName": "Preto / Alça Caramelo",
+        "colorCode": "minitotepretocaramelo",
+        "imageUrl": "/images/products/28150ef1589ada6105ebd8ec.webp"
+      },
+      {
+        "colorName": "Lilás",
+        "colorCode": "minitotelilas",
+        "imageUrl": "/images/products/9ea93200690e23104cd1b257.webp"
+      },
+      {
+        "colorName": "Cinza",
+        "colorCode": "minitotecinza",
+        "imageUrl": "/images/products/987c7f55574e4b7ec6f00735.webp"
+      },
+      {
+        "colorName": "Marrom",
+        "colorCode": "minitotemarrom",
+        "imageUrl": "/images/products/af6e7fcf497337cfeb43a261.webp"
+      },
+      {
+        "colorName": "Preto",
+        "colorCode": "minitotepreta",
+        "imageUrl": "/images/products/26ffe6f63b843fdf3d874fd6.webp"
+      },
+      {
+        "colorName": "Vinho",
+        "colorCode": "minitotevinho",
+        "imageUrl": "/images/products/3adff7d3de5b37d025e7691a.webp"
+      }
+    ],
+    "description": "Bolsa Tote Mini para praticidade e estilo. Alça carona para mala. Porta-garrafa (até 650ml), porta-notebook acolchoado, bolsinho interno, bolso frontal.\n\nMaterial: Tecido e Forro 100% poliéster\nMedidas: 28cm(A) × 38,5cm(L) × 13,5cm(P)\nLitragem: 14,5L (aproximadamente)\nCapacidade máxima: 3kg\nCompartimento notebook: até 24×36×2cm"
+  },
+  {
+    "id": "copo-termico-vibe-clear",
+    "name": "Copo Térmico",
+    "category": "copos",
+    "basePrice": 79.9,
+    "oldPrice": 149.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/a2c107eb98a36fd3115ce28c.webp",
+    "variants": [
+      {
+        "id": "360vibebranco",
+        "colorName": "Branco",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "5569",
+            "name": "470ml",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/a2c107eb98a36fd3115ce28c.webp"
+          }
+        ]
+      },
+      {
+        "id": "360vibeverdemilitar",
+        "colorName": "Verde Militar",
+        "colorHex": "#4b5320",
+        "sizes": [
+          {
+            "id": "7633",
+            "name": "470ml",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/5dd10eaa77a3ca066427851c.webp"
+          }
+        ]
+      },
+      {
+        "id": "360vibeazulmarinho",
+        "colorName": "Azul Marinho",
+        "colorHex": "#003e73",
+        "sizes": [
+          {
+            "id": "7631",
+            "name": "470ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/a29fe51dd25de4b0e648556b.webp"
+          }
+        ]
+      },
+      {
+        "id": "360vibevinho",
+        "colorName": "Vinho",
+        "colorHex": "#722f37",
+        "sizes": [
+          {
+            "id": "7632",
+            "name": "470ml",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/7dc0aea935ac809968ed8032.webp"
+          }
+        ]
+      },
+      {
+        "id": "360vibeverde",
+        "colorName": "Verde",
+        "colorHex": "#4caf50",
+        "sizes": [
+          {
+            "id": "9758",
+            "name": "470ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/8bd93f79fd208dd873b439f6.webp"
+          }
+        ]
+      },
+      {
+        "id": "360vibepreto",
+        "colorName": "Preto",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "5568",
+            "name": "470ml",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/a684a6a1e5acd3af3e68dd97.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/copo-termico-vibe-clear/p/5569",
+    "dimensions": {
+      "height_cm": 16,
+      "width_cm": 9.3,
+      "depth_cm": 9.3,
+      "description": "Copo térmico cônico em aço inoxidável 304. 470ml, 16cm(A)×9,3cm(Ø). Parede dupla isolada a vácuo, livre de BPA. Frio até 4h, quente até 45min. Tampa vendida separadamente."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Branco",
+        "colorCode": "360vibebranco",
+        "imageUrl": "/images/products/11e705a4e0f1692c44f74cdd.webp"
+      },
+      {
+        "colorName": "Preto",
+        "colorCode": "360vibepreto",
+        "imageUrl": "/images/products/cc736036717188f5a158e51a.webp"
+      },
+      {
+        "colorName": "Verde Militar",
+        "colorCode": "360vibeverdemilitar",
+        "imageUrl": "/images/products/cb3d1d7c8f2eb5329feb89f4.webp"
+      },
+      {
+        "colorName": "Azul Marinho",
+        "colorCode": "360vibeazulmarinho",
+        "imageUrl": "/images/products/9e55ba7a97a4d9a7926801a1.webp"
+      },
+      {
+        "colorName": "Vinho",
+        "colorCode": "360vibevinho",
+        "imageUrl": "/images/products/ab142ad4fcb55a7be1d04689.webp"
+      },
+      {
+        "colorName": "Verde",
+        "colorCode": "360vibeverde",
+        "imageUrl": "/images/products/7ab2ad2240769a73842ce10a.webp"
+      }
+    ],
+    "description": "Copo Térmico Vibe comporta até 470ml e mantém sua bebida quente por até 45 minutos e fria por até 4 horas.\n\nDimensões e Composição\n- Capacidade: 470ml\n- Composição: Aço inoxidável 304 (aço inoxidável 18/8)\n- Dimensões: 16x9,3 cm\n- Parede dupla isolada a vácuo\n- Frasco livre de BPA\n- Mantém o conteúdo frio por até 4 horas, quente por até 45 minutos\n- Não acompanha tampa, disponível para venda separadamente"
+  },
+  {
+    "id": "copo-termico-daily-clear",
+    "name": "Copo Térmico Daily",
+    "category": "copos",
+    "basePrice": 79.9,
+    "oldPrice": 159.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/3e901b02ccb27a0ebef72c2a.webp",
+    "variants": [
+      {
+        "id": "360lifeoffwhite600",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "9080",
+            "name": "600ml",
+            "inStock": true,
+            "additionalPrice": 40,
+            "mockupUrl": "/images/products/3e901b02ccb27a0ebef72c2a.webp"
+          }
+        ]
+      },
+      {
+        "id": "360liferosaclaro600",
+        "colorName": "Rosa Claro",
+        "colorHex": "#fbd4cb",
+        "sizes": [
+          {
+            "id": "9083",
+            "name": "600ml",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/bf8e59de3a0b5cef4fb7443c.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifepreto600",
+        "colorName": "Preto",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "9081",
+            "name": "600ml",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/c9d97468b24aa6c9383b7794.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifebranco600",
+        "colorName": "Branco",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "9082",
+            "name": "600ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/38096cd39d02a3f056c3535a.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/copo-termico-daily-clear/p/9083",
+    "dimensions": {
+      "height_cm": 18.5,
+      "width_cm": 9.4,
+      "depth_cm": 9.4,
+      "description": "Copo térmico com tampa em aço inoxidável. 600ml, 18,5cm(A com tampa)×9,4cm(Ø externo)×7cm(Ø bocal). Tampa com abertura para canudo."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Off White",
+        "colorCode": "360lifeoffwhite600",
+        "imageUrl": "/images/products/90d795cc2d67930a9f85e9c7.webp"
+      },
+      {
+        "colorName": "Rosa Claro",
+        "colorCode": "360liferosaclaro600",
+        "imageUrl": "/images/products/1e1d717817ea502fe1621346.webp"
+      },
+      {
+        "colorName": "Preto",
+        "colorCode": "360lifepreto600",
+        "imageUrl": "/images/products/41e614bf459f44b35a173d31.webp"
+      },
+      {
+        "colorName": "Branco",
+        "colorCode": "360lifebranco600",
+        "imageUrl": "/images/products/58232ebfcf865b1a42c49425.webp"
+      }
+    ],
+    "description": "Copo Térmico Daily 600ml – seu essencial de todos os dias. Tampa à prova de vazamentos, perfeito para levar na bolsa, no carro ou manter na mesa do trabalho. 6 horas bebida quente, 30 horas com gelo.\n\nTampa e Canudo: Tritan\nParede dupla isolada a vácuo\nCorpo em Aço inoxidável 304 (aço inoxidável 18/8)\n\nMedidas:\nCapacidade: 600ml\nAltura: 18,5cm (com tampa)\nDiâmetro bocal: 7cm\nDiâmetro: 9,4cm"
+  },
+  {
+    "id": "copo-termico-life-ebook-clear",
+    "name": "Copo Térmico Life",
+    "category": "copos",
+    "basePrice": 149.9,
+    "oldPrice": 239.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/41a1fc5108800514724304c6.webp",
+    "variants": [
+      {
+        "id": "360lifeespecialvinho",
+        "colorName": "Vinho Glitter",
+        "colorHex": "#722f37",
+        "sizes": [
+          {
+            "id": "11179",
+            "name": "1170ml",
+            "inStock": false,
+            "additionalPrice": 40,
+            "mockupUrl": "/images/products/41a1fc5108800514724304c6.webp"
+          }
+        ]
+      },
+      {
+        "id": "360liferosaclaro",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "8298",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/775fe19dfb4a328bcc9fb545.webp"
+          },
+          {
+            "id": "8753",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/a39d1fedea6f194f236e7578.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifebranco",
+        "colorName": "Branco",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "8290",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/d5940041ac062af0281558b3.webp"
+          },
+          {
+            "id": "8747",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/a15589fb85f9a4917262b4dc.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifeespecialsalmao",
+        "colorName": "Salmão Glitter",
+        "colorHex": "#fa8072",
+        "sizes": [
+          {
+            "id": "11177",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": 40,
+            "mockupUrl": "/images/products/52544701070d9500519872e8.webp"
+          },
+          {
+            "id": "11176",
+            "name": "880ml",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/676e55ae2a4ff2c275a30df3.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifeazulclaro",
+        "colorName": "Azul Claro",
+        "colorHex": "#87ceeb",
+        "sizes": [
+          {
+            "id": "8293",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/28cb78f72492a835681f4f68.webp"
+          },
+          {
+            "id": "8750",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/99e28a5a0c94d1bac153d324.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifelilas",
+        "colorName": "Lilás",
+        "colorHex": "#cebbdf",
+        "sizes": [
+          {
+            "id": "8294",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/cc95121c1797cc79965939aa.webp"
+          },
+          {
+            "id": "8748",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/20fbbf403a4d52cd4385dcef.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifepreto",
+        "colorName": "Preto",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "8291",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/0174b6578f5c6c36c1520207.webp"
+          },
+          {
+            "id": "8755",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -40,
+            "mockupUrl": "/images/products/99a05ba072c544304b788e6a.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifepink",
+        "colorName": "Pink",
+        "colorHex": "#ff69b4",
+        "sizes": [
+          {
+            "id": "8295",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/07cf85995b2b7de8e5e31505.webp"
+          },
+          {
+            "id": "8751",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -60,
+            "mockupUrl": "/images/products/ef01002aa95ea21308de9838.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifelaranja",
+        "colorName": "Laranja",
+        "colorHex": "#f57c20",
+        "sizes": [
+          {
+            "id": "8296",
+            "name": "1170ml",
+            "inStock": false,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/a9373aa5a3caa6cc262571f8.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifeoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8297",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/2ea70b1a793b4a9514f9c149.webp"
+          },
+          {
+            "id": "8754",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/e79e7eb92ecb172d8df6d65d.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifedegradelilaserosa",
+        "colorName": "Degradê Rosa / Lilás",
+        "colorHex": "#d4a0c5",
+        "sizes": [
+          {
+            "id": "9120",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/dd7604ee961bae060aaf70cd.webp"
+          },
+          {
+            "id": "8749",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/b522a051cbe45afb71fcc3b7.webp"
+          }
+        ]
+      },
+      {
+        "id": "360lifeazulmarinho",
+        "colorName": "Azul Marinho",
+        "colorHex": "#003e73",
+        "sizes": [
+          {
+            "id": "8292",
+            "name": "1170ml",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/1876209e3f4ba937ca70cf6a.webp"
+          },
+          {
+            "id": "8752",
+            "name": "880ml",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/d36473284c94708e7302b450.webp"
+          }
+        ]
+      },
+      {
+        "id": "360hangerpreto",
+        "colorName": "Preto + Alça Esporte",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "8847",
+            "name": "880ml + Alça Esporte",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/dcc118983e0636ab14095038.webp"
+          }
+        ]
+      },
+      {
+        "id": "360hangerbranco",
+        "colorName": "Branco + Alça Esporte",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "8845",
+            "name": "880ml + Alça Esporte",
+            "inStock": false,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/127bd0e605137a8301aaacfd.webp"
+          }
+        ]
+      },
+      {
+        "id": "360hangeroffwhite",
+        "colorName": "Off White + Alça Esporte",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8846",
+            "name": "880ml + Alça Esporte",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/a223c876350c74a5efebd9ab.webp"
+          }
+        ]
+      },
+      {
+        "id": "360hangerpink",
+        "colorName": "Pink + Alça Esporte",
+        "colorHex": "#ff69b4",
+        "sizes": [
+          {
+            "id": "9893",
+            "name": "880ml + Alça Esporte",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/496dbc6cf119aaaf81e4ef7d.webp"
+          }
+        ]
+      },
+      {
+        "id": "360hangerazulclaro",
+        "colorName": "Azul Claro + Alça Esporte",
+        "colorHex": "#87ceeb",
+        "sizes": [
+          {
+            "id": "9892",
+            "name": "880ml + Alça Esporte",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/957c29c3a7d806ca60ba0601.webp"
+          }
+        ]
+      },
+      {
+        "id": "360hangerlilas",
+        "colorName": "Lilás + Alça Esporte",
+        "colorHex": "#cebbdf",
+        "sizes": [
+          {
+            "id": "8848",
+            "name": "880ml + Alça Esporte",
+            "inStock": false,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/08eeee9d785a220a51348a77.webp"
+          }
+        ]
+      },
+      {
+        "id": "360hangerrosaclaro",
+        "colorName": "Rosa Claro + Alça Esporte",
+        "colorHex": "#fbd4cb",
+        "sizes": [
+          {
+            "id": "8849",
+            "name": "880ml + Alça Esporte",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/71572d3a88ca6baf86d90d7b.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8751",
+    "dimensions": {
+      "height_cm": 22.8,
+      "width_cm": 8.6,
+      "depth_cm": 8.6,
+      "description": "Copo térmico com tampa e canudo em aço inoxidável. 880ml: 22,8cm(A)×8,6cm(Ø) / 1170ml: 24,8cm(A)×9,2cm(Ø). Tampa com canudo integrado."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Rosa",
+        "colorCode": "360liferosaclaro",
+        "imageUrl": "/images/products/ea2cd23068184e27404f241e.webp"
+      },
+      {
+        "colorName": "Branco",
+        "colorCode": "360lifebranco",
+        "imageUrl": "/images/products/ad1738fd1cbdf9b2899bf577.webp"
+      },
+      {
+        "colorName": "Azul Claro",
+        "colorCode": "360lifeazulclaro",
+        "imageUrl": "/images/products/f515943ee586dc8d20dea255.webp"
+      },
+      {
+        "colorName": "Lilás",
+        "colorCode": "360lifelilas",
+        "imageUrl": "/images/products/388ede965eba0e3ce33c78e5.webp"
+      },
+      {
+        "colorName": "Preto",
+        "colorCode": "360lifepreto",
+        "imageUrl": "/images/products/1f025ea024f862e782f84449.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "360lifeoffwhite",
+        "imageUrl": "/images/products/61f1bd5fcd3c222cf549ea5d.webp"
+      },
+      {
+        "colorName": "Azul Marinho",
+        "colorCode": "360lifeazulmarinho",
+        "imageUrl": "/images/products/8a9244c10fa02323d54a7e2c.webp"
+      }
+    ],
+    "description": "O Copo Térmico Life com capacidade de 1.170ml ou 880ml mantém sua bebida quente por até 6hrs ou fria (com gelo) por até 40hrs (880ml) e 48hrs (1.170ml).\n\nInformações relevantes:\nAlça lateral (nos volumes 1170ml e 880ml)\n6 horas bebida quente\n48 horas com gelo (1.170ml)\n40 horas com gelo (880ml)\nAlça: PP\nTampa e Canudo: Tritan\nParede dupla isolada a vácuo\nCorpo em Aço inoxidável 304 (aço inoxidável 18/8)\n\nMedidas:\nCapacidade: 880ml ou 1.170ml\nAltura:\n- 880ml: 22,8cm (incluindo altura da tampa)\n- 1.170ml: 24,8 cm (incluindo altura da tampa)\nDiâmetro:\n- 880ml: 8,6cm\n- 1.170ml: 9.2 cm"
+  },
+  {
+    "id": "taca-termica-drink-clear",
+    "name": "Taça Térmica Drink",
+    "category": "copos",
+    "basePrice": 189.9,
+    "oldPrice": null,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/3271d1f34a96f3139086d980.webp",
+    "variants": [
+      {
+        "id": "360drinkrosaclaro",
+        "colorName": "Rosa Claro",
+        "colorHex": "#fbd4cb",
+        "sizes": [
+          {
+            "id": "9910",
+            "name": "Taça Drink 420ml - Ebook",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/3271d1f34a96f3139086d980.webp"
+          }
+        ]
+      },
+      {
+        "id": "360drinkpreto",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "9907",
+            "name": "Taça Drink 420ml - Ebook",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/3a41ada5e26822dc808a6a47.webp"
+          }
+        ]
+      },
+      {
+        "id": "360drinkoffwhite",
+        "colorName": "Bege",
+        "colorHex": "#d4c5a9",
+        "sizes": [
+          {
+            "id": "9912",
+            "name": "Taça Drink 420ml - Ebook",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/ffdb4cdaa8e18b9d1439f899.webp"
+          }
+        ]
+      },
+      {
+        "id": "360drinkvinho",
+        "colorName": "Vinho",
+        "colorHex": "#722f37",
+        "sizes": [
+          {
+            "id": "9913",
+            "name": "Taça Drink 420ml - Ebook",
+            "inStock": false,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/5fe63a84f68f27b617548fff.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/taca-termica-drink-ebook-clear/p/9907",
+    "dimensions": {
+      "height_cm": 20.4,
+      "width_cm": 8.5,
+      "depth_cm": 8.5,
+      "description": "Taça térmica com base removível em aço inoxidável. 420ml, 20,4cm(A total)×8,45cm(Ø boca). Copo sem base: 10,9cm(A). Base: 9,54cm(A). Design 2-em-1: taça com base ou tumbler sem base."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Rosa Claro",
+        "colorCode": "360drinkrosaclaro",
+        "imageUrl": "/images/products/7a12d3da76bb34640917a2e8.webp"
+      },
+      {
+        "colorName": "Preta",
+        "colorCode": "360drinkpreto",
+        "imageUrl": "/images/products/10aa7666f62ceceb6e831992.webp"
+      },
+      {
+        "colorName": "Bege",
+        "colorCode": "360drinkoffwhite",
+        "imageUrl": "/images/products/0badd14b85f638add5340c1a.webp"
+      },
+      {
+        "colorName": "Vinho",
+        "colorCode": "360drinkvinho",
+        "imageUrl": "/images/products/3903c6c96632e9c93567b2d3.webp"
+      }
+    ],
+    "description": "Taça Térmica Drink – Estilo, Versatilidade e Bebida Gelada por Mais Tempo! Base removível, a taça se transforma em um copo térmico moderno. Aço inoxidável com parede dupla e isolamento a vácuo.\nCom gelo: até 10 horas de conservação. Sem gelo: até 2,5 horas de bebida gelada.\nCapacidade: 420ml\nCorpo: Aço inoxidável 304 (interno e externo)\nBase: Polipropileno (PP)\nBase antiderrapante de silicone\n\nMedidas do Produto:\nDiâmetro da boca: 84,5 mm\nAltura do copo (sem base): 109 mm\nAltura da base: 95,4 mm"
+  },
+  {
+    "id": "garrafa-termica-pro-clear-ebook",
+    "name": "Garrafa Térmica Flip Pro",
+    "category": "garrafas",
+    "basePrice": 149.9,
+    "oldPrice": 219.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/3c3343964c9f2ea2219ec437.webp",
+    "variants": [
+      {
+        "id": "360propreta",
+        "colorName": "Preto",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "9287",
+            "name": "Flip Pro 750ml - Ebook",
+            "inStock": true,
+            "additionalPrice": -50,
+            "mockupUrl": "/images/products/3c3343964c9f2ea2219ec437.webp"
+          }
+        ]
+      },
+      {
+        "id": "360prorosa",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "9286",
+            "name": "Flip Pro 750ml - Ebook",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/9922d2fb81e1d1d6ca3d7181.webp"
+          }
+        ]
+      },
+      {
+        "id": "360prorosaeroxo",
+        "colorName": "Roxo",
+        "colorHex": "#7b2d8e",
+        "sizes": [
+          {
+            "id": "9285",
+            "name": "Flip Pro 750ml - Ebook",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/44cb6d6a9741d80f68d2ac95.webp"
+          }
+        ]
+      },
+      {
+        "id": "360procinza",
+        "colorName": "Cinza",
+        "colorHex": "#808080",
+        "sizes": [
+          {
+            "id": "9289",
+            "name": "Flip Pro 750ml - Ebook",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/56270eae8a599780fef9e7a2.webp"
+          }
+        ]
+      },
+      {
+        "id": "360probranco",
+        "colorName": "Branco",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "9288",
+            "name": "Flip Pro 750ml - Ebook",
+            "inStock": true,
+            "additionalPrice": -50,
+            "mockupUrl": "/images/products/9d7eae77a77a2db9a4dbac6f.webp"
+          }
+        ]
+      },
+      {
+        "id": "360flipprovinho",
+        "colorName": "Vinho Glitter",
+        "colorHex": "#722f37",
+        "sizes": [
+          {
+            "id": "11147",
+            "name": "Flip Pro 750ml - Ebook",
+            "inStock": false,
+            "additionalPrice": 80,
+            "mockupUrl": "/images/products/326c7e1c24338fec754ddef1.webp"
+          }
+        ]
+      },
+      {
+        "id": "360flipprosalmao",
+        "colorName": "Salmão Glitter",
+        "colorHex": "#fa8072",
+        "sizes": [
+          {
+            "id": "11148",
+            "name": "Flip Pro 750ml - Ebook",
+            "inStock": false,
+            "additionalPrice": 100,
+            "mockupUrl": "/images/products/733413ec26ac0e4d42d6cf67.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p/9287",
+    "dimensions": {
+      "height_cm": 26.5,
+      "width_cm": 7,
+      "depth_cm": 7,
+      "description": "Garrafa cilíndrica em aço inoxidável. 750ml, 26,5cm(A com tampa)×7cm(Ø). Tampa flip com mecanismo de abertura rápida."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Preto",
+        "colorCode": "360propreta",
+        "imageUrl": "/images/products/a34276afaec36ec2b8622dfe.webp"
+      },
+      {
+        "colorName": "Rosa",
+        "colorCode": "360prorosa",
+        "imageUrl": "/images/products/9da4da6016b897f4357a23eb.webp"
+      },
+      {
+        "colorName": "Roxo",
+        "colorCode": "360prorosaeroxo",
+        "imageUrl": "/images/products/e59e7544f0b59986b3bcd0fe.webp"
+      },
+      {
+        "colorName": "Cinza",
+        "colorCode": "360procinza",
+        "imageUrl": "/images/products/a29d3853acb8879c02b8fa22.webp"
+      },
+      {
+        "colorName": "Branco",
+        "colorCode": "360probranco",
+        "imageUrl": "/images/products/6dce199321ccf7e22784b814.webp"
+      }
+    ],
+    "description": "Garrafa Flip Pro: inovação, segurança e praticidade. Tampa flip com sistema de botão inteligente, abre automaticamente com um clique e conta com trava de segurança. Tampa à prova de vazamentos. Isolamento térmico com gelo por até 48 horas. Não indicada para líquidos quentes. Design minimalista, base reforçada.\n\nAlça: PP\nTampa e Canudo: PP\nParede dupla isolada a vácuo\nCorpo e base em Aço inoxidável 304 (aço inoxidável 18/8)\n\nMedidas:\nAltura: 26,5cm (incluindo altura da tampa)\nDiâmetro: 7cm aproximadamente\nLitragem: 750ml"
+  },
+  {
+    "id": "garrafa-termica-fresh-ebook-clear",
+    "name": "Garrafa Térmica Fresh",
+    "category": "garrafas",
+    "basePrice": 149.9,
+    "oldPrice": 219.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/a85d228d0e4d9ae4245599e5.webp",
+    "variants": [
+      {
+        "id": "360freshbrancav3",
+        "colorName": "Branca",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "8978",
+            "name": "Fresh 1200ml",
+            "inStock": true,
+            "additionalPrice": 70,
+            "mockupUrl": "/images/products/a85d228d0e4d9ae4245599e5.webp"
+          },
+          {
+            "id": "5702",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/f42deea7eb07bec352ab5765.webp"
+          },
+          {
+            "id": "5721",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/0cf75c260da962246e083e3d.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshpretav3",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "8979",
+            "name": "Fresh 1200ml",
+            "inStock": true,
+            "additionalPrice": 70,
+            "mockupUrl": "/images/products/5abfb7af90577c41d3b1189f.webp"
+          },
+          {
+            "id": "5705",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/12028b6b25df9d7ba80c5a6a.webp"
+          },
+          {
+            "id": "5720",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/e4ba4d78896c9f6c99b57d3a.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshdegraderosalilas",
+        "colorName": "Degradê Rosa / Lilás",
+        "colorHex": "#d4a0c5",
+        "sizes": [
+          {
+            "id": "8388",
+            "name": "Fresh 650ml",
+            "inStock": false,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/f2a0afe7817ead102592cf9f.webp"
+          },
+          {
+            "id": "8386",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/b8c0fac7e10aed927709fbc4.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8385",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/eb03e3d750a0c2a20ba5b70f.webp"
+          },
+          {
+            "id": "8382",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/269a691e0335cfbe227c2c04.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshturquesav3",
+        "colorName": "Turquesa",
+        "colorHex": "#40bfa3",
+        "sizes": [
+          {
+            "id": "5706",
+            "name": "Fresh 650ml",
+            "inStock": false,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/e13fe66895e9203831f3b822.webp"
+          },
+          {
+            "id": "5722",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/8562df07d11e655c5cd26f22.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshlemon",
+        "colorName": "Lemon",
+        "colorHex": "#d4e157",
+        "sizes": [
+          {
+            "id": "7138",
+            "name": "Fresh 650ml",
+            "inStock": false,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/8636f76d1a6f4e5b17306c18.webp"
+          },
+          {
+            "id": "7139",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/621788169896c6da3d02261f.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshlaranja",
+        "colorName": "Laranja",
+        "colorHex": "#f57c20",
+        "sizes": [
+          {
+            "id": "7136",
+            "name": "Fresh 650ml",
+            "inStock": false,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/ee060979697d60ba9d68c111.webp"
+          },
+          {
+            "id": "7137",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/fb400d68363d7f6fe9511387.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshroxo",
+        "colorName": "Roxo",
+        "colorHex": "#7b2d8e",
+        "sizes": [
+          {
+            "id": "7135",
+            "name": "Fresh 650ml",
+            "inStock": false,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/6e2481ea8a678115d0781d4e.webp"
+          },
+          {
+            "id": "7140",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/90653ad97c19f85fc9439013.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshvermelho",
+        "colorName": "Vermelho",
+        "colorHex": "#d32f2f",
+        "sizes": [
+          {
+            "id": "7133",
+            "name": "Fresh 650ml",
+            "inStock": false,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/5b1bdcd3990a51bfb957d8e2.webp"
+          },
+          {
+            "id": "7134",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 50,
+            "mockupUrl": "/images/products/68a12134202cc0e71ad39bca.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshazulmarinhov3",
+        "colorName": "Azul Marinho",
+        "colorHex": "#003e73",
+        "sizes": [
+          {
+            "id": "5704",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/33069fd99bf353e6d08a0049.webp"
+          },
+          {
+            "id": "5719",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 50,
+            "mockupUrl": "/images/products/a30fbce8be88c80085d5de30.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshrosav3",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "5703",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/7dd626541d7d9ed56277042b.webp"
+          },
+          {
+            "id": "5718",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/4e0d12266de0d51624fc2369.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshpink",
+        "colorName": "Pink",
+        "colorHex": "#ff69b4",
+        "sizes": [
+          {
+            "id": "8380",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/736a67d7f479f1228f3ea037.webp"
+          },
+          {
+            "id": "8378",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/f1c50d771a7f9779bbcda493.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshmelanciav3",
+        "colorName": "Melancia",
+        "colorHex": "#fc6c85",
+        "sizes": [
+          {
+            "id": "5709",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/de2b308a3b57ed586f47bb00.webp"
+          },
+          {
+            "id": "5725",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/8d09382633b8b0e1a5d9f284.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshlilasv3",
+        "colorName": "Lilás",
+        "colorHex": "#cebbdf",
+        "sizes": [
+          {
+            "id": "5708",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 10,
+            "mockupUrl": "/images/products/948ff18105616f663e99b598.webp"
+          },
+          {
+            "id": "5724",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 50,
+            "mockupUrl": "/images/products/3daa936bac23560fe032f695.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshazulclarov3",
+        "colorName": "Azul Claro",
+        "colorHex": "#87ceeb",
+        "sizes": [
+          {
+            "id": "5707",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/ab79b75350dbc33be29c1299.webp"
+          },
+          {
+            "id": "5723",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/7f6c3570ca1361aed9d1c6d9.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshvinho",
+        "colorName": "Vinho",
+        "colorHex": "#722f37",
+        "sizes": [
+          {
+            "id": "9774",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/3d3ff44580ef95fd5db75cca.webp"
+          },
+          {
+            "id": "9775",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 50,
+            "mockupUrl": "/images/products/31d7d2c75223f60f20392d2e.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshmarrom",
+        "colorName": "Marrom",
+        "colorHex": "#6b4226",
+        "sizes": [
+          {
+            "id": "9767",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": -50,
+            "mockupUrl": "/images/products/5c17c7f68df6f1f621427f21.webp"
+          },
+          {
+            "id": "9768",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 60,
+            "mockupUrl": "/images/products/b89700436b0cae1f350af815.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshespecialvinho",
+        "colorName": "Vinho Glitter",
+        "colorHex": "#722f37",
+        "sizes": [
+          {
+            "id": "11144",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 50,
+            "mockupUrl": "/images/products/5376be5e91b39546b02d3032.webp"
+          },
+          {
+            "id": "11146",
+            "name": "Fresh 950ml",
+            "inStock": false,
+            "additionalPrice": 70,
+            "mockupUrl": "/images/products/7f232415859e815d76f3ef65.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshespecialsalmao",
+        "colorName": "Salmão Glitter",
+        "colorHex": "#fa8072",
+        "sizes": [
+          {
+            "id": "11143",
+            "name": "Fresh 650ml",
+            "inStock": true,
+            "additionalPrice": 50,
+            "mockupUrl": "/images/products/2cfa32f1ceb03e7ae256780c.webp"
+          },
+          {
+            "id": "11145",
+            "name": "Fresh 950ml",
+            "inStock": true,
+            "additionalPrice": 70,
+            "mockupUrl": "/images/products/1f38788b061c8e7852af91e2.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/9767",
+    "dimensions": {
+      "height_cm": 24,
+      "width_cm": 7,
+      "depth_cm": 7,
+      "description": "Garrafa cilíndrica em aço inoxidável 304. 650ml: 24cm(A)×7cm(Ø), 345g / 950ml: 26,5cm(A)×9cm(Ø), 385g / 1200ml: 28,2cm(A)×9,2cm(Ø), 470,6g. Parede dupla isolada a vácuo, livre de BPA. Alça embutida na tampa. Quente até 12h, fria até 24h."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Branca",
+        "colorCode": "360freshbrancav3",
+        "imageUrl": "/images/products/cf0ceba3759555683504e3ef.webp"
+      },
+      {
+        "colorName": "Preta",
+        "colorCode": "360freshpretav3",
+        "imageUrl": "/images/products/b6c37b8fa48f3413b7adc6ad.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "360freshoffwhite",
+        "imageUrl": "/images/products/a58702ffd2f027227117ac5f.webp"
+      },
+      {
+        "colorName": "Turquesa",
+        "colorCode": "360freshturquesav3",
+        "imageUrl": "/images/products/8ac746fd09eed94efca5b924.webp"
+      },
+      {
+        "colorName": "Rosa",
+        "colorCode": "360freshrosav3",
+        "imageUrl": "/images/products/cc72a8464eb1505ca4908cf7.webp"
+      },
+      {
+        "colorName": "Pink",
+        "colorCode": "360freshpink",
+        "imageUrl": "/images/products/a10b0e3870b2534b1fb0c422.webp"
+      },
+      {
+        "colorName": "Azul Marinho",
+        "colorCode": "360freshazulmarinhov3",
+        "imageUrl": "/images/products/ccc0a1c64465389c99bdb9e2.webp"
+      },
+      {
+        "colorName": "Azul Claro",
+        "colorCode": "360freshazulclarov3",
+        "imageUrl": "/images/products/b14b9ed9b5270faff44fd33b.webp"
+      },
+      {
+        "colorName": "Lilás",
+        "colorCode": "360freshlilasv3",
+        "imageUrl": "/images/products/559694e1addfbb732264c3df.webp"
+      },
+      {
+        "colorName": "Melancia",
+        "colorCode": "360freshmelanciav3",
+        "imageUrl": "/images/products/897f8899f3db14a39d0134d2.webp"
+      },
+      {
+        "colorName": "Marrom",
+        "colorCode": "360freshmarrom",
+        "imageUrl": "/images/products/6bd83db9410a6be6107dddb9.webp"
+      },
+      {
+        "colorName": "Vinho",
+        "colorCode": "360freshvinho",
+        "imageUrl": "/images/products/320967f0b13a240f0b128269.webp"
+      }
+    ],
+    "description": "Existe Garrafa Térmica mais estilosa do que essa? A  Garrafa Térmica Fresh  chegou chegando, já disponível no branco, no turquesa e no rosa com várias estampas no site.\nDetalhe: Ela possui uma alça embutida na tampa para facilitar o transporte!\n\nCom capacidade de 650ml, 950ml ou 1200ml, a Garrafa Térmica Fresh mantém sua bebida quente por até 12hrs ou fria por até 24hrs. Depois dessa, não tem espaço para café frio e suco quente, em? \nQuanto mais fria/quente estiver a bebida, por mais tempo a Garrafa Fresh manterá a temperatura dela. \nP.S: Para uma bebida mais gelada, recomendamos utilizar gelo dentro da garrafa.\n\nDimensões e Composição\n- Capacidade: 650ml, 950ml ou 1200ml\n- Altura\n  - 650ml: 24cm (incluindo altura da tampa)\n  - 950ml: 26,5cm (incluindo altura da tampa)\n  - 1200ml: 28,2cm (incluindo altura da tampa)\n- Diâmetro\n  - 650ml: 7cm\n  - 950ml: 9cm\n  - 1200ml: 9.2cm\n- Diâmetro da boca da garrafa: \n  - 650ml: 5,5cm \n  - 950ml: 5,7cm\n  - 1200ml: 5,7cm\n- Peso líquido da garrafa vazia:\n  - 650ml: 345g\n  - 950ml: 385g\n  - 1200ml: 470,6g\n- Parede dupla isolada a vácuo;\n- Corpo em Aço inoxidável 304 (aço inoxidável 18/8);\n- Frasco livre de BPA."
+  },
+  {
+    "id": "garrafa-termica-mini-ebook-clear",
+    "name": "Garrafa Térmica Mini",
+    "category": "garrafas",
+    "basePrice": 149.9,
+    "oldPrice": 189.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/786d44be6e17e491f33174cb.webp",
+    "variants": [
+      {
+        "id": "360minipreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "5598",
+            "name": "350ml - Tampa com canudo",
+            "inStock": true,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/786d44be6e17e491f33174cb.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minimelancia",
+        "colorName": "Melancia",
+        "colorHex": "#fc6c85",
+        "sizes": [
+          {
+            "id": "5597",
+            "name": "350ml - Tampa com canudo",
+            "inStock": true,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/19f26a760520bee8b0b811e3.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minibranca",
+        "colorName": "Branca",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "5596",
+            "name": "350ml - Tampa com canudo",
+            "inStock": true,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/950119901716443c6551fca8.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minililas",
+        "colorName": "Lilás",
+        "colorHex": "#cebbdf",
+        "sizes": [
+          {
+            "id": "8345",
+            "name": "350ml - Tampa com canudo",
+            "inStock": false,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/4e9f88270fa07f6e00186f06.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minivermelha",
+        "colorName": "Vermelha",
+        "colorHex": "#d32f2f",
+        "sizes": [
+          {
+            "id": "8346",
+            "name": "350ml - Tampa com canudo",
+            "inStock": false,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/9970b5170adfffdf281f33f7.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minioffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8348",
+            "name": "350ml - Tampa com canudo",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/4c0fac291e87b9f592f846a6.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minirosa",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "8349",
+            "name": "350ml - Tampa com canudo",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/b0950558712d3c98934a2bfa.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minipink",
+        "colorName": "Pink",
+        "colorHex": "#ff69b4",
+        "sizes": [
+          {
+            "id": "9670",
+            "name": "350ml - Tampa com canudo",
+            "inStock": false,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/e4ec9c376ad96ada165f3f9b.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minidegradeazulerosa",
+        "colorName": "Degradê Azul / Rosa",
+        "colorHex": "#7b8fd4",
+        "sizes": [
+          {
+            "id": "9671",
+            "name": "350ml - Tampa com canudo",
+            "inStock": false,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/11767b9fdc3f6b3eb094d2ea.webp"
+          }
+        ]
+      },
+      {
+        "id": "360miniazul",
+        "colorName": "Azul",
+        "colorHex": "#4a90d9",
+        "sizes": [
+          {
+            "id": "5599",
+            "name": "350ml - Tampa com canudo",
+            "inStock": true,
+            "additionalPrice": 40,
+            "mockupUrl": "/images/products/1136204a180b4c041419516d.webp"
+          }
+        ]
+      },
+      {
+        "id": "360miniazulmarinho",
+        "colorName": "Azul Marinho",
+        "colorHex": "#003e73",
+        "sizes": [
+          {
+            "id": "8347",
+            "name": "350ml - Tampa com canudo",
+            "inStock": true,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/b114d4b4e462cf9000b99fcc.webp"
+          }
+        ]
+      },
+      {
+        "id": "360minilaranja",
+        "colorName": "Laranja",
+        "colorHex": "#f57c20",
+        "sizes": [
+          {
+            "id": "8344",
+            "name": "350ml - Tampa com canudo",
+            "inStock": false,
+            "additionalPrice": 20,
+            "mockupUrl": "/images/products/1d400e705ca8eb4e0afdc24d.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshminipreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "7036",
+            "name": "350ml - Tampa sem canudo",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/83eea8137cceb149109fa1fa.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshminiazul",
+        "colorName": "Azul",
+        "colorHex": "#4a90d9",
+        "sizes": [
+          {
+            "id": "7035",
+            "name": "350ml - Tampa sem canudo",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/055ab955065dccbe1c45597c.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshminimelancia",
+        "colorName": "Melancia",
+        "colorHex": "#fc6c85",
+        "sizes": [
+          {
+            "id": "7034",
+            "name": "350ml - Tampa sem canudo",
+            "inStock": false,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/781514a337f8d8e176fafa31.webp"
+          }
+        ]
+      },
+      {
+        "id": "360freshminibranca",
+        "colorName": "Branca",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "7037",
+            "name": "350ml - Tampa sem canudo",
+            "inStock": true,
+            "additionalPrice": -30,
+            "mockupUrl": "/images/products/b502a4c13c8060d9d4f4c3f8.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/garrafa-termica-mini-ebook-clear/p/5598",
+    "dimensions": {
+      "height_cm": 16,
+      "width_cm": 7.3,
+      "depth_cm": 7.3,
+      "description": "Garrafa cilíndrica compacta em aço inoxidável 304. 350ml, 16cm(A com tampa)×7,3cm(Ø), frasco 13cm sem tampa. Parede dupla isolada a vácuo, livre de BPA. Tampa com canudo interno e alça de silicone. Tampa e canudo externo em polipropileno, canudo interno em polietileno."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Preta",
+        "colorCode": "360minipreta",
+        "imageUrl": "/images/products/6f97ffb0e38488adcb7b8201.webp"
+      },
+      {
+        "colorName": "Branca",
+        "colorCode": "360minibranca",
+        "imageUrl": "/images/products/5e035e35fcf956a9335a0934.webp"
+      },
+      {
+        "colorName": "Melancia",
+        "colorCode": "360minimelancia",
+        "imageUrl": "/images/products/6510a38bc8987ce2bd471f78.webp"
+      },
+      {
+        "colorName": "Lilás",
+        "colorCode": "360minililas",
+        "imageUrl": "/images/products/b5bce0b0a62bcef00b197640.webp"
+      },
+      {
+        "colorName": "Rosa",
+        "colorCode": "360minirosa",
+        "imageUrl": "/images/products/5f2409242f081cb2abacf452.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "360minioffwhite",
+        "imageUrl": "/images/products/3d543bfdcf2eefd64a749e09.webp"
+      },
+      {
+        "colorName": "Azul",
+        "colorCode": "360miniazul",
+        "imageUrl": "/images/products/0d7c479c1be7fd8088f97987.webp"
+      },
+      {
+        "colorName": "Azul Marinho",
+        "colorCode": "360miniazulmarinho",
+        "imageUrl": "/images/products/e64d3f3318da0e637059d3c6.webp"
+      }
+    ],
+    "description": "Garrafa Térmica Fresh 350ml, tamanho compacto. 16cm de altura mantendo sua bebida até 24h fria ou 12h quente. Alça para transporte.\n\nDimensões e Composição\n- Capacidade: 350ml\n- Composição: Aço inoxidável 304 (aço inoxidável 18/8)\n- Dimensões (com tampa): 16x7,3 cm\n- Altura do frasco (sem tampa): 13cm\n- Parede dupla isolada a vácuo\n- Frasco livre de BPA\n- Opção de tampa com canudo interno e alça de silicone maleável\n- Frasco: aço inoxidável 304, tampa e canudo externo: Polipropileno, canudo interno: Polietileno"
+  },
+  {
+    "id": "garrafa-termica-urban-ebook-clear",
+    "name": "Garrafa Térmica Urban",
+    "category": "garrafas",
+    "basePrice": 79.9,
+    "oldPrice": 129.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/6acfd62a1fe1001a90a9a558.webp",
+    "variants": [
+      {
+        "id": "360urbanbranca",
+        "colorName": "Branca",
+        "colorHex": "#ffffff",
+        "sizes": [
+          {
+            "id": "5520",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/6acfd62a1fe1001a90a9a558.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanazul",
+        "colorName": "Azul",
+        "colorHex": "#4a90d9",
+        "sizes": [
+          {
+            "id": "5522",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/c46ae614d1e24b902c6fb209.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanrosa",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "5521",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/2ffd1020b59561521838d175.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanturquesa",
+        "colorName": "Turquesa",
+        "colorHex": "#40bfa3",
+        "sizes": [
+          {
+            "id": "7598",
+            "name": "Garrafa Urban Ebook",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/a8aefb5e51d60d14ae715f53.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanmelancia",
+        "colorName": "Melancia",
+        "colorHex": "#fc6c85",
+        "sizes": [
+          {
+            "id": "7599",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/2381c457644f4ad106f83219.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanacai",
+        "colorName": "Açaí",
+        "colorHex": "#4b2d5e",
+        "sizes": [
+          {
+            "id": "9672",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/69dc1d3a71a47ad165fc1787.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbancinza",
+        "colorName": "Cinza",
+        "colorHex": "#808080",
+        "sizes": [
+          {
+            "id": "9675",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/1e6f6ba8929451fdcc085534.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanpink",
+        "colorName": "Pink",
+        "colorHex": "#ff69b4",
+        "sizes": [
+          {
+            "id": "9673",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/2ef01a8a2ded68350b9ff250.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanazulescuro",
+        "colorName": "Azul Escuro",
+        "colorHex": "#1a3a5c",
+        "sizes": [
+          {
+            "id": "9674",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": 30,
+            "mockupUrl": "/images/products/674d48624a29d39c1f7e79d7.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanpreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "5523",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": -20,
+            "mockupUrl": "/images/products/ce0803161cb28c74ab237300.webp"
+          }
+        ]
+      },
+      {
+        "id": "360urbanlilas",
+        "colorName": "Lilás",
+        "colorHex": "#cebbdf",
+        "sizes": [
+          {
+            "id": "7600",
+            "name": "Garrafa Urban Ebook",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/26affb593fc86734a4fd4cf9.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/garrafa-termica-urban-ebook-clear/p/5520",
+    "dimensions": {
+      "height_cm": 27,
+      "width_cm": 7,
+      "depth_cm": 7,
+      "description": "Garrafa cilíndrica em aço inoxidável 304. 500ml, 27cm(A)×7cm(Ø), 298g. Parede dupla isolada a vácuo, livre de BPA."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Branca",
+        "colorCode": "360urbanbranca",
+        "imageUrl": "/images/products/8289bc7c8845b0199bf9946a.webp"
+      },
+      {
+        "colorName": "Azul",
+        "colorCode": "360urbanazul",
+        "imageUrl": "/images/products/a72f74f6d9d1d2d7bccae2b2.webp"
+      },
+      {
+        "colorName": "Rosa",
+        "colorCode": "360urbanrosa",
+        "imageUrl": "/images/products/75f1bd5d2b5f8ee4ece1fd78.webp"
+      },
+      {
+        "colorName": "Preta",
+        "colorCode": "360urbanpreta",
+        "imageUrl": "/images/products/8056481f1561254428cd5bd6.webp"
+      },
+      {
+        "colorName": "Lilás",
+        "colorCode": "360urbanlilas",
+        "imageUrl": "/images/products/d0e70750478a9288a2cdc719.webp"
+      },
+      {
+        "colorName": "Turquesa",
+        "colorCode": "360urbanturquesa",
+        "imageUrl": "/images/products/05e3f310c76f7c9216557313.webp"
+      },
+      {
+        "colorName": "Melancia",
+        "colorCode": "360urbanmelancia",
+        "imageUrl": "/images/products/398b0c143f295337b25d2e4d.webp"
+      },
+      {
+        "colorName": "Pink",
+        "colorCode": "360urbanpink",
+        "imageUrl": "/images/products/fdaf0e7962702379bae1bc5c.webp"
+      },
+      {
+        "colorName": "Cinza",
+        "colorCode": "360urbancinza",
+        "imageUrl": "/images/products/06064710a1b74e4d91a9302b.webp"
+      }
+    ],
+    "description": "Garrafa Térmica Urban, disponível em várias cores. Capacidade de 500ml em um design slim, perfeita para quem busca praticidade no dia a dia. Bebida quente por até 12 horas ou fria por até 24 horas. Alça removível super prática.\n\nDimensões e Composição\n- Capacidade: 500ml\n- Composição: Aço inoxidável 304 (aço inoxidável 18/8)\n- Dimensões (com tampa): 27x7 cm\n- Parede dupla isolada a vácuo\n- Frasco livre de BPA\n- Peso: 298g"
+  },
+  {
+    "id": "mala-de-bordo-trip-clear",
+    "name": "Mala de Bordo Trip",
+    "category": "malas",
+    "basePrice": 349.9,
+    "oldPrice": 499.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/27843986508a1d3307ba7aff.webp",
+    "variants": [
+      {
+        "id": "trippreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "5945",
+            "name": "Mala Bordo Trip 20\"",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/27843986508a1d3307ba7aff.webp"
+          }
+        ]
+      },
+      {
+        "id": "tripturquesa",
+        "colorName": "Turquesa",
+        "colorHex": "#40bfa3",
+        "sizes": [
+          {
+            "id": "5947",
+            "name": "Mala Bordo Trip 20\"",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/4a2766e60d4e7c686fe2bc60.webp"
+          }
+        ]
+      },
+      {
+        "id": "tripoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8393",
+            "name": "Mala Bordo Trip 20\"",
+            "inStock": false,
+            "additionalPrice": 50,
+            "mockupUrl": "/images/products/9bf7a29283a8c6827394fe37.webp"
+          }
+        ]
+      },
+      {
+        "id": "triprosa",
+        "colorName": "Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "5946",
+            "name": "Mala Bordo Trip 20\"",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/be33fefac16ae7171331560f.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/mala-de-bordo-trip-clear/p/5945",
+    "dimensions": {
+      "height_cm": 55,
+      "width_cm": 35,
+      "depth_cm": 22,
+      "description": "Mala de bordo rígida 20 polegadas. 55cm(A)×35cm(L)×22cm(P), 2,8kg vazia. Material: 100% ABS (Acrilonitrila Butadieno Estireno), forro 100% poliéster. Capacidade máxima 10kg (aprovado ANAC). 4 rodas giratórias, cadeado TSA, alça telescópica."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Preta",
+        "colorCode": "trippreta",
+        "imageUrl": "/images/products/cc1fc9d6556afeae51e87aee.webp"
+      },
+      {
+        "colorName": "Turquesa",
+        "colorCode": "tripturquesa",
+        "imageUrl": "/images/products/454c9873d05f0805532f8386.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "tripoffwhite",
+        "imageUrl": "/images/products/a80ad55928a7f6a70fc2023a.webp"
+      },
+      {
+        "colorName": "Rosa",
+        "colorCode": "triprosa",
+        "imageUrl": "/images/products/6553eb94bfde88a6aba73dec.webp"
+      }
+    ],
+    "description": "Mala de bordo Trip. Estrutura de ABS resistente, 4 rodinhas duplas com performance suave, espaço frontal para personalização. Amplo espaço interno com bolsinhos telados e faixa elástica ajustável. Cadeado fixo.\n\nDetalhes:\n- Mala de bordo (20 polegadas)\n- 1 compartimento principal (abre completamente com 2 puxadores de zíper flat)\n- 1 cadeado fixo\n- 4 rodas duplas com giro 360º\n- Haste metálica com dois pontos de trava\n- 2 bolsos internos telados\n- 1 faixa elástica ajustável em X\n\nComposição:\nTecido: 100% ABS (Acrilonitrila Butadieno Estireno)\nForro: 100% poliéster\nMedidas: A: 55 x L: 35 x P: 22 cm\nPeso: 2,8kg (mala vazia)\nCapacidade máxima: 10 kg (aprovado ANAC)"
+  },
+  {
+    "id": "mochila-executiva-clear",
+    "name": "Mochila Executiva Slim",
+    "category": "mochilas",
+    "basePrice": 249.9,
+    "oldPrice": 289.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/f1a3560cb3668127c383dab9.webp",
+    "variants": [
+      {
+        "id": "executivachumbo",
+        "colorName": "Chumbo",
+        "colorHex": "#4a4a4a",
+        "sizes": [
+          {
+            "id": "8921",
+            "name": "Mochila Executiva",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/f1a3560cb3668127c383dab9.webp"
+          }
+        ]
+      },
+      {
+        "id": "executivapreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "8922",
+            "name": "Mochila Executiva",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/e9b3c2cf703d053931296e86.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/mochila-executiva-slim-clear/p/8922",
+    "dimensions": {
+      "height_cm": 45,
+      "width_cm": 34,
+      "depth_cm": 15,
+      "description": "Mochila executiva em 100% poliéster. 45cm(A)×34cm(L)×15cm(P), ~22,9L, max 5kg. Compartimento acolchoado para notebook até 15,6\". Alça carona para mala de rodinha. Dois bolsos frontais, porta-garrafa, bolso interno. Alças acolchoadas."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Chumbo",
+        "colorCode": "executivachumbo",
+        "imageUrl": "/images/products/26d5d382c82406cf967bb774.webp"
+      },
+      {
+        "colorName": "Preta",
+        "colorCode": "executivapreta",
+        "imageUrl": "/images/products/58635595d76866be8fcd64fd.webp"
+      }
+    ],
+    "description": "Mochila Executiva Slim para praticidade e elegância no dia a dia de trabalho. Alça carona para fixar na mala durante viagens. Compartimento acolchoado para notebooks até 15,6\", dois bolsos frontais, porta-garrafa, bolso interno. Alças acolchoadas.\n\nMaterial: Tecido e Forro 100% poliéster\nMedidas: 45 x 34 x 15 cm\nLitragem: 22,9L (aproximadamente)\nCapacidade máxima: 5Kg"
+  },
+  {
+    "id": "mochila-notebook-casual-pro-clear",
+    "name": "Mochila Notebook Casual Pro",
+    "category": "mochilas",
+    "basePrice": 169.9,
+    "oldPrice": 259.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/d3b1047595622f798f2f49ae.webp",
+    "variants": [
+      {
+        "id": "casualcreme",
+        "colorName": "Casual Pro - Creme",
+        "colorHex": "#f5e6c8",
+        "sizes": [
+          {
+            "id": "6837",
+            "name": "Mochila Casual Pro",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/d3b1047595622f798f2f49ae.webp"
+          }
+        ]
+      },
+      {
+        "id": "casualrosa",
+        "colorName": "Casual Pro - Rosa",
+        "colorHex": "#e06575",
+        "sizes": [
+          {
+            "id": "8158",
+            "name": "Mochila Casual Pro",
+            "inStock": false,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/fa2893d7bad4314963f02968.webp"
+          }
+        ]
+      },
+      {
+        "id": "casualpreta",
+        "colorName": "Preto",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "6836",
+            "name": "Mochila Casual Pro",
+            "inStock": true,
+            "additionalPrice": -10,
+            "mockupUrl": "/images/products/2ddd7c506d88de11e15cf798.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/mochila-notebook-casual-pro-clear/p/6836",
+    "dimensions": {
+      "height_cm": 45,
+      "width_cm": 28,
+      "depth_cm": 15,
+      "description": "Mochila casual em poliéster. 45cm(A)×28cm(L)×15cm(P), max 5kg. Compartimento para notebook."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Casual Pro - Creme",
+        "colorCode": "casualcreme",
+        "imageUrl": "/images/products/611a13f2579fd4d190dc6d9a.webp"
+      },
+      {
+        "colorName": "Casual Pro - Rosa",
+        "colorCode": "casualrosa",
+        "imageUrl": "/images/products/1d8053e997c0aa394c26653f.webp"
+      },
+      {
+        "colorName": "EDIÇÃO ESPECIAL - Preto",
+        "colorCode": "casualpreta",
+        "imageUrl": "/images/products/3c279f26e1ff334752f60b7c.webp"
+      }
+    ],
+    "description": "Levar seu notebook pra qualquer lugar deixando ele super protegido nunca foi tão fácil e estiloso. Principalmente com a nova Mochila para Notebook Casual Pro , que chegou para ser a sua parceira no dia a dia, seja na hora de ir pro trabalho, nos estudos ou até mesmo no lazer do fim de semana. E você pode fazer tudo isso com ainda mais conforto, pois a Mochila Casual Pro possui novas alças acolchoadas, que vão trazer para você mais comodidade durante o uso! Arrasamos, né?! Então se você ama manter tudo organizado já escolhe a sua cor favorita e a personalização que vai deixar ela com a sua cara. Detalhes do produto: - Alça de mão superior para transporte rápido. - Bolso frontal para pequenos pertences. - Bolso principal com compartimento para notebooks até 15,6” polegadas. - Bolsos laterais para acomodar garrafa de até 950mL. - Puxadores duplos no compartimento principal. - Alças traseiras acolchoadas, reforçadas e ajustáveis. Composição: Tecido: 100% poliéster. Forro: 100% poliéster. Medidas: L: 28 x A: 45 x P: 15 cm Capacidade máxima: 5kg Instruções de lavagem / cuidado: Limpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua Mochila Casual Pro sempre incrível, siga corretamente as instruções para lavagem."
+  },
+  {
+    "id": "mochila-voyage-clear",
+    "name": "Mochila Voyage",
+    "category": "mochilas",
+    "basePrice": 379.9,
+    "oldPrice": 489.9,
+    "customizable": true,
+    "source": "gocase",
+    "imageUrl": "/images/products/413a0dd673b9d118b41e34a9.webp",
+    "variants": [
+      {
+        "id": "mochilavoyagepreta",
+        "colorName": "Preta",
+        "colorHex": "#2f2f2f",
+        "sizes": [
+          {
+            "id": "8784",
+            "name": "Mochila Voyage",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/413a0dd673b9d118b41e34a9.webp"
+          }
+        ]
+      },
+      {
+        "id": "mochilavoyageoffwhite",
+        "colorName": "Off White",
+        "colorHex": "#f5f5dc",
+        "sizes": [
+          {
+            "id": "8785",
+            "name": "Mochila Voyage",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/46560b21dab263404c3f6259.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.gocase.com.br/mochila-voyage-clear/p/8784",
+    "dimensions": {
+      "height_cm": 46,
+      "width_cm": 31,
+      "depth_cm": 21,
+      "description": "Mochila de viagem em poliéster. 46cm(A)×31cm(L)×21cm(P), ~29,95L. Compartimento interno aveludado para notebook até 15,6\". Bolso frontal, bolso lateral para garrafa, alça carona. Zíper principal com espaço para cadeado."
+    },
+    "referenceImages": [
+      {
+        "colorName": "Preta",
+        "colorCode": "mochilavoyagepreta",
+        "imageUrl": "/images/products/fbd21317d6e52bb3f2663982.webp"
+      },
+      {
+        "colorName": "Off White",
+        "colorCode": "mochilavoyageoffwhite",
+        "imageUrl": "/images/products/636177d8a05750f8784ef92f.webp"
+      }
+    ],
+    "description": "Mochila Voyage para viagem e dia a dia. Compartimentos internos com bolso com zíper e elástico com fivela. Bolso interno aveludado para notebooks até 15.6\". Bolso frontal, alça carona, zíper com espaço para cadeado, bolso lateral para garrafa.\n\nMaterial: 100% Poliéster\nMedidas: 31cm comprimento x 21cm largura x 46cm altura\nLitragem: 29,95L (aproximadamente)"
+  },
+  {
+    "id": "formula-4-mag-magnesio",
+    "name": "Fórmula 4Mag (Magnésio) - 30 dias",
+    "category": "suplementos",
+    "basePrice": 79.9,
+    "oldPrice": 129,
+    "customizable": false,
+    "source": "shopify",
+    "imageUrl": "/images/products/4653d0153221cc1fa6fb314e.webp",
+    "variants": [
+      {
+        "id": "54012235481379",
+        "colorName": "Padrão",
+        "colorHex": null,
+        "sizes": [
+          {
+            "id": "54012235481379",
+            "name": "Único",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/4653d0153221cc1fa6fb314e.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.rituaria.com.br/products/formula-4-mag-magnesio",
+    "dimensions": null,
+    "referenceImages": [],
+    "description": null
+  },
+  {
+    "id": "nac",
+    "name": "Fórmula NAC - 30 dias",
+    "category": "suplementos",
+    "basePrice": 89.9,
+    "oldPrice": 129,
+    "customizable": false,
+    "source": "shopify",
+    "imageUrl": "/images/products/f659968171e60d14ffed473f.webp",
+    "variants": [
+      {
+        "id": "54342150291747",
+        "colorName": "Padrão",
+        "colorHex": null,
+        "sizes": [
+          {
+            "id": "54342150291747",
+            "name": "Único",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/f659968171e60d14ffed473f.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://www.rituaria.com.br/products/nac",
+    "dimensions": null,
+    "referenceImages": [],
+    "description": null
+  },
+  {
+    "id": "formula-prebiotica",
+    "name": "Fórmula Prebiótica | 200 g",
+    "category": "suplementos",
+    "basePrice": 99.9,
+    "oldPrice": 149,
+    "customizable": false,
+    "source": "shopify",
+    "imageUrl": "/images/products/11bf3cc30e38eafc482ca767.webp",
+    "variants": [
+      {
+        "id": "53628347810083",
+        "colorName": "Padrão",
+        "colorHex": null,
+        "sizes": [
+          {
+            "id": "53628347810083",
+            "name": "Único",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/11bf3cc30e38eafc482ca767.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://rituaria.com.br/products/formula-prebiotica",
+    "dimensions": null,
+    "referenceImages": [],
+    "description": null
+  },
+  {
+    "id": "picolinato-booster",
+    "name": "Picolinato Booster - 30 dias",
+    "category": "suplementos",
+    "basePrice": 59.9,
+    "oldPrice": 99,
+    "customizable": false,
+    "source": "shopify",
+    "imageUrl": "/images/products/681b60da6144123e8f3151ba.webp",
+    "variants": [
+      {
+        "id": "54491517845795",
+        "colorName": "Padrão",
+        "colorHex": null,
+        "sizes": [
+          {
+            "id": "54491517845795",
+            "name": "Único",
+            "inStock": true,
+            "additionalPrice": 0,
+            "mockupUrl": "/images/products/681b60da6144123e8f3151ba.webp"
+          }
+        ]
+      }
+    ],
+    "productUrl": "https://rituaria.com.br/products/picolinato-booster",
+    "dimensions": null,
+    "referenceImages": [],
+    "description": null
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "id": 92476,
+  "sku": "taca-termica-drink-clear",
+  "slug": "taca-termica-drink-ebook-clear",
+  "name": "Taça Térmica Drink + Ebook - Clear",
+  "product_type_code": "tacatermicaebook",
+  "description": "🥂 <b>Taça Térmica Drink</b> – Estilo, Versatilidade e Bebida Gelada por Mais Tempo!\r\n\r\nA <b>Taça Térmica Drink</b> é ideal para quem busca praticidade, durabilidade e design sofisticado em um único produto.Muito mais que uma taça comum, ela se adapta a diferentes momentos do seu dia.\r\nCom <b>base removível</b>, a taça se transforma facilmente em um <b>copo térmico moderno</b>, perfeito para um happy hour descontraído, encontros com amigos ou brindes especiais.\r\n<b>🌡️ Mantém Sua Bebida Gelada por Muito Mais Tempo.</b> \r\nFabricada em <b>aço inoxidável com parede dupla e isolamento a vácuo</b>, a <b>Taça Térmica Drink</b> conserva a temperatura ideal da sua bebida por horas:\r\n🧊<b>Com gelo:</b> até <b>10 horas</b> de conservação.\r\n🍷<b>Sem gelo:</b> até <b>2,5 horas</b> de bebida gelada.\r\n\r\nIdeal para drinks, vinhos, coquetéis, sucos e refrigerantes, garantindo sempre a temperatura perfeita em cada gole.\r\n<b>💎 Design Premium, Funcional e Versátil:</b> Pensada para quem valoriza qualidade e detalhes, a Taça Térmica Drink une materiais resistentes e acabamento elegante:\r\n<b>Capacidade:</b> 420 ml\r\n<b>Corpo:</b> Aço inoxidável 304 (interno e externo)\r\n<b>Base:</b> Polipropileno (PP) — leve e resistente\r\n<b>Base antiderrapante</b> de silicone para maior estabilidade\r\nRemova a base e transforme a taça em um <b>copo térmico prático</b>, ideal para diferentes ocasiões do dia a dia.\r\n\r\n<b>📏 Medidas do Produto:</b>\r\nDiâmetro da boca: 84,5 mm\r\nAltura do copo (sem base): 109 mm\r\nAltura da base: 95,4 mm\r\n\r\n<b>Instruções de uso e cuidados:</b>\r\n1.Lave a taça cuidadosamente antes do primeiro uso.\r\n2.Não coloque na geladeira, congelador ou lava-louças.\r\n3.Utilize apenas esponjas macias para preservar o acabamento.\r\n4.Evite contato com objetos pontiagudos ou superfícies ásperas.\r\n5.Mantenha longe de acetona, álcool e produtos à base de cloro.\r\n\r\n<b>Garantia:</b>Este produto possui <b>90 dias de garantia</b> contra defeitos de fabricação e montagem.",
+  "price": "189.9",
+  "old_price": null,
+  "default_case_device_id": 9907,
+  "devices": [
+    {
+      "id": 4874,
+      "name": "Taça Drink 420ml - Ebook",
+      "code": "tacadrink420ebook",
+      "brand": "Taça Térmica Drink"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Rosa Claro",
+      "color_code": "360drinkrosaclaro",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4807/original/rosatype.jpg",
+      "sizes": [
+        {
+          "device_id": 4874,
+          "case_device_id": 9910,
+          "size_name": "Taça Drink 420ml - Ebook",
+          "size_code": "tacadrink420ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/taca-termica-drink-clear/360drinkrosaclaro-tacadrink420ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preta",
+      "color_code": "360drinkpreto",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4806/original/pretatype.jpg",
+      "sizes": [
+        {
+          "device_id": 4874,
+          "case_device_id": 9907,
+          "size_name": "Taça Drink 420ml - Ebook",
+          "size_code": "tacadrink420ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/taca-termica-drink-clear/360drinkpreto-tacadrink420ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Bege",
+      "color_code": "360drinkoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4809/original/offtype.jpg",
+      "sizes": [
+        {
+          "device_id": 4874,
+          "case_device_id": 9912,
+          "size_name": "Taça Drink 420ml - Ebook",
+          "size_code": "tacadrink420ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/taca-termica-drink-clear/360drinkoffwhite-tacadrink420ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Vinho",
+      "color_code": "360drinkvinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4808/original/vinhotype.png.jpg",
+      "sizes": [
+        {
+          "device_id": 4874,
+          "case_device_id": 9913,
+          "size_name": "Taça Drink 420ml - Ebook",
+          "size_code": "tacadrink420ebook",
+          "in_stock": false,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/taca-termica-drink-clear/360drinkvinho-tacadrink420ebook/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/taca-termica-drink-ebook-clear/p/9907"
+}

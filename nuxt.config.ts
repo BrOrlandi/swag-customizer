@@ -1,0 +1,34 @@
+export default defineNuxtConfig({
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/icon'],
+  ssr: false,
+  components: [{ path: '~/components', pathPrefix: false }],
+  runtimeConfig: {
+    resendApiKey: '',
+    emailFrom: '',
+    openaiApiKey: '',
+    geminiApiKey: '',
+    allowEnvKeys: false,
+    storageDir: '.data/files',
+    storageMaxBytes: 10737418240,
+    publicUrl: '',
+    allowedOrigins: 'http://localhost:3000,http://localhost:3100',
+    openaiChatModel: 'gpt-4o',
+    openaiImageModel: 'gpt-image-1.5',
+    geminiImageModel: 'gemini-3-pro-image',
+    public: { apiBase: '' },
+  },
+  app: {
+    baseURL: process.env.NUXT_APP_BASE_URL || '/',
+    head: {
+      title: 'Swag Customizer — by @BrOrlandi',
+      meta: [{ name: 'description', content: 'Personalize produtos e monte kits com IA. Uma demonstração open source por @BrOrlandi.' }],
+      link: [
+        { rel: 'icon', type: 'image/svg+xml', href: `${process.env.NUXT_APP_BASE_URL || '/'}images/swag-icon.svg` },
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap' },
+      ],
+    },
+  },
+  icon: { serverBundle: { collections: ['heroicons', 'ph'] } },
+  nitro: { experimental: { tasks: true } },
+  compatibilityDate: '2025-01-01',
+})

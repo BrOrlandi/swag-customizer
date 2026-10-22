@@ -1,0 +1,86 @@
+{
+  "id": 80367,
+  "sku": "copo-termico-daily-clear",
+  "slug": "copo-termico-daily-clear",
+  "name": "Copo Térmico Daily + Ebook - Clear",
+  "product_type_code": "copoebook",
+  "description": "Copo Térmico Daily 600ml – seu essencial de todos os dias.\r\nO Copo Daily foi feito para acompanhar sua rotina do jeito que ela é: dinâmica, prática e cheia de movimento.\r\n\r\nCom tampa à prova de vazamentos, é perfeito para levar na bolsa, no carro ou manter na mesa do trabalho sem preocupações. Fácil de abrir e fechar, é ideal para quem está sempre em movimento.\r\n\r\nCom um formato que se encaixa confortavelmente na mão, ele é o aliado ideal para quem vive no ritmo acelerado do dia a dia.\r\n\r\nCompacto, leve e funcional, vai com você do café da manhã à última reunião do dia. O Copo Daily é mais do que um acessório – é parte da sua rotina.\r\nP.S: Para uma bebida mais gelada, recomendamos utilizar gelo dentro do copo.\r\n\r\nDepois dessa novidade, a hora de combinar a estampa do copo com a estampa da mochila, lancheira, capinha e bolsa de viagem, é agora. O seu sonho se realizou! ✨\r\n\r\nInformações relevantes:\r\n6 horas bebida quente\r\n30 horas com gelo \r\nTampa e Canudo: Tritan\r\nParede dupla isolada a vácuo\r\nCorpo em Aço inoxidável 304 (aço inoxidável 18/8)\r\nMedidas:\r\nCapacidade: 600ml\r\nAltura: 18,5cm (com tampa)\r\nDiâmetro bocal: 7cm\r\nDiâmetro: 9,4cm\r\n\r\nInstruções de lavagem / cuidado:\r\nOs copos devem ser lavados à mão, evitando esponjas abrasivas e somente as tampas podem ser lavadas na máquina de lavar louças.\r\nOutras informações:\r\n✨ Dica rápida para remover a cola do adesivo da tampa! ✨\r\nSabe aquela cola insistente que fica na tampa depois de tirar o adesivo? A solução está mais perto do que você imagina: use qualquer tipo de óleo! 🛢️💡\r\n🔹 Como fazer:\r\n1️⃣ Aplique um pouco de óleo (pode ser de cozinha, bebê ou até o de massagem) sobre a cola.\r\n2️⃣ Deixe agir por alguns minutinhos para amolecer o resíduo.\r\n3️⃣ Esfregue suavemente com um pano ou esponja.\r\n4️⃣ Limpe com água e sabão, e pronto! A tampa fica novinha em folha! ✨\r\nPrático, rápido e com zero complicação. Experimente e veja como é fácil deixar a tampa do teu copo life impecável! 😉\r\n\r\nGarantia: o produto tem uma garantia de 90 dias contra defeitos de fabricação e montagem.",
+  "price": "79.9",
+  "old_price": "159.9",
+  "default_case_device_id": 9083,
+  "devices": [
+    {
+      "id": 4563,
+      "name": "600ml",
+      "code": "copolife600ebook",
+      "brand": "Copo Térmico Life"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Off White",
+      "color_code": "360lifeoffwhite600",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4194/original/COPO_LIFE_660ml-_V4_off.jpg",
+      "sizes": [
+        {
+          "device_id": 4563,
+          "case_device_id": 9080,
+          "size_name": "600ml",
+          "size_code": "copolife600ebook",
+          "in_stock": true,
+          "additional_price": "40.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-daily-clear/360lifeoffwhite600-copolife600ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa Claro",
+      "color_code": "360liferosaclaro600",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4197/original/COPO_LIFE_660ml-_V4_rosa__1_.jpg",
+      "sizes": [
+        {
+          "device_id": 4563,
+          "case_device_id": 9083,
+          "size_name": "600ml",
+          "size_code": "copolife600ebook",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-daily-clear/360liferosaclaro600-copolife600ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preto",
+      "color_code": "360lifepreto600",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4195/original/COPO_LIFE_660ml-_V4_preto-ajuste.jpg",
+      "sizes": [
+        {
+          "device_id": 4563,
+          "case_device_id": 9081,
+          "size_name": "600ml",
+          "size_code": "copolife600ebook",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-daily-clear/360lifepreto600-copolife600ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Branco",
+      "color_code": "360lifebranco600",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4196/original/COPO_LIFE_660ml-_V4_BRANCO__1_.jpg",
+      "sizes": [
+        {
+          "device_id": 4563,
+          "case_device_id": 9082,
+          "size_name": "600ml",
+          "size_code": "copolife600ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-daily-clear/360lifebranco600-copolife600ebook/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/copo-termico-daily-clear/p/9083"
+}

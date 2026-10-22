@@ -1,0 +1,33 @@
+services:
+  backend:
+    build: .
+    restart: unless-stopped
+    expose:
+      - "3000"
+    environment:
+      NUXT_PUBLIC_URL: ${NUXT_PUBLIC_URL:-http://localhost:3000}
+      NUXT_ALLOWED_ORIGINS: ${NUXT_ALLOWED_ORIGINS:-http://localhost:3000}
+      NUXT_STORAGE_DIR: /data/files
+      NUXT_STORAGE_MAX_BYTES: ${NUXT_STORAGE_MAX_BYTES:-10737418240}
+      NUXT_OPENAI_CHAT_MODEL: ${NUXT_OPENAI_CHAT_MODEL:-gpt-4o}
+      NUXT_OPENAI_IMAGE_MODEL: ${NUXT_OPENAI_IMAGE_MODEL:-gpt-image-1.5}
+      NUXT_GEMINI_IMAGE_MODEL: ${NUXT_GEMINI_IMAGE_MODEL:-gemini-3-pro-image}
+      NUXT_RESEND_API_KEY: ${NUXT_RESEND_API_KEY:-}
+      NUXT_EMAIL_FROM: ${NUXT_EMAIL_FROM:-}
+    volumes:
+      - files:/data/files
+    networks:
+      - dokploy-network
+    mem_limit: 2g
+    cpus: 1.5
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 60s
+volumes:
+  files:
+networks:
+  dokploy-network:
+    external: true

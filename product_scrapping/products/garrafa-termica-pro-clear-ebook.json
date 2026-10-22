@@ -1,0 +1,134 @@
+{
+  "id": 80941,
+  "sku": "garrafa-termica-pro-clear-ebook",
+  "slug": "garrafa-termica-flip-pro-ebook-clear",
+  "name": "Garrafa Térmica Flip Pro + Ebook - Clear",
+  "product_type_code": "garrafaflipproebook",
+  "description": "<b>Descubra a Garrafa Flip Pro: inovação, segurança e praticidade em um só produto! ✨</b>\r\n O grande diferencial? <b>A tampa flip com sistema de botão inteligente</b>, que abre automaticamente com um clique e conta com <b>trava de segurança</b>, garantindo que ela só abra quando você quiser. Muito mais proteção no seu dia a dia! 🔒🚀\r\nAlém disso, a <b>tampa é à prova de vazamentos.</b> E tem mais: o <b>isolamento térmico eficiente</b> mantém a temperatura com gelo por até <b>48 horas</b>, mas atenção — <b>não é indicada para líquidos quentes</b>. ❄️🚫🔥\r\nCom um design minimalista, base reforçada e cores sofisticadas, a <b>Flip Pro une estilo, resistência e tecnologia</b> para te acompanhar em todos os momentos.\r\n<b>Flip Pro: onde a tampa faz toda a diferença. 💧🖤</b>\r\n\r\n<b>Informações relevantes:</b>\r\nAlça de mão\r\nNão permitido bebidas quentes\r\n48 horas com gelo \r\nTampa à prova de vazamentos e isolamento térmico\r\nAlça: PP \r\nTampa e Canudo: PP \r\nParede dupla isolada a vácuo\r\nCorpo e base em Aço inoxidável 304 (aço inoxidável 18/8)\r\n\r\n<b>Medidas:</b>\r\nAltura: 26,5cm (incluindo altura da tampa)\r\nDiâmetro: 7cm aproximadamente\r\nLitragem: 750ml \r\nInstruções de lavagem / cuidado:\r\nAs garrafas devem ser lavadas à mão, evitando esponjas abrasivas e somente as tampas podem ser lavadas na máquina de lavar louças.\r\n🧼 Orientação de Limpeza da Tampa com Borracha da Garrafa Pro\r\n\r\nA área interna da tampa possui uma borracha de vedação fixa e de difícil remoção. Por isso, não é necessário nem recomendado retirar a borracha para limpeza, evitando risco de danos ou dificuldade na remontagem.\r\n\r\nRecomendamos o seguinte procedimento:\r\n\r\nUse uma escovinha fina (como as escovas de canudo ou bico de mamadeira) para alcançar as partes mais profundas e garantir a limpeza completa ao redor da borracha.\r\n\r\nDeixe a tampa de molho em água morna com sabão neutro por alguns minutos, para ajudar na remoção de resíduos e odores.\r\n\r\nApós o molho, enxágue bem com água corrente.\r\n\r\nDeixe secar completamente antes de montar novamente ou fechar a garrafa, garantindo que não fique umidade acumulada.\r\n\r\n💡 Dica: repita essa limpeza regularmente para manter a higiene e o bom funcionamento da vedação da tampa.\r\n<b>Outras informações:</b>\r\n<b>Garantia:</b> o produto tem uma garantia de 90 dias contra defeitos de fabricação e montagem.   \r\n",
+  "price": "149.9",
+  "old_price": "219.9",
+  "default_case_device_id": 9287,
+  "devices": [
+    {
+      "id": 4592,
+      "name": "Flip Pro 750ml - Ebook",
+      "code": "garrafapro750ebook",
+      "brand": "Garrafa Térmica Flip Pro"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Preto",
+      "color_code": "360propreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3039/original/1__5_.jpg",
+      "sizes": [
+        {
+          "device_id": 4592,
+          "case_device_id": 9287,
+          "size_name": "Flip Pro 750ml - Ebook",
+          "size_code": "garrafapro750ebook",
+          "in_stock": true,
+          "additional_price": "-50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-pro-clear-ebook/360propreta-garrafapro750ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa",
+      "color_code": "360prorosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3141/original/5attttjpg.jpg",
+      "sizes": [
+        {
+          "device_id": 4592,
+          "case_device_id": 9286,
+          "size_name": "Flip Pro 750ml - Ebook",
+          "size_code": "garrafapro750ebook",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-pro-clear-ebook/360prorosa-garrafapro750ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Roxo",
+      "color_code": "360prorosaeroxo",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3040/original/v3.jpg",
+      "sizes": [
+        {
+          "device_id": 4592,
+          "case_device_id": 9285,
+          "size_name": "Flip Pro 750ml - Ebook",
+          "size_code": "garrafapro750ebook",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-pro-clear-ebook/360prorosaeroxo-garrafapro750ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Cinza",
+      "color_code": "360procinza",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3046/original/v1.jpg",
+      "sizes": [
+        {
+          "device_id": 4592,
+          "case_device_id": 9289,
+          "size_name": "Flip Pro 750ml - Ebook",
+          "size_code": "garrafapro750ebook",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-pro-clear-ebook/360procinza-garrafapro750ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Branco",
+      "color_code": "360probranco",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3207/original/v2__1_.jpg",
+      "sizes": [
+        {
+          "device_id": 4592,
+          "case_device_id": 9288,
+          "size_name": "Flip Pro 750ml - Ebook",
+          "size_code": "garrafapro750ebook",
+          "in_stock": true,
+          "additional_price": "-50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-pro-clear-ebook/360probranco-garrafapro750ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Vinho Glitter",
+      "color_code": "360flipprovinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4169/original/tipodevinho.jpg",
+      "sizes": [
+        {
+          "device_id": 4592,
+          "case_device_id": 11147,
+          "size_name": "Flip Pro 750ml - Ebook",
+          "size_code": "garrafapro750ebook",
+          "in_stock": false,
+          "additional_price": "80.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-pro-clear-ebook/360flipprovinho-garrafapro750ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Salmão Glitter",
+      "color_code": "360flipprosalmao",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4164/original/tipodesalmao.jpg",
+      "sizes": [
+        {
+          "device_id": 4592,
+          "case_device_id": 11148,
+          "size_name": "Flip Pro 750ml - Ebook",
+          "size_code": "garrafapro750ebook",
+          "in_stock": false,
+          "additional_price": "100.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafa-termica-pro-clear-ebook/360flipprosalmao-garrafapro750ebook/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p/9287"
+}

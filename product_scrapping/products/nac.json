@@ -1,0 +1,85 @@
+{
+  "id": 9998575173923,
+  "handle": "nac",
+  "title": "Fórmula NAC - 30 dias",
+  "vendor": "Rituária",
+  "product_type": "unitários",
+  "description": "<div data-block-id=\"block-95ca800f-9692-4099-80e5-3e97591a9207\" class=\"ql-block\">\n<strong>NAC da Rituária</strong> é um suplemento alimentar que combina ativos poderosos como</div>\n<div data-block-id=\"block-95ca800f-9692-4099-80e5-3e97591a9207\" class=\"ql-block\">N-acetilcisteína, Selênio e Molibdênio — pensado para quem busca proteção antioxidante profunda e <strong>suporte detox real.</strong>\n</div>\n<div data-block-id=\"block-c2171043-b8a5-4a56-b2f9-7186bd0e1568\" class=\"ql-block\">Indicado para quem deseja fortalecer a imunidade, combater o estresse oxidativo e promover a produção natural de <strong>glutationa</strong> (um dos principais antioxidantes do corpo), ele atua como um verdadeiro escudo interno contra inflamações silenciosas, toxinas e radicais livres.</div>\n<div data-block-id=\"block-c2171043-b8a5-4a56-b2f9-7186bd0e1568\" class=\"ql-block\"><br></div>\n<div data-block-id=\"block-3677c5d4-bef5-462b-a795-0da5b224ce59\" class=\"ql-block\">\n<meta charset=\"utf-8\">\n<p data-end=\"446\" data-start=\"55\">✔ <strong data-end=\"93\" data-start=\"57\">Aumenta a produção de glutationa</strong> (antioxidante potente)<br data-end=\"119\" data-start=\"116\">✔ <strong data-end=\"149\" data-start=\"121\">Reduz estresse oxidativo</strong> e inflamação<br data-end=\"165\" data-start=\"162\">✔ <strong data-end=\"200\" data-start=\"167\">Auxilia na saúde respiratória</strong> (fluidifica o muco)<br data-end=\"223\" data-start=\"220\">✔ <strong data-end=\"252\" data-start=\"225\">Apoia a saúde do fígado</strong><br data-end=\"255\" data-start=\"252\">✔ <strong data-end=\"282\" data-start=\"257\">Fortalece a imunidade</strong><br data-end=\"285\" data-start=\"282\">✔ <strong data-end=\"331\" data-start=\"287\">Contribui como adjuvante na saúde mental</strong> (ansiedade, depressão e TOC)<br data-end=\"363\" data-start=\"360\">✔ <strong data-end=\"405\" data-start=\"365\">Ajuda no tratamento da infertilidade</strong><br data-end=\"408\" data-start=\"405\">✔ <strong data-end=\"444\" data-start=\"410\">Protege contra danos celulares</strong></p>\n<p data-end=\"558\" data-start=\"448\">Fórmula vegana, sem glúten, sem enchimentos, em cápsula vegetal e com ativos de alta biodisponibilidade.</p>\n</div>",
+  "tags": "",
+  "options": [
+    {
+      "id": 12541279535395,
+      "product_id": 9998575173923,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 54342150291747,
+      "title": "Default Title",
+      "sku": "NAC_SHOP",
+      "price": "89.90",
+      "compare_at_price": "129.00",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "image_id": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/CAPAS_OFICIAIS_SITE_5.png?v=1770863769"
+    }
+  ],
+  "images": [
+    {
+      "id": 51313681105187,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/CAPAS_OFICIAIS_SITE_5.png?v=1770863769",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50513635639587,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/RI_-_FORMULAS_DO_SITE_3_693ed814-7ae2-43c5-a9ae-c5cbc7eca183.jpg?v=1770863769",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50513644519715,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_2_copiar_6_156b9152-bef6-477d-8be9-68bea7588cfd.jpg?v=1770863769",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50513644552483,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_3_copiar_5_e0ef2a1f-8261-4f32-ae23-a354e422b827.jpg?v=1770863769",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50513644454179,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_4_copiar_8_930d4b46-6216-4ee2-8a65-1fd9af88a24c.jpg?v=1770863769",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50624967606563,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_6_copiar_5_1284ba08-3dbf-4e1e-8b96-4b76b28689d0.jpg?v=1770863769",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50513644486947,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta_9_copiar_cb7a0767-18af-4831-8b3f-d6c8f3204cdc.jpg?v=1770863769",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50513614274851,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/RI-FORMULASDOSITE_1.jpg?v=1770863769",
+      "alt": null,
+      "variant_ids": []
+    }
+  ],
+  "source_url": "https://www.rituaria.com.br/products/nac"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 10057135259939,
+  "handle": "picolinato-booster",
+  "title": "Picolinato Booster - 30 dias",
+  "vendor": "Rituária",
+  "product_type": "unitários",
+  "description": "<div class=\"ql-block\" data-block-id=\"block-95ca800f-9692-4099-80e5-3e97591a9207\">\n<meta charset=\"utf-8\">\n<div data-block-id=\"block-3462c094-6666-47cd-8e4e-84ff1010519c\" class=\"ql-block\">\n<meta charset=\"utf-8\">\n<div data-block-id=\"block-96cce07a-eabd-4217-aa8e-1d42a75aa26d\" class=\"ql-block\">\n<meta charset=\"utf-8\">\n<div data-block-id=\"block-9f74c142-8199-4424-a8a4-2d1409599917\" class=\"ql-block\">\n<meta charset=\"utf-8\">\n<div data-block-id=\"block-6c1d0443-1c05-44aa-a134-c48ff8e16de9\" class=\"ql-block\">\n<meta charset=\"utf-8\">\n<div data-block-id=\"block-7fbe4e60-b936-4be4-b3e3-3023e86cce80\" class=\"ql-block\">\n<strong>Picolinato BOOST</strong> é o seu empurrão inteligente para dias cheios. Um blend que combina cromo em forma de picolinato, café verde (com ácido clorogênico), cafeína e vitaminas do complexo B — pensado para <strong>equilibrar o metabolismo da glicose</strong>, <strong>dar foco e disposição</strong> e <strong>reduzir a fadiga</strong> sem complicar a rotina.</div>\n<div data-block-id=\"block-68026e02-f56d-43f3-993a-e459596bf38a\" class=\"ql-block\">Indicado para quem busca:</div>\n<p> </p>\n<p><strong>Energia estável</strong> e concentração para trabalho/estudo</p>\n<p><strong>Apoio ao metabolismo de carboidratos</strong> e ao controle de beliscos</p>\n<p><strong>Menos cansaço</strong> ao longo do dia</p>\n<p>Fórmula em cápsulas, <strong>não contém glúten</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "tags": "",
+  "options": [
+    {
+      "id": 12609277100323,
+      "product_id": 10057135259939,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 54491517845795,
+      "title": "Default Title",
+      "sku": "PICOLINATO_SHOP",
+      "price": "59.90",
+      "compare_at_price": "99.00",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "image_id": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/23_64cd5fa3-8580-4741-9bf4-92fbe5e6cf97.png?v=1770389091"
+    }
+  ],
+  "images": [
+    {
+      "id": 51257340789027,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/23_64cd5fa3-8580-4741-9bf4-92fbe5e6cf97.png?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50834131583267,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/RI_-_FORMULAS_DO_SITE_7.png?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50834131616035,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/RI_-_FORMULAS_DO_SITE_8.png?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50834080629027,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta2copiar6_93327a92-9db7-49b9-bdab-97689551f37d.jpg?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50834080661795,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta3copiar5_f2eea2a1-024a-48a0-9bc3-ec029fef2344.jpg?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50834080694563,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta4copiar9_2be24367-7a49-4fbe-97e6-cc8f9c2b0235.jpg?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50834080727331,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta4copiar10_7b67f069-c638-4b0d-a66c-8d9acbddc047.jpg?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50834080760099,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta6copiar5_f3a8a425-254a-464e-9640-757ed51dc56b.jpg?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    },
+    {
+      "id": 50834080792867,
+      "src": "https://cdn.shopify.com/s/files/1/0926/3081/0915/files/Prancheta9copiar_f7d164c5-704d-4cf8-bda6-8b5ef9c09e9e.jpg?v=1770389091",
+      "alt": null,
+      "variant_ids": []
+    }
+  ],
+  "source_url": "https://www.rituaria.com.br/products/picolinato-booster"
+}

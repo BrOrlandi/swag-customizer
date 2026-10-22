@@ -1,0 +1,118 @@
+{
+  "id": 69385,
+  "sku": "lancheira-play-clear",
+  "slug": "bolsa-termica-play-clear-1",
+  "name": "Bolsa Térmica Play - Clear",
+  "product_type_code": "lancheirabts",
+  "description": "<div class=\"produto\">\r\n  <h1>Bolsa Térmica Play</h1>\r\n  <p>Leve suas refeições com estilo e eficiência! A nova Bolsa Térmica Play foi projetada para acompanhar sua rotina com ainda mais qualidade. Seu tamanho compacto é super prático e sua alça transversal oferece uma dose extra de conforto para você levá-la aonde quiser!</p>\r\n  <p>E não é só isso, não! O novo design traz, também, um bolso externo lateral para colocar pequenos itens. Outros detalhes que você vai amar são:</p>\r\n  <ul>\r\n    <li>Bolso principal espaçoso com proteção térmica;</li>\r\n    <li>3 divisórias em elástico para frutas, talheres, ou potes finos;</li>\r\n    <li>Compartimento com redinha para levar e organizar seus lanches;</li>\r\n    <li>Bolso externo frontal para pertences adicionais;</li>\r\n    <li>Materiais resistentes que contribuem para um modelo bem estruturado;</li>\r\n    <li>Alça transversal removível;</li>\r\n    <li>Bolso externo lateral para pequenos itens.</li>\r\n  </ul>\r\n  <p>Simplesmente perfeita! Corre já para garantir uma experiência diária ainda mais organizada e eficiente com a Bolsa Térmica Play!</p>\r\n\r\n  <h2>Informações relevantes</h2>\r\n  <ul>\r\n    <li>Modelo de fácil abertura com mais espaço interno;</li>\r\n    <li>Divisória interna de redinha para alimentos/itens;</li>\r\n    <li>Contém 1 alça de mão e 1 alça regulável de ombro;</li>\r\n    <li>Bolso lateral para garrafa;</li>\r\n  </ul>\r\n\r\n  <h2>Embalagem</h2>\r\n  <p>Dust Bag M - 1 para cada produto</p>\r\n\r\n  <h2>Composição</h2>\r\n  <ul>\r\n    <li><strong>Tecido:</strong> 100% Poliéster;</li>\r\n    <li><strong>Forro:</strong> 100% Polietileno vinil acetato;</li>\r\n    <li><strong>Detalhes:</strong> 100% Policloreto de Vinila;</li>\r\n  </ul>\r\n\r\n  <h2>Medidas</h2>\r\n  <ul>\r\n    <li><strong>Largura:</strong> 22cm;</li>\r\n    <li><strong>Altura:</strong> 19cm;</li>\r\n    <li><strong>Profundidade:</strong> 10cm;</li>\r\n    <li><strong>Capacidade máxima:</strong> 2 kg;</li>\r\n    <li><strong>Litragem:</strong> 4L;</li>\r\n  </ul>\r\n\r\n  <h2>Instruções de lavagem / cuidado</h2>\r\n  <p>\r\n    Como limpar seu produto: Limpe com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar na sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua Bolsa Térmica Play incrível, siga corretamente as instruções de limpeza.\r\n  </p>\r\n\r\n  <h2>Outras informações</h2>\r\n<p>\r\n✨ Cuidados com produtos em cores claras ✨\r\n\r\nNossas bolsas e bolsas térmicas em tons claros 👜🤍 merecem um cuidado especial no dia a dia! Evite o contato ou atrito com tecidos que soltam tinta, como calças jeans 👖 ou roupas escuras 🖤. Isso pode causar manchas permanentes devido à migração de cor. ⚠️ Manchas desse tipo são consideradas mau uso e não estão cobertas pela garantia.\r\n</p>\r\n  <p><strong>Garantia:</strong> o produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.</p>\r\n</div>\r\n",
+  "price": "99.9",
+  "old_price": "179.9",
+  "default_case_device_id": 8589,
+  "devices": [
+    {
+      "id": 4344,
+      "name": "Bolsa Térmica Play",
+      "code": "lancheiraplay",
+      "brand": "Bolsa Térmica Play"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Azul Lavanda",
+      "color_code": "midiplayazulclaro",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3770/original/_LF_9928-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4344,
+          "case_device_id": 8588,
+          "size_name": "Bolsa Térmica Play",
+          "size_code": "lancheiraplay",
+          "in_stock": true,
+          "additional_price": "40.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/lancheira-play-clear/midiplayazulclaro-lancheiraplay/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "midiplayoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3772/original/_LF_9949-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4344,
+          "case_device_id": 8590,
+          "size_name": "Bolsa Térmica Play",
+          "size_code": "lancheiraplay",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/lancheira-play-clear/midiplayoffwhite-lancheiraplay/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preta",
+      "color_code": "midiplaypreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3769/original/_LF_9940-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4344,
+          "case_device_id": 8589,
+          "size_name": "Bolsa Térmica Play",
+          "size_code": "lancheiraplay",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/lancheira-play-clear/midiplaypreta-lancheiraplay/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Melancia",
+      "color_code": "midiplaymelancia",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3771/original/_LF_9911-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4344,
+          "case_device_id": 8587,
+          "size_name": "Bolsa Térmica Play",
+          "size_code": "lancheiraplay",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/lancheira-play-clear/midiplaymelancia-lancheiraplay/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa / Lilás",
+      "color_code": "midiplayrosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3558/original/MIDI_ROSA_COM_LILAS_FRENTE.jpg",
+      "sizes": [
+        {
+          "device_id": 4344,
+          "case_device_id": 8391,
+          "size_name": "Bolsa Térmica Play",
+          "size_code": "lancheiraplay",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/lancheira-play-clear/midiplayrosa-lancheiraplay/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Marinho",
+      "color_code": "midiplayazulmarinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3559/original/_LF_9920-3__1_.jpg",
+      "sizes": [
+        {
+          "device_id": 4344,
+          "case_device_id": 8392,
+          "size_name": "Bolsa Térmica Play",
+          "size_code": "lancheiraplay",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/lancheira-play-clear/midiplayazulmarinho-lancheiraplay/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/bolsa-termica-play-clear-1/p/8589"
+}

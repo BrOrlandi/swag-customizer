@@ -1,0 +1,70 @@
+{
+  "id": 53870,
+  "sku": "mochila-notebook-casual-pro-clear",
+  "slug": "mochila-notebook-casual-pro-clear",
+  "name": "Mochila Notebook Casual Pro - Clear",
+  "product_type_code": "backpackcd",
+  "description": "Levar seu notebook pra qualquer lugar deixando ele super protegido nunca foi tão fácil e estiloso. Principalmente com a nova <b>Mochila para Notebook Casual Pro</b>, que chegou para ser a sua parceira no dia a dia, seja na hora de ir pro trabalho, nos estudos ou até mesmo no lazer do fim de semana. E você pode fazer tudo isso com ainda mais conforto, pois a <b>Mochila Casual Pro</b> possui novas alças acolchoadas, que vão trazer para você mais comodidade durante o uso! Arrasamos, né?!\r\nEntão se você ama manter tudo organizado já escolhe a sua cor favorita e a personalização que vai deixar ela com a sua cara.\r\n\r\n<b>Detalhes do produto:</b>\r\n\r\n- Alça de mão superior para transporte rápido.\r\n- Bolso frontal para pequenos pertences. \r\n- Bolso principal com compartimento para notebooks até 15,6” polegadas.\r\n- Bolsos laterais para acomodar garrafa de até 950mL.\r\n- Puxadores duplos no compartimento principal.\r\n- Alças traseiras acolchoadas, reforçadas e ajustáveis.\r\n\r\n<b>Composição:</b>\r\nTecido: 100% poliéster.\r\nForro: 100% poliéster.\r\n\r\n<b>Medidas:</b> L: 28 x A: 45  x P: 15 cm\r\n\r\n<b>Capacidade máxima:</b> 5kg \r\n\r\n<b>Instruções de lavagem / cuidado: </b>\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua  Mochila Casual Pro sempre incrível, siga corretamente as instruções para lavagem.\r\n\r\n<b>Outras informações:</b>\r\n✨ Cuidados com produtos em cores claras ✨\r\n\r\nNossas bolsas e bolsas térmicas em tons claros 👜🤍 merecem um cuidado especial no dia a dia! Evite o contato ou atrito com tecidos que soltam tinta, como calças jeans 👖 ou roupas escuras 🖤. Isso pode causar manchas permanentes devido à migração de cor. ⚠️ Manchas desse tipo são consideradas mau uso e não estão cobertas pela garantia.\r\n\r\nGarantia: o produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.",
+  "price": "169.9",
+  "old_price": "259.9",
+  "default_case_device_id": 6836,
+  "devices": [
+    {
+      "id": 3615,
+      "name": "Mochila Casual Pro",
+      "code": "mochilacasualpro",
+      "brand": "Mochila para Notebook Casual Pro"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Casual Pro - Creme",
+      "color_code": "casualcreme",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2281/original/casualcreme.jpg",
+      "sizes": [
+        {
+          "device_id": 3615,
+          "case_device_id": 6837,
+          "size_name": "Mochila Casual Pro",
+          "size_code": "mochilacasualpro",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-notebook-casual-pro-clear/casualcreme-mochilacasualpro/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Casual Pro - Rosa",
+      "color_code": "casualrosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2346/original/casualrosa_Seletor.jpg",
+      "sizes": [
+        {
+          "device_id": 3615,
+          "case_device_id": 8158,
+          "size_name": "Mochila Casual Pro",
+          "size_code": "mochilacasualpro",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-notebook-casual-pro-clear/casualrosa-mochilacasualpro/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "EDIÇÃO ESPECIAL - Preto",
+      "color_code": "casualpreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2280/original/blackjpg.jpg",
+      "sizes": [
+        {
+          "device_id": 3615,
+          "case_device_id": 6836,
+          "size_name": "Mochila Casual Pro",
+          "size_code": "mochilacasualpro",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-notebook-casual-pro-clear/casualpreta-mochilacasualpro/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/mochila-notebook-casual-pro-clear/p/6836"
+}

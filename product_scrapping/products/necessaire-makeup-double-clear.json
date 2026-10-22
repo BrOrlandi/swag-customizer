@@ -1,0 +1,118 @@
+{
+  "id": 69117,
+  "sku": "necessaire-makeup-double-clear",
+  "slug": "necessaire-makeup-double-clear",
+  "name": "Necessaire Makeup Double - Clear",
+  "product_type_code": "necessairecd",
+  "description": "Já pensou em ter todos os seus itens de self care e maquiagem bem organizados em um lugar só? Com a Necessaire Makeup Double você pode guardar tudo em dois compartimentos diferentes, além de poder admirar seus produtinhos pela janela transparente do primeiro bolso. \r\n\r\nAs duas divisórias tem seus próprios bolsos organizadores e comportam muita coisa! Na primeira, com janela transparente, você pode colocar as suas makes mais bonitas e, na segunda, tudo que precisa de espaço, como pincéis, paletas e esponjinhas. A necessaire também é super fácil de higienizar e veio para otimizar o armazenamento de itens tão especiais!\r\n\r\nDetalhes:\r\n- Divisória com janela: Tem bolso interno com elástico para manter tudo bem seguro.\r\n- Divisória inferior: Tem um bolso com espaço para pincéis, escova de dente e muito mais.\r\n- Alcinha de mão.\r\n\r\nDimensões:\r\nLargura: 23cm\r\nAltura: 18cm\r\nProfundidade: 12cm\r\n\r\nMateriais:\r\nExterno: 100% poliéster.\r\nInterno: 100% poliéster.\r\ndetalhes: 100% poliuretano.\r\n\r\n<b>Como limpar: </b>Limpe sua Necessaire Makeup Double com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar na sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua necessaire incrível, siga corretamente as instruções para lavagem.\r\n\r\n<b>Garantia: O produto tem uma garantia de 90 dias contra defeitos de fabricação e personalização.</b>",
+  "price": "99.9",
+  "old_price": "169.9",
+  "default_case_device_id": 5077,
+  "devices": [
+    {
+      "id": 2343,
+      "name": "Necessaire Makeup Double",
+      "code": "makeupdouble",
+      "brand": "Necessaire"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Preta",
+      "color_code": "necessairepreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1143/original/necessaire_makeup_double_preta_1.jpg",
+      "sizes": [
+        {
+          "device_id": 2343,
+          "case_device_id": 5077,
+          "size_name": "Necessaire Makeup Double",
+          "size_code": "makeupdouble",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/necessaire-makeup-double-clear/necessairepreta-makeupdouble/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa",
+      "color_code": "necessairerosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1142/original/necessaire_makeup_double_rosa_1.jpg",
+      "sizes": [
+        {
+          "device_id": 2343,
+          "case_device_id": 5078,
+          "size_name": "Necessaire Makeup Double",
+          "size_code": "makeupdouble",
+          "in_stock": false,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/necessaire-makeup-double-clear/necessairerosa-makeupdouble/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "necessaireoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3639/original/necessaireoffwhite-seletor.jpg",
+      "sizes": [
+        {
+          "device_id": 2343,
+          "case_device_id": 8492,
+          "size_name": "Necessaire Makeup Double",
+          "size_code": "makeupdouble",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/necessaire-makeup-double-clear/necessaireoffwhite-makeupdouble/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Turquesa",
+      "color_code": "necessaireturquesa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3936/original/gocase-1612-908-1.jpg",
+      "sizes": [
+        {
+          "device_id": 2343,
+          "case_device_id": 8738,
+          "size_name": "Necessaire Makeup Double",
+          "size_code": "makeupdouble",
+          "in_stock": false,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/necessaire-makeup-double-clear/necessaireturquesa-makeupdouble/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Melancia",
+      "color_code": "necessairemelancia",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3935/original/_LF_9970-1.jpg",
+      "sizes": [
+        {
+          "device_id": 2343,
+          "case_device_id": 8737,
+          "size_name": "Necessaire Makeup Double",
+          "size_code": "makeupdouble",
+          "in_stock": false,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/necessaire-makeup-double-clear/necessairemelancia-makeupdouble/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Lavanda",
+      "color_code": "necessaireazulclaro",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3934/original/Imagem_do_WhatsApp_de_2024-10-07__C3_A0_s__17.54.19_14c34c3b.jpg",
+      "sizes": [
+        {
+          "device_id": 2343,
+          "case_device_id": 8736,
+          "size_name": "Necessaire Makeup Double",
+          "size_code": "makeupdouble",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/necessaire-makeup-double-clear/necessaireazulclaro-makeupdouble/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/necessaire-makeup-double-clear/p/5077"
+}

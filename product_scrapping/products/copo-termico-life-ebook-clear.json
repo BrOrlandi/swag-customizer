@@ -1,0 +1,428 @@
+{
+  "id": 67116,
+  "sku": "copo-termico-life-ebook-clear",
+  "slug": "copo-termico-life-ebook-clear",
+  "name": "Copo Térmico Life + Ebook - Clear",
+  "product_type_code": "copoebook",
+  "description": "Existe copo térmico mais estiloso do que esse? O Copo Térmico Life chegou chegando. 🙂\r\nCom capacidade de 1.170 ml, 880ml o Copo Life mantém sua bebida quente por até 6 hrs (*Líquidos até 60°C) ou fria (com gelo) por até 40hrs (880ml) e 48hrs (1.170ml). Depois dessa, não tem espaço para café frio e suco quente, hein? 💧Quanto mais fria/quente estiver a bebida, por mais tempo o Copo Life manterá a temperatura dela.\r\nP.S: Para uma bebida mais gelada, recomendamos utilizar gelo dentro do copo.\r\nDepois dessa novidade, a hora de combinar a estampa do copo com a estampa da mochila, lancheira, capinha e bolsa de viagem, é agora. O seu sonho se realizou! ✨\r\n\r\n<b>Informações relevantes:</b>\r\nAlça lateral (nos volumes 1170ml e 880ml)\r\n6 horas bebida quente (<b>*Líquidos até 60°C</b>)\r\n48 horas com gelo (1.170ml)\r\n40 horas com gelo (880ml)\r\nAlça: PP\r\nTampa e Canudo: Tritan\r\nParede dupla isolada a vácuo\r\nCorpo em Aço inoxidável 304 (aço inoxidável 18/8)\r\n\r\n<b>Medidas:</b>\r\nCapacidade: 880ml ou 1.170ml\r\n<b>Altura:</b>\r\n-  880ml: 22,8cm (incluindo altura da tampa)\r\n-  1.170ml: 24,8 cm (incluindo altura da tampa)\r\n<b>Diâmetro:</b>\r\n- 880ml: 8,6cm\r\n- 1.170ml: 9.2 cm\r\n<b>Litragem:</b>\r\n 1.170ml ou 880ml\r\n<b>Instruções de lavagem / cuidado:</b>\r\nOs copos devem ser lavados à mão, evitando esponjas abrasivas e somente as tampas podem ser lavadas na máquina de lavar louças.\r\n<b>Outras informações:</b>\r\n✨ Dica rápida para remover a cola do adesivo da tampa! ✨\r\nSabe aquela cola insistente que fica na tampa depois de tirar o adesivo? A solução está mais perto do que você imagina: use qualquer tipo de óleo! 🛢️💡\r\n🔹 Como fazer:\r\n1️⃣ Aplique um pouco de óleo (pode ser de cozinha, bebê ou até o de massagem) sobre a cola.\r\n2️⃣ Deixe agir por alguns minutinhos para amolecer o resíduo.\r\n3️⃣ Esfregue suavemente com um pano ou esponja.\r\n4️⃣ Limpe com água e sabão, e pronto! A tampa fica novinha em folha! ✨\r\nPrático, rápido e com zero complicação. Experimente e veja como é fácil deixar a tampa do teu copo life impecável! 😉\r\n<b>Garantia:</b> o produto tem uma garantia de 90 dias contra defeitos de fabricação e montagem.   \r\n",
+  "price": "149.9",
+  "old_price": "239.9",
+  "default_case_device_id": 8755,
+  "devices": [
+    {
+      "id": 4209,
+      "name": "1170ml",
+      "code": "copolife1180ebook",
+      "brand": "Copo Térmico Life"
+    },
+    {
+      "id": 4509,
+      "name": "880ml",
+      "code": "copolife880ebook",
+      "brand": "Copo Térmico Life"
+    },
+    {
+      "id": 4544,
+      "name": "880ml + Alça Esporte",
+      "code": "hangerlife880ebook",
+      "brand": "Copo Térmico Life"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Vinho Glitter",
+      "color_code": "360lifeespecialvinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4407/original/2.jpg.png.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 11179,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": false,
+          "additional_price": "40.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeespecialvinho-copolife1180ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa",
+      "color_code": "360liferosaclaro",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2415/original/mockups_COPO_LIFE_VISTA_2_rosa_claro.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8298,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360liferosaclaro-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8753,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360liferosaclaro-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Branco",
+      "color_code": "360lifebranco",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2423/original/mockups_COPO_LIFE_VISTA_3_BRANCO.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8290,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifebranco-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8747,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifebranco-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Salmão Glitter",
+      "color_code": "360lifeespecialsalmao",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4402/original/aa.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 11177,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "40.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeespecialsalmao-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 11176,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeespecialsalmao-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Claro",
+      "color_code": "360lifeazulclaro",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2425/original/mockups_COPO_LIFE_VISTA_2_azul_claro.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8293,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeazulclaro-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8750,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeazulclaro-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Lilás",
+      "color_code": "360lifelilas",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2419/original/mockups_COPO_LIFE_VISTA_1__4__lil_C3_A1s_V2.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8294,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifelilas-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8748,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifelilas-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preto",
+      "color_code": "360lifepreto",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2416/original/mockups_COPO_LIFE_VISTA_2_PRETO__1_.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8291,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifepreto-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8755,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-40.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifepreto-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Pink",
+      "color_code": "360lifepink",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3474/original/mockups_COPO_LIFE_VISTA_1__4__PINK_V2.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8295,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifepink-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8751,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-60.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifepink-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Laranja",
+      "color_code": "360lifelaranja",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2421/original/mockups_COPO_LIFE_VISTA_2_laranja.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8296,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": false,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifelaranja-copolife1180ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "360lifeoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3475/original/mockups_COPO_LIFE_VISTA_2_OFF.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8297,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeoffwhite-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8754,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeoffwhite-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Degradê Rosa / Lilás",
+      "color_code": "360lifedegradelilaserosa",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3933/original/mockups_COPO_LIFE_VISTA_2_DEGRADE_ROXO___ROSAnew.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 9120,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifedegradelilaserosa-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8749,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifedegradelilaserosa-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Marinho",
+      "color_code": "360lifeazulmarinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2418/original/mockups_COPO_LIFE_VISTA_2_azul_escuro.jpg",
+      "sizes": [
+        {
+          "device_id": 4209,
+          "case_device_id": 8292,
+          "size_name": "1170ml",
+          "size_code": "copolife1180ebook",
+          "in_stock": true,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeazulmarinho-copolife1180ebook/mockup"
+        },
+        {
+          "device_id": 4509,
+          "case_device_id": 8752,
+          "size_name": "880ml",
+          "size_code": "copolife880ebook",
+          "in_stock": true,
+          "additional_price": "-30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360lifeazulmarinho-copolife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preto + Alça Esporte",
+      "color_code": "360hangerpreto",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4023/original/jpghangerpreto.jpg",
+      "sizes": [
+        {
+          "device_id": 4544,
+          "case_device_id": 8847,
+          "size_name": "880ml + Alça Esporte",
+          "size_code": "hangerlife880ebook",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360hangerpreto-hangerlife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Branco + Alça Esporte",
+      "color_code": "360hangerbranco",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4019/original/jpghangerbranco.jpg",
+      "sizes": [
+        {
+          "device_id": 4544,
+          "case_device_id": 8845,
+          "size_name": "880ml + Alça Esporte",
+          "size_code": "hangerlife880ebook",
+          "in_stock": false,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360hangerbranco-hangerlife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White + Alça Esporte",
+      "color_code": "360hangeroffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4021/original/jpghangeroffwhite.jpg",
+      "sizes": [
+        {
+          "device_id": 4544,
+          "case_device_id": 8846,
+          "size_name": "880ml + Alça Esporte",
+          "size_code": "hangerlife880ebook",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360hangeroffwhite-hangerlife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Pink + Alça Esporte",
+      "color_code": "360hangerpink",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4804/original/hangerofficialpink.jpg",
+      "sizes": [
+        {
+          "device_id": 4544,
+          "case_device_id": 9893,
+          "size_name": "880ml + Alça Esporte",
+          "size_code": "hangerlife880ebook",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360hangerpink-hangerlife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Claro + Alça Esporte",
+      "color_code": "360hangerazulclaro",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4805/original/hangerofficialazulclaro.jpg",
+      "sizes": [
+        {
+          "device_id": 4544,
+          "case_device_id": 9892,
+          "size_name": "880ml + Alça Esporte",
+          "size_code": "hangerlife880ebook",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360hangerazulclaro-hangerlife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Lilás + Alça Esporte",
+      "color_code": "360hangerlilas",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4020/original/jpghangerlilas.jpg",
+      "sizes": [
+        {
+          "device_id": 4544,
+          "case_device_id": 8848,
+          "size_name": "880ml + Alça Esporte",
+          "size_code": "hangerlife880ebook",
+          "in_stock": false,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360hangerlilas-hangerlife880ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa Claro + Alça Esporte",
+      "color_code": "360hangerrosaclaro",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/4022/original/jpghangerrosaclaro.jpg",
+      "sizes": [
+        {
+          "device_id": 4544,
+          "case_device_id": 8849,
+          "size_name": "880ml + Alça Esporte",
+          "size_code": "hangerlife880ebook",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/copo-termico-life-ebook-clear/360hangerrosaclaro-hangerlife880ebook/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8751"
+}

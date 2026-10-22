@@ -1,0 +1,54 @@
+{
+  "id": 70761,
+  "sku": "bolsa-de-viagem-voyage-clear",
+  "slug": "bolsa-voyage-clear",
+  "name": "Bolsa Voyage - Clear",
+  "product_type_code": "travelbagcd",
+  "description": "✨ A Bolsa de Viagem Voyage é perfeita para quem vive na correria! Com um espaço interno incrível, ela carrega tudo o que você precisa e te acompanha nos melhores momentos! 😎✈️ Sempre acaba precisando de uma mala extra na volta da viagem? A Bolsa de Viagem Voyage será sua nova companheira FIEL! 💼❤️\r\nEla ainda vem com uma alça para encaixar na mala de rodinhas, bolsos internos super organizados, porta notebook (até 17”), além de 1 bolso secreto e um bolso frontal de acesso rápido! 🔐💻 Tudo isso em um tecido 100% poliéster, durável e prático. O puxador do zíper do compartimento principal possui espaço para anexar cadeado, protegendo ainda mais os teus pertences. Corre pra escolher sua cor e estampa favorita e arrasar com praticidade e exclusividade em qualquer lugar! 🎨👜✨\r\n*O cadeado não acompanha o produto.\r\n\r\n\r\n\r\n<b>Informações relevantes</b>\r\n- Alça para encaixe na mala de rodinhas\r\n- Compartimento interno com zíper.\r\n- 2 bolsos para periféricos.  \r\n- Bolso frontal para acesso rápido e fácil.\r\n- Bolso interno para acomodar notebook até 17”\r\n- 2 bolsos secretos.\r\n\r\n<b>Medidas: </b>  50 cm comprimento x 26 cm largura x 36 cm altura\r\n<b>Litragem: </b> 46,8L.\r\n<b>Instruções de lavagem / cuidado: </b>\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua Bolsa de Viagem Voyage sempre incrível, siga corretamente as instruções para lavagem.\r\n\r\n<b>Garantia:</b> o produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.\r\n\r\n\r\n\r\n\r\n",
+  "price": "399.9",
+  "old_price": null,
+  "default_case_device_id": 8774,
+  "devices": [
+    {
+      "id": 4511,
+      "name": "Bolsa Voyage",
+      "code": "bolsavoyage",
+      "brand": "Bolsa Voyage"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Preta",
+      "color_code": "bolsavoyagepreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3956/original/gocase-1612-809-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4511,
+          "case_device_id": 8774,
+          "size_name": "Bolsa Voyage",
+          "size_code": "bolsavoyage",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-de-viagem-voyage-clear/bolsavoyagepreta-bolsavoyage/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "bolsavoyageoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3955/original/gocase-1612-770-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4511,
+          "case_device_id": 8775,
+          "size_name": "Bolsa Voyage",
+          "size_code": "bolsavoyage",
+          "in_stock": false,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/bolsa-de-viagem-voyage-clear/bolsavoyageoffwhite-bolsavoyage/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/bolsa-voyage-clear/p/8774"
+}

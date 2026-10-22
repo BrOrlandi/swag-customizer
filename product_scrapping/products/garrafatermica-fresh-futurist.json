@@ -1,0 +1,468 @@
+{
+  "id": 32551,
+  "sku": "garrafatermica-fresh-futurist",
+  "slug": "garrafa-termica-fresh-futurist",
+  "name": "Garrafa Térmica Fresh + Ebook - Futurist",
+  "product_type_code": "garrafaebook",
+  "description": "Existe Garrafa Térmica mais estilosa do que essa? A <b> Garrafa Térmica Fresh </b> chegou chegando, já disponível no branco, no turquesa e no rosa com várias estampas no site.\r\nDetalhe: Ela possui uma alça embutida na tampa para facilitar o transporte!\r\n\r\nCom capacidade de 650ml, 950ml ou 1200ml, a Garrafa Térmica Fresh mantém sua bebida quente por até 12hrs ou fria por até 24hrs. Depois dessa, não tem espaço para café frio e suco quente, em? \r\nQuanto mais fria/quente estiver a bebida, por mais tempo a Garrafa Fresh manterá a temperatura dela. \r\nP.S: Para uma bebida mais gelada, recomendamos utilizar gelo dentro da garrafa.\r\n\r\nDepois dessa novidade, a hora de combinar a estampa da garrafa com a estampa da mochila, lancheira, capinha e bolsa de viagem é agora. O sonho se realizou! \r\n\r\n<b> Atenção </b>\r\n- <b>Lavar o produto antes do primeiro uso;</b>\r\n1. Não colocar o produto na geladeira ou no congelador, isso pode danificá-lo. Recomenda-se pré-aquecer ou pré-resfriar a garrafa com água antes de colocar o conteúdo, para mais tempo de conservação.\r\n2. Não colocar na lava-louças. Não usar esponjas muito abrasivas ao lavar, risco de arranhar a estampa.\r\n3. Evitar contato com objetos pontiagudos e ásperos com risco de arranhar a estampa.\r\n4. Evitar contato com acetona, álcool e líquidos à base de cloro. \r\n5. Certifique-se de que a tampa está fechada e a borracha bem posicionada antes de carregar o produto, para evitar que o líquido vaze.\r\n6. Evitar o armazenamento de líquidos gaseificados na garrafa.\r\n7. Para garrafas que acompanham e-book, o e-book é enviado para o e-mail cadastrado no site após a emissão da nota fiscal.\r\n8. Essa oferta é válida na compra do Kit, em caso de cancelamento de um dos produtos haverá perda do benefício promocional. \r\nOBS.: É normal que a tampa da garrafa transpire um pouco, pois a mesma não é composta por aço inox. \r\n\r\n<b> Dimensões e Composição </b>\r\n- Capacidade: 650ml, 950ml ou 1200ml\r\n- Altura\r\n  - 650ml: 24cm (incluindo altura da tampa)\r\n  - 950ml: 26,5cm (incluindo altura da tampa)\r\n  - 1200ml: 28,2cm (incluindo altura da tampa)\r\n- Diâmetro\r\n  - 650ml: 7cm\r\n  - 950ml: 9cm\r\n - 1200ml: 9.2cm\r\n- Diâmetro da boca da garrafa: \r\n - 650ml: 5,5cm \r\n - 950ml: 5,7cm\r\n - 1200ml: 5,7cm\r\n- Peso líquido da garrafa vazia:\r\n - 650ml: 345g\r\n - 950ml: 385g\r\n - 1200ml: 470,6g\r\n- Parede dupla isolada a vácuo;\r\n- Corpo em Aço inoxidável 304 (aço inoxidável 18/8);\r\n- Frasco livre de BPA.\r\n\r\n<b> Como limpar </b> \r\nAs garrafas devem ser lavadas à mão, evitando esponjas abrasivas e <b>somente as tampas<b> podem ser lavadas na máquina de lavar louças.\r\n\r\n<b>Garantia:</b>\r\nO produto tem uma garantia de 90 dias contra defeitos de fabricação e 1 ano contra defeitos de personalização.\r\n\r\nA imagem do produto é ilustrativa e pode variar de tonalidade e cor de acordo com a configuração de cada tela.",
+  "price": "149.9",
+  "old_price": "219.9",
+  "default_case_device_id": 5702,
+  "devices": [
+    {
+      "id": 4558,
+      "name": "Fresh 1200ml",
+      "code": "garrafafresh1200ebook",
+      "brand": "Garrafa Térmica Fresh"
+    },
+    {
+      "id": 2628,
+      "name": "Fresh 650ml",
+      "code": "garrafafresh650ebook",
+      "brand": "Garrafa Térmica Fresh"
+    },
+    {
+      "id": 2629,
+      "name": "Fresh 950ml",
+      "code": "garrafafresh950ebook",
+      "brand": "Garrafa Térmica Fresh"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Branca",
+      "color_code": "360freshbrancav3",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1534/original/shbranca.jpg",
+      "sizes": [
+        {
+          "device_id": 4558,
+          "case_device_id": 8978,
+          "size_name": "Fresh 1200ml",
+          "size_code": "garrafafresh1200ebook",
+          "in_stock": true,
+          "additional_price": "70.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshbrancav3-garrafafresh1200ebook/mockup"
+        },
+        {
+          "device_id": 2628,
+          "case_device_id": 5702,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshbrancav3-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 5721,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshbrancav3-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Preta",
+      "color_code": "360freshpretav3",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1537/original/shpretu.jpg",
+      "sizes": [
+        {
+          "device_id": 4558,
+          "case_device_id": 8979,
+          "size_name": "Fresh 1200ml",
+          "size_code": "garrafafresh1200ebook",
+          "in_stock": true,
+          "additional_price": "70.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshpretav3-garrafafresh1200ebook/mockup"
+        },
+        {
+          "device_id": 2628,
+          "case_device_id": 5705,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshpretav3-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 5720,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshpretav3-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Degradê Rosa / Lilás",
+      "color_code": "360freshdegraderosalilas",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2248/original/shdegraaaad.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 8388,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": false,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshdegraderosalilas-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 8386,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "60.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshdegraderosalilas-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Marinho",
+      "color_code": "360freshazulmarinhov3",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1539/original/shzumari.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 5704,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshazulmarinhov3-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 5719,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshazulmarinhov3-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Turquesa",
+      "color_code": "360freshturquesav3",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1536/original/shturqueees.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 5706,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": false,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshturquesav3-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 5722,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "60.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshturquesav3-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Lemon",
+      "color_code": "360freshlemon",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2215/original/shlima1.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 7138,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": false,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshlemon-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 7139,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshlemon-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Laranja",
+      "color_code": "360freshlaranja",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2181/original/shnaranja.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 7136,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": false,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshlaranja-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 7137,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "60.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshlaranja-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Roxo",
+      "color_code": "360freshroxo",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2183/original/shroooox.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 7135,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": false,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshroxo-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 7140,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshroxo-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Vermelho",
+      "color_code": "360freshvermelho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2184/original/shvermelhoooooo.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 7133,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": false,
+          "additional_price": "-10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshvermelho-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 7134,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshvermelho-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Rosa",
+      "color_code": "360freshrosav3",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1535/original/shrosa.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 5703,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshrosav3-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 5718,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshrosav3-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "360freshoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3555/original/shoffffwhi.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 8385,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshoffwhite-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 8382,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshoffwhite-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Pink",
+      "color_code": "360freshpink",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3554/original/shpiiiink.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 8380,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshpink-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 8378,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "60.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshpink-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Melancia",
+      "color_code": "360freshmelanciav3",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1541/original/shmelancia.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 5709,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshmelanciav3-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 5725,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshmelanciav3-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Lilás",
+      "color_code": "360freshlilasv3",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1540/original/shlilais.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 5708,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "10.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshlilasv3-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 5724,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshlilasv3-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Azul Claro",
+      "color_code": "360freshazulclarov3",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/1538/original/shzulclaro.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 5707,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshazulclarov3-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 5723,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": true,
+          "additional_price": "20.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshazulclarov3-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Vinho",
+      "color_code": "360freshvinho",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3881/original/VINHOSsssssssssss.jpg",
+      "sizes": [
+        {
+          "device_id": 2628,
+          "case_device_id": 9774,
+          "size_name": "Fresh 650ml",
+          "size_code": "garrafafresh650ebook",
+          "in_stock": true,
+          "additional_price": "30.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshvinho-garrafafresh650ebook/mockup"
+        },
+        {
+          "device_id": 2629,
+          "case_device_id": 9775,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "50.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshvinho-garrafafresh950ebook/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Marrom",
+      "color_code": "360freshmarrom",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/2214/original/marroms.jpg",
+      "sizes": [
+        {
+          "device_id": 2629,
+          "case_device_id": 9768,
+          "size_name": "Fresh 950ml",
+          "size_code": "garrafafresh950ebook",
+          "in_stock": false,
+          "additional_price": "60.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/garrafatermica-fresh-futurist/360freshmarrom-garrafafresh950ebook/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/garrafa-termica-fresh-futurist/p/5702"
+}

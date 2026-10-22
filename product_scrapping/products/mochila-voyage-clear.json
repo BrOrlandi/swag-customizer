@@ -1,0 +1,54 @@
+{
+  "id": 71050,
+  "sku": "mochila-voyage-clear",
+  "slug": "mochila-voyage-clear",
+  "name": "Mochila Voyage - Clear",
+  "product_type_code": "backpackcd",
+  "description": "Viajar com estilo e praticidade nunca foi tão fácil! A Mochila Voyage chegou para ser sua companheira inseparável, seja na próxima aventura, no trabalho ou em qualquer atividade que você imaginar! 🌍✈️\r\nCom compartimentos internos super práticos, como um bolso com zíper para guardar suas roupas de forma organizada e um com elástico com fivela, ela é perfeita para quem ama manter tudo no lugar! 📦✨ Ah, e tem mais: o bolso interno aveludado comporta notebooks de até 15.6\", garantindo que seu equipamento esteja sempre protegido e pronto pra ação. 💻\r\nQuer praticidade? O bolso frontal facilita aquele acesso rápido e a alça carona te ajuda a prender a mochila na mala de rodinha.  O puxador do zíper do compartimento principal possui espaço para anexar cadeado, protegendo ainda mais os teus pertences. 🙌🎒 E ainda tem um bolso lateral para sua garrafa de água, pra você se manter hidratado durante o dia. 💧🚶‍♀️Praticidade nível máximo, né?! \r\nAgora é só escolher a cor que mais combina com você e partir para a próxima aventura com a Mochila Voyage! 😎🎉\r\n*O cadeado não acompanha o produto.\r\n\r\n<b> Informações Relevantes: </b>\r\n- Bolso  interno com zíper para acomodar roupas\r\n- Compartimento com elástico e fivela para prender melhor os itens dentro da mochila\r\n- Bolso interno que comporta notebook até 15.6\"\r\n- Bolso frontal de fácil acesso\r\n- Alça carona para prender na mala de rodinha\r\n- Bolso lateral porta garrafa\r\n\r\n<b>Material: </b>100% Poliéster\r\n<b>Medidas: </b> 31cm comprimento x 21cm largura x 46cm altura\r\n<b>Litragem: </b> 29,95L (aproximadamente)\r\n<b>Instruções de lavagem / cuidado:</b>\r\nLimpe o seu produto com um pano levemente umedecido, utilizando sabão neutro. Seque os puxadores e a etiqueta com pano seco após a limpeza e deixe a peça secar à sombra. Não deixar de molho, não pôr na máquina de lavar/secar ou secar ao sol, ok? Para deixar sua Mochila Voyage sempre incrível, siga corretamente as instruções para limpeza.\r\n\r\n✨ Cuidados com produtos em cores claras ✨\r\n\r\nNossas bolsas e bolsas térmicas em tons claros 👜🤍 merecem um cuidado especial no dia a dia! Evite o contato ou atrito com tecidos que soltam tinta, como calças jeans 👖 ou roupas escuras 🖤. Isso pode causar manchas permanentes devido à migração de cor. ⚠️ Manchas desse tipo são consideradas mau uso e não estão cobertas pela garantia.\r\n\r\n<b>Garantia:</b> O produto tem uma garantia de 90 dias contra defeitos de fabricação, costura e montagem.\r\n",
+  "price": "379.9",
+  "old_price": "489.9",
+  "default_case_device_id": 8784,
+  "devices": [
+    {
+      "id": 4512,
+      "name": "Mochila Voyage",
+      "code": "mochilavoyage",
+      "brand": "Mochila Voyage"
+    }
+  ],
+  "variants": [
+    {
+      "color_name": "Preta",
+      "color_code": "mochilavoyagepreta",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3965/original/gocase-1612-741-1.jpg",
+      "sizes": [
+        {
+          "device_id": 4512,
+          "case_device_id": 8784,
+          "size_name": "Mochila Voyage",
+          "size_code": "mochilavoyage",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-voyage-clear/mochilavoyagepreta-mochilavoyage/mockup"
+        }
+      ]
+    },
+    {
+      "color_name": "Off White",
+      "color_code": "mochilavoyageoffwhite",
+      "color_swatch_url": "https://ik.imagekit.io/gocase/v3/case_types/3966/original/gocase-1612-721-2.jpg",
+      "sizes": [
+        {
+          "device_id": 4512,
+          "case_device_id": 8785,
+          "size_name": "Mochila Voyage",
+          "size_code": "mochilavoyage",
+          "in_stock": true,
+          "additional_price": "0.0",
+          "mockup_url": "https://ik.imagekit.io/gocase/govinci/mochila-voyage-clear/mochilavoyageoffwhite-mochilavoyage/mockup"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.gocase.com.br/mochila-voyage-clear/p/8784"
+}
