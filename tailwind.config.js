@@ -4,7 +4,7 @@ export default {
     extend: {
       colors: {
         primary: '#32373c',
-        accent: '#e06575',
+        accent: '#045CAB',
         'light-bg': '#f8f9fa',
       },
       fontFamily: {
