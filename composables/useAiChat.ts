@@ -155,10 +155,12 @@ export function useAiChat() {
       if (data.quoteId) quoteId.value = data.quoteId
       if (data.message) messages.value.push(data.message)
     } catch (e: any) {
-      error.value = e.message || 'Erro ao enviar mensagem'
+      error.value = e.data?.message || 'Não foi possível enviar a mensagem. Tente novamente.'
       messages.value.push({
         role: 'assistant',
-        content: 'Desculpe, ocorreu um erro. Pode tentar novamente?',
+        content: e.statusCode === 401 || e.statusCode === 403 || e.status === 401 || e.status === 403
+          ? 'Sua chave OpenAI é inválida ou não tem acesso ao modelo. Abra “Configurar chaves de API de IA” para informar outra chave.'
+          : error.value || 'Não foi possível concluir o pedido. Tente novamente.',
         timestamp: new Date().toISOString(),
       })
     } finally {
@@ -267,10 +269,12 @@ export function useAiChat() {
       if (data.quoteId) quoteId.value = data.quoteId
       if (data.message) messages.value.push(data.message)
     } catch (e: any) {
-      error.value = e.message || 'Erro ao enviar mensagem'
+      error.value = e.data?.message || 'Não foi possível enviar a mensagem. Tente novamente.'
       messages.value.push({
         role: 'assistant',
-        content: 'Desculpe, ocorreu um erro. Pode tentar novamente?',
+        content: e.statusCode === 401 || e.statusCode === 403 || e.status === 401 || e.status === 403
+          ? 'Sua chave OpenAI é inválida ou não tem acesso ao modelo. Abra “Configurar chaves de API de IA” para informar outra chave.'
+          : error.value || 'Não foi possível concluir o pedido. Tente novamente.',
         timestamp: new Date().toISOString(),
       })
     } finally {

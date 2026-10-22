@@ -89,7 +89,7 @@ export function useAiPhoto() {
       const dataUrl = `data:image/png;base64,${watermarkedBase64}`;
       generatedUrl.value = await useFileUpload().upload(dataUrl);
     } catch (e: any) {
-      error.value = e.message || e.data?.message || 'Falha ao gerar imagem';
+      error.value = e.data?.message || 'Não foi possível gerar a imagem. Verifique sua chave e tente novamente.';
       console.error('AI photo generation failed');
     } finally {
       isGenerating.value = false;
