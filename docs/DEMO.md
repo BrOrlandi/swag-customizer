@@ -4,7 +4,7 @@ A [galeria publicada](https://swag-customizer.vercel.app/) reúne dois vídeos d
 
 ## Fluxos gravados
 
-1. **Kit Swag Customizer:** criação de projeto, seleção de Mochila Voyage, Garrafa Térmica Fresh e Capa para Notebook Slim, upload do logo, posicionamento no editor, geração da composição com Gemini e resumo do kit.
+1. **Kit Swag Customizer:** uso da versão monocromática transparente do logo (`public/images/swag-logo-white.svg`/`.png`) para manter o símbolo legível nas impressões branca e preta, criação de projeto, seleção de Mochila Voyage, Garrafa Térmica Fresh e Capa para Notebook Slim, upload do logo, posicionamento no editor, geração da composição com Gemini e resumo do kit.
 2. **Kit conversacional, exemplo Nubank:** pedido de sugestões para dez pessoas, cards do catálogo, escolha de mochila e garrafa, pergunta sobre conservação de temperatura, upload do logo, aprovação dos mockups, prévia e botão de proposta.
 3. **Apresentação:** seis cenas com títulos animados, transições, movimento de painéis e capturas reais dos dois fluxos. A trilha ambiente foi sintetizada localmente para este vídeo, sem amostras de músicas de terceiros.
 
@@ -16,7 +16,7 @@ Os nomes e contatos são demonstrativos. Nenhuma compra ou solicitação comerci
 - Agente real via 9router, modelo `cx/gpt-6.1-sol`, e geração de imagens via chave Google Gemini separada.
 - Chaves configuradas antes de iniciar qualquer gravação. Nenhuma imagem do formulário de credenciais foi capturada.
 - Screencast do navegador via CDP, codificado como H.264 a 12 fps. Os vídeos de fluxo têm cortes nas esperas da IA; a interface, as respostas e as imagens exibidas são reais.
-- O segundo fluxo foi gravado em duas tomadas, retomando o projeto e o histórico local para concluir as aprovações dos mockups. A edição une essas tomadas.
+- O vídeo conversacional mostra digitação visível e percorre a resposta, os cards de produtos, o resumo e as imagens. O GIF no topo do README usa a primeira troca real dessa gravação, com cortes apenas na espera da IA.
 - Dados preexistentes no navegador foram preservados e restaurados ao final. As capturas não incluem cookies, headers de autenticação ou logs de rede.
 - PNGs preservam as capturas; WebPs são as versões usadas na galeria e no README.
 

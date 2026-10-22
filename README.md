@@ -1,5 +1,7 @@
 # Swag Customizer
 
+[![Agente de IA em ação: digitando, recebendo sugestões e escolhendo produtos](public/media/chat-demo.gif)](https://swag-customizer.vercel.app/app/)
+
 <p align="center"><img src="public/images/swag-logo.svg" width="460" alt="Swag Customizer by @BrOrlandi" /></p>
 
 Uma demonstração open source de como integrar IA à experiência de personalização de produtos e à escolha de kits corporativos.
