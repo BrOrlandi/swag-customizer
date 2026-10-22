@@ -4,8 +4,9 @@ import {cp,mkdir,readFile,rm,rename,copyFile} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 const root=fileURLToPath(new URL('../',import.meta.url));
+await rm(path.join(root,'.vercel/output'),{recursive:true,force:true});
 const result=spawnSync(process.execPath,['node_modules/nuxt/bin/nuxt.mjs','generate'],{
- cwd:root,stdio:'inherit',env:{...process.env,NUXT_APP_BASE_URL:'/app/'},
+ cwd:root,stdio:'inherit',env:{...process.env,NUXT_APP_BASE_URL:'/app/',NITRO_PRESET:'static'},
 });
 if(result.status!==0)process.exit(result.status||1);
 const source=path.join(root,'.output/public');
