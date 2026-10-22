@@ -29,5 +29,8 @@ services:
 volumes:
   files:
 networks:
+  default:
+    external: true
+    name: dokploy-network
   dokploy-network:
     external: true
