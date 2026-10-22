@@ -1,6 +1,8 @@
 export function buildGeminiPrompt(productDescriptions: string): string {
   return `A high-resolution, studio-lit product photograph of corporate gift items arranged on a modern office desk. The scene is captured with an 85mm lens at f/4 from an elevated 35-degree angle.
 
+MANUFACTURER BRANDING: The base products are unbranded. Keep manufacturer patches, side tags, caps and surfaces free of manufacturer names or logos. Do not restore any branding removed from the references. Preserve only the user-supplied custom artwork.
+
 PRODUCT CATALOG — render each product at its EXACT real-world dimensions listed below. The size ratios between products must be physically correct:
 ${productDescriptions}
 

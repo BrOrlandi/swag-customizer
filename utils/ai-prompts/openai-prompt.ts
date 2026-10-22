@@ -1,6 +1,8 @@
 export function buildOpenAIPrompt(productDescriptions: string): string {
   return `Generate a single photorealistic product photograph.
 
+MANUFACTURER BRANDING: The base products are unbranded. Keep manufacturer patches, side tags, caps and surfaces free of manufacturer names or logos. Do not restore any branding removed from the references. Preserve only the user-supplied custom artwork.
+
 PRODUCTS (with exact real-world dimensions — respect these sizes precisely):
 ${productDescriptions}
 

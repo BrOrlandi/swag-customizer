@@ -191,7 +191,7 @@ function handleSave(_item: CartItem, dataUrl: string) {
   pendingProductId = null
   pendingVariantId = null
 
-  // Upload to Supabase storage in background, replacing the data URL with a public URL
+  // Upload to temporary backend storage in background, replacing the data URL with a public URL
   if (wizardState.quoteId) {
     cart.uploadPersonalizedImage(pid, vid, dataUrl, wizardState.quoteId)
   }

@@ -252,7 +252,7 @@ export function createToolHandlers(emitBlock: (block: MessageBlock) => void, con
         if (!size?.mockupUrl) continue
         const images = await Promise.all([readImageInput(logoUrl),readImageInput(size.mockupUrl)])
         const render = context.connection?.provider === '9router' ? (prompt: string, images: any) => geminiImage(context.keys.gemini, prompt, images) : (prompt: string, images: any) => openaiImage(context.keys.openai, prompt, images, context.connection)
-        const result = await render(`A primeira imagem é um logo e a segunda é o produto ${product.name} na cor ${item.variant_color_name}. Aplique o logo centralizado no produto de forma natural e proporcional. Preserve o produto e o fundo. Use logo branco sobre produtos pretos para contraste.`,images)
+        const result = await render(`A primeira imagem é um logo e a segunda é o produto ${product.name} na cor ${item.variant_color_name}. Aplique o logo centralizado no produto de forma natural e proporcional. Preserve o produto e o fundo. Mantenha etiquetas, relevos, tampas e superfícies sem a marca original do fabricante; aplique somente o logo enviado pelo usuário. Use logo branco sobre produtos pretos para contraste.`,images)
         const saved = await saveImage(Buffer.from(result.data,'base64'))
         item.personalized_image_url = saved.url
         q.updated_at = new Date().toISOString()
@@ -270,7 +270,7 @@ export function createToolHandlers(emitBlock: (block: MessageBlock) => void, con
         const url = item.personalized_image_url || p?.imageUrl
         if (url) images.push(await readImageInput(url))
       }
-      const prompt = `Crie uma foto profissional de catálogo com estes produtos dispostos juntos sobre superfície neutra: ${q.quote_items.map(i => `${i.product_name} (${i.variant_color_name})`).join(', ')}. Preserve as personalizações das imagens de referência.`
+      const prompt = `Crie uma foto profissional de catálogo com estes produtos dispostos juntos sobre superfície neutra: ${q.quote_items.map(i => `${i.product_name} (${i.variant_color_name})`).join(', ')}. Preserve as personalizações das imagens de referência. Mantenha os produtos sem marcas do fabricante; não restaure marcas nas etiquetas, relevos ou tampas, nem acrescente textos extras.`
       if (!context.keys.gemini && context.connection?.provider === '9router') throw new Error('Configure Google Gemini para gerar a prévia; o 9router está configurado para chat.')
       const result = context.keys.gemini ? await geminiImage(context.keys.gemini,prompt,images) : await openaiImage(context.keys.openai,prompt,images,context.connection)
       const saved = await saveImage(Buffer.from(result.data,'base64'))
