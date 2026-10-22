@@ -19,13 +19,13 @@ function renderRotateControl(
   ctx.arc(0, 0, size / 2, 0, Math.PI * 2);
   ctx.fillStyle = '#fff0';
   ctx.fill();
-  ctx.strokeStyle = '#e06575';
+  ctx.strokeStyle = '#045cab';
   ctx.lineWidth = 1.5;
   ctx.stroke();
 
   // Rotation arrow arc
   ctx.beginPath();
-  ctx.strokeStyle = '#e06575';
+  ctx.strokeStyle = '#045cab';
   ctx.lineWidth = 2;
   ctx.lineCap = 'round';
   const arcRadius = 6;
@@ -46,7 +46,7 @@ function renderRotateControl(
     : tipAngle - Math.PI * 0.72;
 
   ctx.beginPath();
-  ctx.fillStyle = '#e06575';
+  ctx.fillStyle = '#045cab';
   ctx.moveTo(tipX, tipY);
   ctx.lineTo(
     tipX + Math.cos(headAngle - 0.5) * headLen,
@@ -171,9 +171,9 @@ export function useFabric() {
       lockUniScaling: true,
       lockScalingFlip: true,
       cornerSize: 12,
-      cornerColor: '#e06575',
-      cornerStrokeColor: '#e06575',
-      borderColor: '#e06575',
+      cornerColor: '#045cab',
+      cornerStrokeColor: '#045cab',
+      borderColor: '#045cab',
       transparentCorners: false,
       padding: 8,
     });

@@ -6,6 +6,30 @@ Uma demonstração open source de como integrar IA à experiência de personaliz
 
 Criado originalmente como projeto de candidatura a uma vaga na Gocase, este projeto foi adaptado para funcionar sem login, banco de dados ou conta compartilhada de IA. A marca Swag Customizer é fictícia e o projeto é independente, sem vínculo ou endosso da Gocase.
 
+## Veja a plataforma em ação
+
+[**Abrir a galeria e assistir aos três vídeos**](https://swag-customizer.vercel.app/demo/index.html)
+
+[![Apresentação do Swag Customizer](public/media/screenshots/motion-poster.jpg)](https://swag-customizer.vercel.app/demo/index.html)
+
+| Vídeo | O que mostra |
+| --- | --- |
+| [Montando um kit Swag Customizer](https://swag-customizer.vercel.app/media/videos/01-kit-swag.mp4) | Produtos, aplicação do logo, editor visual, prévia com IA e resumo. |
+| [Montando um kit pelo chat — exemplo Nubank](https://swag-customizer.vercel.app/media/videos/02-chat-nubank.mp4) | Sugestões do catálogo, dúvidas, quantidades, envio do logo, mockups e proposta. |
+| [Apresentação com motion graphics](https://swag-customizer.vercel.app/media/videos/03-apresentacao-motion.mp4) | Os dois fluxos apresentados com animações e capturas reais da plataforma. |
+
+As gravações usam respostas reais do agente e imagens geradas com Gemini. As esperas de processamento foram reduzidas na edição. As chaves foram configuradas antes das gravações e não aparecem no material. O exemplo Nubank é demonstrativo e independente, sem vínculo ou endosso da marca.
+
+| Monte seu kit | Personalize os produtos |
+| --- | --- |
+| ![Catálogo e produtos do kit](public/media/screenshots/02-montando-kit.webp) | ![Logo Swag Customizer na mochila](public/media/screenshots/03-personalizando-swag.webp) |
+| **Receba sugestões do agente** | **Confira o orçamento na conversa** |
+| ![Sugestões do agente com cards de produtos](public/media/screenshots/07-chat-sugestoes.webp) | ![Itens e quantidades no chat](public/media/screenshots/13-chat-proposta-final.webp) |
+| **Kit Swag Customizer gerado com IA** | **Exemplo Nubank gerado com IA** |
+| ![Composição do kit Swag Customizer](public/media/screenshots/swag-kit.webp) | ![Composição demonstrativa Nubank](public/media/screenshots/nubank-kit.webp) |
+
+Detalhes das capturas e da renderização: [docs/DEMO.md](docs/DEMO.md).
+
 ## Duas experiências de IA
 
 - **Personalização com IA:** aplique sua marca em produtos, edite mockups visualmente e gere uma composição do kit usando OpenAI ou Google Gemini.
