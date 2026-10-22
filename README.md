@@ -25,6 +25,8 @@ Frontend: https://swag-customizer.vercel.app
 
 As chaves ficam apenas na memória da página e são enviadas por HTTPS ao backend em cada processamento. Recarregar a página as apaga. Não são gravadas no localStorage, em arquivos, logs ou backups.
 
+## Provedor e modelo do agente
+
 ## Dados e arquivos
 
 | Conteúdo | Onde fica | Prazo |

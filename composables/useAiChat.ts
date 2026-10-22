@@ -75,7 +75,7 @@ export function useAiChat() {
   }
 
   function openChat() {
-    if (!useApiKeys().hasOpenAI.value) { useApiKeys().settingsOpen.value = true; return }
+    if (!useApiKeys().hasChat.value) { useApiKeys().settingsOpen.value = true; return }
     isOpen.value = true
     isMinimized.value = false
 
@@ -126,7 +126,7 @@ export function useAiChat() {
   async function sendMessage(content: string, blocks?: MessageBlock[]) {
     if (!content.trim() || isLoading.value) return
 
-    if (!useApiKeys().hasOpenAI.value) { useApiKeys().settingsOpen.value = true; return }
+    if (!useApiKeys().hasChat.value) { useApiKeys().settingsOpen.value = true; return }
     // Add user message
     const userMessage: ChatMessage = {
       role: 'user',
@@ -159,7 +159,7 @@ export function useAiChat() {
       messages.value.push({
         role: 'assistant',
         content: e.statusCode === 401 || e.statusCode === 403 || e.status === 401 || e.status === 403
-          ? 'Sua chave OpenAI é inválida ou não tem acesso ao modelo. Abra “Configurar chaves de API de IA” para informar outra chave.'
+          ? 'Sua chave de IA é inválida ou não tem acesso ao modelo selecionado. Abra “Configurar chaves de API de IA” para informar outra chave.'
           : error.value || 'Não foi possível concluir o pedido. Tente novamente.',
         timestamp: new Date().toISOString(),
       })
@@ -273,7 +273,7 @@ export function useAiChat() {
       messages.value.push({
         role: 'assistant',
         content: e.statusCode === 401 || e.statusCode === 403 || e.status === 401 || e.status === 403
-          ? 'Sua chave OpenAI é inválida ou não tem acesso ao modelo. Abra “Configurar chaves de API de IA” para informar outra chave.'
+          ? 'Sua chave de IA é inválida ou não tem acesso ao modelo selecionado. Abra “Configurar chaves de API de IA” para informar outra chave.'
           : error.value || 'Não foi possível concluir o pedido. Tente novamente.',
         timestamp: new Date().toISOString(),
       })

@@ -19,7 +19,7 @@ export function requestKeys(event: H3Event) {
   // Environment keys are opt-in for LOCAL development and never enabled in production.
   const local = process.env.NODE_ENV !== 'production' && String(c.allowEnvKeys) === 'true'
   return {
-    openai: getHeader(event, 'x-openai-key')?.trim() || (local ? String(c.openaiApiKey) : ''),
+    openai: getHeader(event, 'x-openai-key')?.trim() || (local && getHeader(event, 'x-chat-provider') !== '9router' ? String(c.openaiApiKey) : ''),
     gemini: getHeader(event, 'x-gemini-key')?.trim() || (local ? String(c.geminiApiKey) : ''),
   }
 }
@@ -29,8 +29,8 @@ export function requireKey(key: string) {
 }
 export function providerError(error: unknown): never {
   const status = Number((error as any)?.status || (error as any)?.statusCode)
-  const message = status === 401 || status === 403 ? 'Chave inválida ou sem acesso ao modelo.' : status === 429 ? 'Limite de uso ou saldo do provedor atingido.' : 'Não foi possível concluir o processamento de IA. Verifique sua chave, o acesso ao modelo e tente novamente.'
-  throw createError({ statusCode: [400,401,403,429].includes(status) ? status : 502, message })
+  const message = status === 404 ? 'Modelo indisponível neste provedor. Carregue os modelos e selecione outro.' : status === 401 || status === 403 ? 'Chave inválida ou sem acesso ao modelo.' : status === 429 ? 'Limite de uso ou saldo do provedor atingido.' : 'Não foi possível concluir o processamento de IA. Verifique sua chave, o acesso ao modelo e tente novamente.'
+  throw createError({ statusCode: [400,401,403,404,429].includes(status) ? status : 502, message })
 }
 let active = 0
 export async function processAI<T>(work: () => Promise<T>) {

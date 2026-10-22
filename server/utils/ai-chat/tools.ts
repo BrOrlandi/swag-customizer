@@ -1,4 +1,5 @@
 import type OpenAI from 'openai'
+import type { OpenAIConnection } from '../openai-connection'
 import { randomUUID } from 'node:crypto'
 import { searchProducts, getProductById } from './products-loader'
 import type { ProductCardData, MessageBlock } from '~/types/ai-chat'
@@ -6,7 +7,7 @@ import type { StoredQuote, QuoteItem } from '~/types/quote'
 import { openaiImage, geminiImage } from '../ai-images'
 import { readImageInput } from '../image-input'
 import { saveImage } from '../file-store'
-export interface AgentContext { quote: StoredQuote | null; keys: { openai: string; gemini: string } }
+export interface AgentContext { quote: StoredQuote | null; keys: { openai: string; gemini: string }; connection?: OpenAIConnection }
 function productToCardData(p: any): ProductCardData { return { ...p, variants: p.variants } }
 // OpenAI tool definitions
 export const TOOL_DEFINITIONS: OpenAI.Chat.ChatCompletionTool[] = [
@@ -240,7 +241,8 @@ export function createToolHandlers(emitBlock: (block: MessageBlock) => void, con
       emitBlock({ type: 'product_cards', products: products.map(productToCardData) }); return JSON.stringify(products)
     },
     generate_mockup: async () => {
-      if (!context.keys.openai) throw new Error('Configure uma chave OpenAI para gerar mockups.')
+      if (context.connection?.provider === '9router' && !context.keys.gemini) throw new Error('Configure a chave Google Gemini para gerar mockups; o 9router está configurado para chat.')
+      if (!context.keys.openai && !context.keys.gemini) throw new Error('Configure uma chave de imagem para gerar mockups.')
       const q = quote(); const logoUrl = q.logo_processed_url || q.logo_url
       if (!logoUrl) { emitBlock({ type: 'logo_upload', quoteId: q.id }); return 'Peça ao usuário para enviar o logo pelo botão exibido.' }
       for (const item of q.quote_items) {
@@ -249,7 +251,8 @@ export function createToolHandlers(emitBlock: (block: MessageBlock) => void, con
         const size = product.variants.find(v => v.id === item.variant_id)?.sizes.find(s => s.id === item.size_id)
         if (!size?.mockupUrl) continue
         const images = await Promise.all([readImageInput(logoUrl),readImageInput(size.mockupUrl)])
-        const result = await openaiImage(context.keys.openai, `A primeira imagem é um logo e a segunda é o produto ${product.name} na cor ${item.variant_color_name}. Aplique o logo centralizado no produto de forma natural e proporcional. Preserve o produto e o fundo. Use logo branco sobre produtos pretos para contraste.`,images)
+        const render = context.connection?.provider === '9router' ? (prompt: string, images: any) => geminiImage(context.keys.gemini, prompt, images) : (prompt: string, images: any) => openaiImage(context.keys.openai, prompt, images, context.connection)
+        const result = await render(`A primeira imagem é um logo e a segunda é o produto ${product.name} na cor ${item.variant_color_name}. Aplique o logo centralizado no produto de forma natural e proporcional. Preserve o produto e o fundo. Use logo branco sobre produtos pretos para contraste.`,images)
         const saved = await saveImage(Buffer.from(result.data,'base64'))
         item.personalized_image_url = saved.url
         q.updated_at = new Date().toISOString()
@@ -268,7 +271,8 @@ export function createToolHandlers(emitBlock: (block: MessageBlock) => void, con
         if (url) images.push(await readImageInput(url))
       }
       const prompt = `Crie uma foto profissional de catálogo com estes produtos dispostos juntos sobre superfície neutra: ${q.quote_items.map(i => `${i.product_name} (${i.variant_color_name})`).join(', ')}. Preserve as personalizações das imagens de referência.`
-      const result = context.keys.gemini ? await geminiImage(context.keys.gemini,prompt,images) : await openaiImage(context.keys.openai,prompt,images)
+      if (!context.keys.gemini && context.connection?.provider === '9router') throw new Error('Configure Google Gemini para gerar a prévia; o 9router está configurado para chat.')
+      const result = context.keys.gemini ? await geminiImage(context.keys.gemini,prompt,images) : await openaiImage(context.keys.openai,prompt,images,context.connection)
       const saved = await saveImage(Buffer.from(result.data,'base64'))
       q.ai_photo_url = saved.url; q.updated_at = new Date().toISOString()
       emitBlock({ type: 'image', url: saved.url, alt: 'Prévia do kit' }); return 'Prévia gerada.'

@@ -1,4 +1,5 @@
-import OpenAI from 'openai'
+import type OpenAI from 'openai'
+import { openAIClient } from '../openai-connection'
 import { SYSTEM_PROMPT } from './system-prompt'
 import { createToolHandlers, TOOL_DEFINITIONS, type AgentContext } from './tools'
 import type { ChatMessage, MessageBlock } from '~/types/ai-chat'
@@ -11,7 +12,7 @@ export async function runAgent(
 ): Promise<string> {
   const config = useRuntimeConfig()
 
-  const openai = new OpenAI({ apiKey: context.keys.openai, maxRetries: 0, timeout: 240000 })
+  const openai = openAIClient(context.keys.openai, context.connection)
   const toolHandlers = createToolHandlers(emitBlock, context)
   const quoteId = context.quote?.id
 
@@ -46,7 +47,8 @@ export async function runAgent(
     iterations++
 
     const response = await openai.chat.completions.create({
-      model: String(config.openaiChatModel),
+      model: context.connection?.chatModel || String(config.openaiChatModel),
+      stream: false,
       messages: openaiMessages,
       tools: TOOL_DEFINITIONS,
       temperature: 0.7,
