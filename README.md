@@ -8,9 +8,9 @@ Criado originalmente como projeto de candidatura a uma vaga na Gocase, este proj
 
 ## Veja a plataforma em ação
 
-[**Abrir a galeria e assistir aos três vídeos**](https://swag-customizer.vercel.app/demo/index.html)
+[**Abrir a galeria e assistir aos três vídeos**](https://swag-customizer.vercel.app/)
 
-[![Apresentação do Swag Customizer](public/media/screenshots/motion-poster.jpg)](https://swag-customizer.vercel.app/demo/index.html)
+[![Apresentação do Swag Customizer](public/media/screenshots/motion-poster.jpg)](https://swag-customizer.vercel.app/)
 
 | Vídeo | O que mostra |
 | --- | --- |
@@ -39,7 +39,9 @@ O editor manual usa Fabric.js e a remoção de fundo roda no navegador. O catál
 
 ## Experimentar
 
-Frontend: https://swag-customizer.vercel.app
+Apresentação: https://swag-customizer.vercel.app/
+
+Plataforma: https://swag-customizer.vercel.app/app/
 
 1. Crie um kit e selecione os produtos.
 2. Envie um logo PNG/JPEG/WebP e personalize os mockups.
@@ -104,7 +106,7 @@ Sem as duas variáveis de e-mail, nenhum e-mail é enviado. A proposta continua 
 
 ## Deploy
 
-- **Frontend:** Vercel, build `npm run generate`, saída `.output/public`. Configure `NUXT_PUBLIC_API_BASE` com a URL do backend. `vercel.json` oferece fallback SPA para acesso direto às rotas.
+- **Frontend:** Vercel, build `npm run generate:site`, saída `.output/site`. A apresentação fica em `/` e a aplicação em `/app/`. Configure `NUXT_PUBLIC_API_BASE` com a URL do backend. `vercel.json` oferece fallback SPA para acesso direto às rotas de `/app`, mantendo mídias e apresentação como arquivos estáticos. O backend Docker mantém suas rotas `/api` na raiz.
 - **Backend:** Docker/Dokploy com `docker-compose.yml`. Conecte a rede externa `dokploy-network`, configure um domínio HTTPS para o serviço `backend` na porta 3000 e preserve o volume `files`.
 - Não configure chaves OpenAI/Gemini do proprietário no deploy público. Os visitantes fornecem as próprias.
 - No Dokploy, mantenha logs de corpo/headers desligados. Nunca registre `x-openai-key` ou `x-gemini-key` no proxy.

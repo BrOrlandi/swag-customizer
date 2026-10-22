@@ -1,11 +1,15 @@
 {
   "framework": null,
-  "buildCommand": "npm run generate",
-  "outputDirectory": ".output/public",
+  "buildCommand": "npm run generate:site",
+  "outputDirectory": ".output/site",
   "rewrites": [
     {
-      "source": "/((?!_nuxt/|images/|data/|media/|demo(?:/|$)|favicon).*)",
-      "destination": "/index.html"
+      "source": "/app",
+      "destination": "/app/index.html"
+    },
+    {
+      "source": "/app/((?!_nuxt/|images/|data/|favicon).*)",
+      "destination": "/app/index.html"
     }
   ],
   "headers": [
@@ -21,6 +25,23 @@
           "value": "strict-origin-when-cross-origin"
         }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/demo/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/edit",
+      "destination": "/app/edit",
+      "permanent": true
+    },
+    {
+      "source": "/quote/:path*",
+      "destination": "/app/quote/:path*",
+      "permanent": true
     }
   ]
 }

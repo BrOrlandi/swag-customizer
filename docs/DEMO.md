@@ -1,6 +1,6 @@
 # Demonstrações do Swag Customizer
 
-A [galeria publicada](https://swag-customizer.vercel.app/demo/index.html) reúne dois vídeos de uso e uma apresentação com motion graphics. Os arquivos estão em `public/media` e são servidos pelo frontend, sem depender do prazo de expiração do storage temporário da API.
+A [galeria publicada](https://swag-customizer.vercel.app/) reúne dois vídeos de uso e uma apresentação com motion graphics. Os arquivos estão em `public/media` e são servidos pelo frontend, sem depender do prazo de expiração do storage temporário da API.
 
 ## Fluxos gravados
 
