@@ -75,7 +75,6 @@ export function useAiChat() {
   }
 
   function openChat() {
-    if (!useApiKeys().hasChat.value) { useApiKeys().settingsOpen.value = true; return }
     isOpen.value = true
     isMinimized.value = false
 
@@ -126,7 +125,6 @@ export function useAiChat() {
   async function sendMessage(content: string, blocks?: MessageBlock[]) {
     if (!content.trim() || isLoading.value) return
 
-    if (!useApiKeys().hasChat.value) { useApiKeys().settingsOpen.value = true; return }
     // Add user message
     const userMessage: ChatMessage = {
       role: 'user',

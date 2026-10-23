@@ -74,12 +74,17 @@
         />
 
         <AiChatInput
+          v-if="hasChat"
           ref="chatInputRef"
           :disabled="isLoading"
           :show-upload="!!quoteId"
           @send="handleSend"
           @upload="handleUpload"
         />
+        <div v-else class="border-t border-gray-200 p-4 bg-blue-50/50">
+          <p class="text-xs text-gray-500 mb-3">Configure sua chave de API para conversar com o agente.</p>
+          <button type="button" class="w-full rounded-xl bg-primary text-white px-4 py-3 text-sm font-semibold hover:opacity-90" @click="settingsOpen = true">Configurar chaves de API de IA</button>
+        </div>
       </div>
     </Transition>
   </Teleport>
@@ -103,6 +108,10 @@ const {
   sendMessage,
   handleLogoUpload,
 } = useAiChat()
+
+const { hasChat, settingsOpen } = useApiKeys()
+
+watch(hasChat, ready => { if (ready) nextTick(() => chatInputRef.value?.focus()) })
 
 const chatInputRef = ref<{ focus: () => void } | null>(null)
 

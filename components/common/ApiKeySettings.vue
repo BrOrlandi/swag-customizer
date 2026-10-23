@@ -3,7 +3,7 @@
     <div v-if="settingsOpen" class="fixed inset-0 z-[100] bg-black/50 flex items-center justify-center p-4" @click.self="settingsOpen = false">
       <section role="dialog" aria-modal="true" aria-labelledby="keys-title" class="bg-white rounded-2xl p-6 w-full max-w-lg shadow-xl max-h-[90vh] overflow-y-auto">
         <h2 id="keys-title" class="text-xl font-bold text-primary">Configurar chaves de API de IA</h2>
-        <p class="text-sm text-gray-500 mt-3">As chaves ficam nesta sessão e são enviadas por HTTPS ao backend e ao provedor escolhido apenas para processar seus pedidos. Não são salvas.</p>
+        <p class="text-sm text-gray-500 mt-3">As chaves ficam salvas no localStorage deste navegador e são enviadas por HTTPS ao backend e ao provedor escolhido apenas para processar seus pedidos. Use “Apagar chaves” para removê-las.</p>
         <form class="space-y-4 mt-5" @submit.prevent="save">
           <label class="block text-sm font-medium">Provedor do agente
             <select v-model="draftProvider" class="mt-1 w-full border rounded-lg px-3 py-2" @change="changeProvider">
@@ -29,7 +29,8 @@
           <label class="block text-sm font-medium">Google Gemini — imagens
             <input v-model="draftGemini" type="password" autocomplete="off" spellcheck="false" class="mt-1 w-full border rounded-lg px-3 py-2" placeholder="Sua chave Gemini" />
           </label>
-          <p class="text-xs text-gray-500">Você pode escolher um modelo da lista ou digitar seu ID exato. O uso das APIs depende das permissões e limites do provedor. Recarregar a página apaga as chaves.</p>
+          <p class="text-xs text-gray-500">Você pode escolher um modelo da lista ou digitar seu ID exato. O uso das APIs depende das permissões e limites do provedor. As chaves continuam disponíveis ao recarregar a página.</p>
+          <p v-if="storageError" role="alert" class="text-sm text-red-600">{{ storageError }}</p>
           <div class="flex justify-between gap-3">
             <button type="button" class="text-sm text-red-600" @click="clearKeys">Apagar chaves</button>
             <div class="flex gap-3"><button type="button" class="text-sm" @click="settingsOpen = false">Cancelar</button><button class="bg-primary text-white rounded-lg px-4 py-2 text-sm">Aplicar</button></div>
@@ -40,7 +41,7 @@
   </Teleport>
 </template>
 <script setup lang="ts">
-const { openaiKey, geminiKey, chatProvider, chatModel, imageModel, settingsOpen, clear } = useApiKeys()
+const { openaiKey, geminiKey, chatProvider, chatModel, imageModel, settingsOpen, clear, persist, storageError } = useApiKeys()
 const draftOpenai = ref('')
 const draftGemini = ref('')
 const draftProvider = ref<'openai'|'9router'>('openai')
@@ -76,7 +77,7 @@ async function loadModels() {
   } finally { if (version === requestVersion) loadingModels.value = false }
 }
 function save() {
-  openaiKey.value = draftOpenai.value.trim(); geminiKey.value = draftGemini.value.trim(); chatProvider.value = draftProvider.value; chatModel.value = draftModel.value.trim(); imageModel.value = draftImageModel.value.trim(); settingsOpen.value = false
+  openaiKey.value = draftOpenai.value.trim(); geminiKey.value = draftGemini.value.trim(); chatProvider.value = draftProvider.value; chatModel.value = draftModel.value.trim(); imageModel.value = draftImageModel.value.trim(); if (persist()) settingsOpen.value = false
 }
 function clearKeys() { clear(); draftOpenai.value = ''; draftGemini.value = ''; models.value = []; modelMessage.value = '' }
 </script>

@@ -1,6 +1,6 @@
 # Segurança
 
-Aplicação demonstrativa aberta, sem login. Projetos e conversas ficam no localStorage. Dados enviados para IA são processados pelos provedores selecionados.
+Aplicação demonstrativa aberta, sem login. Projetos, conversas e chaves pessoais de IA ficam no localStorage do navegador. As chaves podem ser removidas no painel de configuração e não são incluídas nos backups de projetos. Dados enviados para IA são processados pelos provedores selecionados.
 
 - Nunca gravar ou registrar chaves pessoais, headers de IA, conteúdo de `.env` ou corpos de requisições no backend/proxy.
 - Chaves enviadas em headers só podem seguir para endpoints fixos dos provedores. Não aceitar URLs de API arbitrárias.

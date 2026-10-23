@@ -51,7 +51,7 @@ Plataforma: https://swag-customizer.vercel.app/app/
 4. Informe sua chave OpenAI (agente e imagens) e/ou Google Gemini (imagens). O uso é cobrado pelo respectivo provedor e depende do acesso ao modelo.
 5. Finalize o projeto, exporte PDF ou faça backup dos dados pelo botão **Exportar projetos**.
 
-As chaves ficam apenas na memória da página e são enviadas por HTTPS ao backend em cada processamento. Recarregar a página as apaga. Não são gravadas no localStorage, em arquivos, logs ou backups.
+As chaves ficam no localStorage deste navegador e são restauradas ao recarregar a página. Use **Apagar chaves** no painel para removê-las. São enviadas por HTTPS ao backend em cada processamento; o servidor não as grava em arquivos ou logs, e os backups de projetos não incluem chaves.
 
 ## Provedor e modelo do agente
 
@@ -60,6 +60,7 @@ As chaves ficam apenas na memória da página e são enviadas por HTTPS ao backe
 | Conteúdo | Onde fica | Prazo |
 | --- | --- | --- |
 | Projetos, orçamentos e itens | localStorage deste navegador | Até limpar os dados do site |
+| Chaves pessoais e modelos de IA | localStorage deste navegador | Até apagar as chaves ou limpar os dados do site |
 | Conversa com o agente | localStorage deste navegador | Até encerrar/limpar a conversa |
 | Chaves pessoais de IA | Memória da página e do pedido no backend | Apenas durante o uso/processamento |
 | Logos, mockups e imagens geradas | Volume de arquivos do backend Docker | Seis meses desde a criação do arquivo |
