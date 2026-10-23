@@ -16,7 +16,7 @@ Os nomes e contatos são demonstrativos. Nenhuma compra ou solicitação comerci
 - Agente real com API compatível com OpenAI, e geração de imagens via chave Google Gemini separada.
 - Chaves configuradas antes de iniciar qualquer gravação. Nenhuma imagem do formulário de credenciais foi capturada.
 - Screencast do navegador via CDP, codificado como H.264 a 12 fps. Os vídeos de fluxo têm cortes nas esperas da IA; a interface, as respostas e as imagens exibidas são reais.
-- O vídeo conversacional mostra digitação visível e percorre a resposta, os cards de produtos, o resumo e as imagens. O GIF no topo do README usa a primeira troca real dessa gravação, com cortes apenas na espera da IA.
+- O vídeo conversacional mostra digitação visível e percorre a resposta, os cards de produtos, o resumo e as imagens. O GIF no topo do README foi gravado separadamente com João da Silva, do RH da empresa ACME, e o contato demonstrativo `joao@acme.com`. Mostra digitação, resposta real e sugestões de produtos, com cortes apenas na espera da IA.
 - Dados preexistentes no navegador foram preservados e restaurados ao final. As capturas não incluem cookies, headers de autenticação ou logs de rede.
 - PNGs preservam as capturas; WebPs são as versões usadas na galeria e no README.
 
