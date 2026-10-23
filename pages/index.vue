@@ -3,13 +3,7 @@
     <!-- Header -->
     <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
       <h1 class="text-2xl font-bold text-primary">Orçamentos</h1>
-      <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
-        <AiChatButton />
-        <BaseButton variant="accent" size="lg" @click="navigateTo('/edit')">
-          <Icon name="heroicons:plus" class="w-5 h-5 mr-2" />
-          Criar Novo Kit
-        </BaseButton>
-      </div>
+      <KitCreationActions v-if="quotes.length > 0" />
     </div>
 
     <p class="text-sm text-gray-500 mb-5">Monte seu kit com o editor ou peça ajuda ao agente de IA. Seus projetos ficam neste navegador.</p>
@@ -28,6 +22,7 @@
       <Icon name="heroicons:inbox" class="w-16 h-16 mx-auto text-gray-300 mb-4" />
       <p class="text-gray-500 text-lg">Nenhum orçamento criado ainda.</p>
       <p class="text-gray-400 mt-1">Comece criando um novo kit!</p>
+      <KitCreationActions class="mt-6 mx-auto w-fit max-w-full" />
     </div>
 
     <!-- Quotes grid -->

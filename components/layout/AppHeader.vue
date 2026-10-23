@@ -6,6 +6,7 @@
         <Icon name="ph:github-logo-fill" class="w-5 h-5" />
         Código fonte
       </a>
+      <ContactSolution />
       <button class="border border-blue-200 bg-blue-50 text-primary rounded-lg px-3 py-2 text-xs sm:text-sm font-medium" @click="settingsOpen = true">Configurar chaves de API de IA</button>
     </div>
   </header>
