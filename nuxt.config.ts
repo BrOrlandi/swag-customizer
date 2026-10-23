@@ -13,6 +13,7 @@ export default defineNuxtConfig({
     publicUrl: '',
     allowedOrigins: 'http://localhost:3000,http://localhost:3100',
     openaiChatModel: 'gpt-4o',
+    nineRouterBaseUrl: '',
     nineRouterChatModel: 'cx/gpt-6.1-sol',
     openaiImageModel: 'gpt-image-1.5',
     geminiImageModel: 'gemini-3-pro-image',

@@ -10,7 +10,7 @@
               <option value="openai">OpenAI</option><option value="9router">9router</option>
             </select>
           </label>
-          <p v-if="draftProvider === '9router'" class="text-xs text-gray-500">Endpoint: https://gateway.example.com/v1. Para imagens, configure Google Gemini abaixo.</p>
+          <p v-if="draftProvider === '9router'" class="text-xs text-gray-500">Para imagens, configure Google Gemini abaixo.</p>
           <label class="block text-sm font-medium">{{ draftProvider === '9router' ? 'Chave 9router — agente' : 'Chave OpenAI — agente e imagens' }}
             <input v-model="draftOpenai" type="password" autocomplete="off" spellcheck="false" class="mt-1 w-full border rounded-lg px-3 py-2" :placeholder="draftProvider === '9router' ? 'Sua chave 9router' : 'Sua chave OpenAI'" />
           </label>

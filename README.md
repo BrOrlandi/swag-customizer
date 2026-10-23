@@ -55,6 +55,8 @@ As chaves ficam no localStorage deste navegador e são restauradas ao recarregar
 
 ## Provedor e modelo do agente
 
+No painel de chaves, informe sua chave OpenAI e clique em **Carregar modelos**. A lista é consultada no backend usando a chave configurada. Você pode escolher um ID da lista ou digitar o ID exato; o modelo de imagem da OpenAI também é configurável. Imagens também podem ser geradas com uma chave Google Gemini separada.
+
 ## Dados e arquivos
 
 | Conteúdo | Onde fica | Prazo |

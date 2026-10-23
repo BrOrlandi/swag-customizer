@@ -13,7 +13,7 @@ Os nomes e contatos são demonstrativos. Nenhuma compra ou solicitação comerci
 ## Como as capturas foram feitas
 
 - Frontend de produção, em Chromium remoto pelo browser-proxy, viewport de 1920 × 1080.
-- Agente real via 9router, modelo `cx/gpt-6.1-sol`, e geração de imagens via chave Google Gemini separada.
+- Agente real com API compatível com OpenAI, e geração de imagens via chave Google Gemini separada.
 - Chaves configuradas antes de iniciar qualquer gravação. Nenhuma imagem do formulário de credenciais foi capturada.
 - Screencast do navegador via CDP, codificado como H.264 a 12 fps. Os vídeos de fluxo têm cortes nas esperas da IA; a interface, as respostas e as imagens exibidas são reais.
 - O vídeo conversacional mostra digitação visível e percorre a resposta, os cards de produtos, o resumo e as imagens. O GIF no topo do README usa a primeira troca real dessa gravação, com cortes apenas na espera da IA.
